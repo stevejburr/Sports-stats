@@ -1,0 +1,2157 @@
+rank,player,teams,matches,goals,penalties,rate
+1,Lionel Messi *,FC Barcelona,451,417,51,0.92
+2,Cristiano Ronaldo *,Real Madrid,292,311,61,1.07
+3,Zarra,Athletic Bilbao,277,251,8,0.91
+4,Hugo Sánchez,"Real Madrid
+																				Rayo Vallecano
+																				Atlético Madrid",347,234,55,0.67
+5,Raúl,Real Madrid,550,228,9,0.41
+6,Alfredo Di Stéfano,"Espanyol Barcelona
+																				Real Madrid",329,227,15,0.69
+7,César Rodríguez,"FC Barcelona
+																				Elche CF
+																				Granada CF
+																				CD Leonesa",353,225,18,0.64
+8,Quini,"FC Barcelona
+																				Sporting Gijón",448,219,30,0.49
+9,Pahiño,"Deportivo La Coruña
+																				Real Madrid
+																				Celta Vigo",278,210,7,0.76
+10,Mundo,"Valencia CF
+																				CD Alcoyano",231,195,2,0.84
+11,Santillana,Real Madrid,461,186,2,0.40
+12,David Villa *,"Real Zaragoza
+																				FC Barcelona
+																				Valencia CF
+																				Atlético Madrid",352,185,30,0.53
+13,Arza,Sevilla FC,347,181,9,0.52
+14,Gorostiza,"Athletic Bilbao
+																				Valencia CF",256,178,10,0.70
+15,Samuel Eto'o *,"RCD Mallorca
+																				FC Barcelona",280,162,17,0.58
+16,Luis Aragonés,"Real Betis
+																				Atlético Madrid
+																				Real Oviedo",360,160,25,0.44
+17,Aduriz *,"RCD Mallorca
+																				Athletic Bilbao
+																				Valencia CF",427,157,24,0.37
+18,Ferenc Puskás,Real Madrid,180,156,21,0.87
+19,Julio Salinas,"Deportivo La Coruña
+																				Athletic Bilbao
+																				FC Barcelona
+																				CD Alavés
+																				Atlético Madrid
+																				Sporting Gijón",417,152,3,0.36
+20,Escudero,Atlético Madrid,287,150,12,0.52
+21,Karim Benzema *,Real Madrid,311,148,5,0.48
+22,Dani,Athletic Bilbao,303,147,34,0.49
+,Raúl Tamudo,"Espanyol Barcelona
+																				Real Sociedad
+																				Rayo Vallecano",407,147,27,0.36
+24,Igoa,"Real Sociedad
+																				Valencia CF",284,141,4,0.50
+25,Badenes,"Real Valladolid
+																				FC Barcelona
+																				Valencia CF
+																				Sporting Gijón
+																				CD Castellón",201,139,1,0.69
+,Bakero,"Real Sociedad
+																				FC Barcelona",483,139,1,0.29
+27,Ladislav Kubala,"Espanyol Barcelona
+																				FC Barcelona",215,138,27,0.64
+28,Araujo,Sevilla FC,205,136,0,0.66
+29,Antoine Griezmann *,"Real Sociedad
+																				Atlético Madrid",319,134,6,0.42
+,Panizo,Athletic Bilbao,325,134,11,0.41
+31,Satrústegui,Real Sociedad,297,133,0,0.45
+32,Murillo,"Real Valladolid
+																				Real Zaragoza",227,132,6,0.58
+33,Luis Suárez *,FC Barcelona,163,131,8,0.80
+,Urzáiz,"Espanyol Barcelona
+																				Athletic Bilbao
+																				Celta Vigo
+																				Rayo Vallecano
+																				Albacete",442,131,7,0.30
+35,Ansola,"Real Sociedad
+																				Valencia CF
+																				Real Betis
+																				Real Oviedo",323,130,0,0.40
+36,Luboslav Penev,"Valencia CF
+																				Celta Vigo
+																				Atlético Madrid
+																				SD Compostela",305,129,44,0.42
+37,Diego Forlán,"Villarreal CF
+																				Atlético Madrid",240,128,14,0.53
+,Gento,"Real Madrid
+																				Racing Santander",438,128,16,0.29
+39,Arieta,Athletic Bilbao,248,127,0,0.51
+,Campos,"Atlético Madrid
+																				Sporting Gijón",205,127,4,0.62
+41,Mario Kempes,"Valencia CF
+																				Hércules CF",222,126,26,0.57
+42,Herrerita,"FC Barcelona
+																				Real Oviedo",229,125,1,0.55
+43,Epi,"Real Sociedad
+																				Valencia CF",334,124,6,0.37
+,Morientes,"Real Zaragoza
+																				Valencia CF
+																				Real Madrid
+																				Albacete",335,124,0,0.37
+45,Butragueño,Real Madrid,341,123,4,0.36
+,Pirri,Real Madrid,417,123,23,0.29
+47,Piru Gaínza,Athletic Bilbao,380,120,5,0.32
+48,Amancio,Real Madrid,344,119,10,0.35
+49,Ronaldo,"FC Barcelona
+																				Real Madrid",164,117,8,0.71
+50,Marañón,"Espanyol Barcelona
+																				Real Madrid",309,116,34,0.38
+* Active player,NA,NA,NA,NA,NA,NA
+51,Waldo,Valencia CF,215,115,1,0.53
+52,Juncosa,"Espanyol Barcelona
+																				Atlético Madrid",232,114,0,0.49
+,Davor Šuker,"Sevilla FC
+																				Real Madrid",239,114,19,0.48
+54,Álvaro Negredo *,"Sevilla FC
+																				Valencia CF
+																				UD Almería",264,112,19,0.42
+,López Ufarte,"Real Sociedad
+																				Real Betis
+																				Atlético Madrid",418,112,26,0.27
+,Uralde,"Deportivo La Coruña
+																				Real Sociedad
+																				Athletic Bilbao
+																				Atlético Madrid",339,112,4,0.33
+57,Carlos,"Atlético Madrid
+																				Real Oviedo
+																				Hércules CF
+																				Real Murcia
+																				Elche CF",314,111,11,0.35
+,Ziganda,"Athletic Bilbao
+																				CA Osasuna",381,111,3,0.29
+59,Soldado *,"Valencia CF
+																				Real Madrid
+																				Villarreal CF
+																				CA Osasuna
+																				Getafe CF",245,110,12,0.45
+60,José Gárate,Atlético Madrid,241,109,1,0.45
+61,Arteche,Athletic Bilbao,274,108,8,0.39
+,Bata,Athletic Bilbao,118,108,0,0.92
+,Fernando Gómez,Valencia CF,423,108,14,0.26
+64,Gonzalo Higuaín *,Real Madrid,190,107,3,0.56
+,Pichi Alonso,"Espanyol Barcelona
+																				Real Zaragoza
+																				FC Barcelona",265,107,27,0.40
+,Rivaldo,"Deportivo La Coruña
+																				FC Barcelona",198,107,16,0.54
+67,Hermida,Celta Vigo,159,105,9,0.66
+,Hierro,"Real Valladolid
+																				Real Madrid",497,105,21,0.21
+,Meho Kodro,"Real Sociedad
+																				FC Barcelona
+																				CD Tenerife
+																				CD Alavés",263,105,21,0.40
+,Martín,"FC Barcelona
+																				Gimnàstic",130,105,0,0.81
+71,Lángara,Real Oviedo,90,104,4,1.16
+,Cayetano Ré,"Espanyol Barcelona
+																				FC Barcelona
+																				Elche CF",265,104,2,0.39
+73,Fernando Torres *,Atlético Madrid,281,102,18,0.36
+,Luis Enrique,"FC Barcelona
+																				Real Madrid
+																				Sporting Gijón",400,102,0,0.26
+75,Campanal,Sevilla FC,157,101,2,0.64
+,Guerrero,Athletic Bilbao,371,101,1,0.27
+,Manu Sarabia,"Athletic Bilbao
+																				CD Logroñés",363,101,5,0.28
+,Victor Unamuno,"Athletic Bilbao
+																				Real Betis",144,101,1,0.70
+79,Roy Makaay,"Deportivo La Coruña
+																				CD Tenerife",205,100,4,0.49
+80,Juanito,"Real Madrid
+																				Málaga CF
+																				Burgos CF",350,99,25,0.28
+81,Iván Zamorano,"Sevilla FC
+																				Real Madrid",196,98,0,0.50
+82,Manolo,"Atlético Madrid
+																				Real Murcia",292,97,14,0.33
+,Míchel,Real Madrid,404,97,28,0.24
+84,Asensi,"FC Barcelona
+																				Elche CF",379,96,0,0.25
+85,Diego Tristán,"RCD Mallorca
+																				Deportivo La Coruña",226,95,18,0.42
+,Robert,"FC Barcelona
+																				Valencia CF
+																				Villarreal CF",439,95,10,0.22
+87,Iraragorri,Athletic Bilbao,140,94,4,0.67
+,Rubén Cano,"Atlético Madrid
+																				Elche CF",228,94,19,0.41
+,Víctor,"Real Valladolid
+																				CD Tenerife
+																				Villarreal CF",341,94,14,0.28
+90,Peiró,Atlético Madrid,166,93,0,0.56
+,Rubén Castro *,"UD Las Palmas
+																				Deportivo La Coruña
+																				Real Betis
+																				Albacete
+																				Gimnàstic",282,93,8,0.33
+92,Barinaga,"Real Sociedad
+																				Real Madrid",205,92,1,0.45
+,Darko Kovačević,Real Sociedad,261,92,9,0.35
+,Juan Pizzi,"FC Barcelona
+																				Valencia CF
+																				CD Tenerife
+																				Villarreal CF",221,92,16,0.42
+95,Patrick Kluivert,"FC Barcelona
+																				Valencia CF",192,91,6,0.47
+,Savo Milošević,"Espanyol Barcelona
+																				Real Zaragoza
+																				Celta Vigo
+																				CA Osasuna",241,91,6,0.38
+,Pruden,"Real Madrid
+																				Atlético Madrid",103,91,2,0.88
+98,Begiristáin,"Deportivo La Coruña
+																				Real Sociedad
+																				FC Barcelona",453,90,1,0.20
+,Etxeberria,"Real Sociedad
+																				Athletic Bilbao",453,90,1,0.20
+,Luis Regueiro,"Real Madrid
+																				Real Unión",145,90,5,0.62
+* Active player,NA,NA,NA,NA,NA,NA
+101,Molowny,"UD Las Palmas
+																				Real Madrid",174,90,8,0.52
+,Uriarte,Athletic Bilbao,312,90,15,0.29
+103,Basora,FC Barcelona,237,89,0,0.38
+,Frederic Kanouté,Sevilla FC,209,89,11,0.43
+105,Iriondo,"Real Sociedad
+																				Athletic Bilbao",286,87,1,0.30
+,Llorente *,"Athletic Bilbao
+																				Sevilla FC",285,87,6,0.31
+,Bernd Schuster,"FC Barcelona
+																				Real Madrid
+																				Atlético Madrid",316,87,10,0.28
+,Jorge Valdano,"Real Zaragoza
+																				Real Madrid",228,87,3,0.38
+109,Arcas,Espanyol Barcelona,195,86,4,0.44
+,Bebeto,Deportivo La Coruña,136,86,8,0.63
+,Escola,FC Barcelona,154,86,9,0.56
+,Iago Aspas *,"Sevilla FC
+																				Celta Vigo",177,86,15,0.49
+,Carlos Morete,"UD Las Palmas
+																				Sevilla FC",166,86,8,0.52
+114,Carlos Diarte,"Real Zaragoza
+																				Valencia CF
+																				Real Betis
+																				UD Salamanca",243,85,8,0.35
+,Germán Dévora,UD Las Palmas,351,85,25,0.24
+,Predrag Mijatović,"Valencia CF
+																				Real Madrid",194,85,13,0.44
+,Salva Ballesta,"Sevilla FC
+																				Valencia CF
+																				Málaga CF
+																				Atlético Madrid
+																				Racing Santander
+																				Levante UD",235,85,17,0.36
+,Tejada,"Espanyol Barcelona
+																				FC Barcelona
+																				Real Madrid",198,85,0,0.43
+119,Alfonso,"FC Barcelona
+																				Real Madrid
+																				Real Betis",307,84,9,0.27
+120,Basilio,"Espanyol Barcelona
+																				CD Castellón
+																				CE Sabadell",155,83,10,0.54
+,Carlos Ruiz,"Espanyol Barcelona
+																				Athletic Bilbao",233,83,0,0.36
+,Toni Polster,"Sevilla FC
+																				Rayo Vallecano
+																				CD Logroñés",171,83,11,0.49
+,Seguí,Valencia CF,260,83,5,0.32
+,Hristo Stoichkov,FC Barcelona,175,83,5,0.47
+125,Evaristo,"FC Barcelona
+																				Real Madrid",131,82,1,0.63
+,Walter Pandiani,"RCD Mallorca
+																				Deportivo La Coruña
+																				Espanyol Barcelona
+																				CA Osasuna",279,82,6,0.29
+127,Doménech,"Sevilla FC
+																				CD Castellón",286,81,1,0.28
+,Pardeza,"Real Zaragoza
+																				Real Madrid",325,81,8,0.25
+,Raúl García *,"Athletic Bilbao
+																				Atlético Madrid
+																				CA Osasuna",449,81,9,0.18
+,Rexach,FC Barcelona,328,81,12,0.25
+,Rincón,"Real Madrid
+																				Real Betis",239,81,2,0.34
+,Cristhian Stuani *,"Espanyol Barcelona
+																				Racing Santander
+																				Levante UD
+																				Girona FC",230,81,16,0.35
+133,Miguel,"Real Zaragoza
+																				Atlético Madrid
+																				Real Murcia",305,80,0,0.26
+134,Marcial,"Espanyol Barcelona
+																				FC Barcelona
+																				Atlético Madrid
+																				Elche CF",380,79,0,0.21
+,Mauro,"Real Zaragoza
+																				Celta Vigo",134,79,0,0.59
+,Juan Romero,Elche CF,183,79,14,0.43
+137,Gareth Bale *,Real Madrid,155,78,3,0.50
+,Pepillo,"RCD Mallorca
+																				Sevilla FC
+																				Real Madrid
+																				Málaga CF",174,78,1,0.45
+,Zaldúa,"Real Valladolid
+																				FC Barcelona
+																				CE Sabadell",209,78,0,0.37
+140,Julio Dely Valdés,"Málaga CF
+																				Real Oviedo",207,77,10,0.37
+141,Antón,"Real Zaragoza
+																				Real Oviedo",270,76,8,0.28
+,Eloy,"Valencia CF
+																				Sporting Gijón",429,76,1,0.18
+,Higuera,"RCD Mallorca
+																				Real Zaragoza",367,76,5,0.21
+,Orlando Jiménez,"Espanyol Barcelona
+																				Valencia CF
+																				Racing Santander",253,76,0,0.30
+,Oli,"Real Betis
+																				Real Oviedo
+																				Cádiz CF",268,76,3,0.28
+,Roberto Martínez,"Espanyol Barcelona
+																				Real Madrid",252,76,1,0.30
+147,Nihat Kahveci,"Real Sociedad
+																				Villarreal CF",195,75,0,0.38
+,Sergio García *,"Espanyol Barcelona
+																				Real Zaragoza
+																				Real Betis
+																				Levante UD",358,75,7,0.21
+149,Kun Agüero *,Atlético Madrid,175,74,1,0.42
+,Amadeo,Valencia CF,217,74,3,0.34
+* Active player,NA,NA,NA,NA,NA,NA
+151,Juan Esnáider,"Espanyol Barcelona
+																				Real Zaragoza
+																				Real Madrid
+																				Atlético Madrid
+																				Real Murcia",197,74,12,0.38
+152,Adelardo,Atlético Madrid,401,73,0,0.18
+,Del Pino,"Celta Vigo
+																				CE Sabadell",102,73,0,0.72
+,Luis García *,"RCD Mallorca
+																				Espanyol Barcelona
+																				Real Zaragoza
+																				Real Murcia",329,73,17,0.22
+155,Churruca,"Athletic Bilbao
+																				Sporting Gijón
+																				Hércules CF",335,72,1,0.21
+,Enrique Collar,"Valencia CF
+																				Atlético Madrid",353,72,12,0.20
+,Luís Fabiano,Sevilla FC,149,72,9,0.48
+,Olmedo,"Real Madrid
+																				Celta Vigo",240,72,4,0.30
+159,Arieta,"Athletic Bilbao
+																				Hércules CF",305,71,0,0.23
+,Marcaida,"Athletic Bilbao
+																				Pontevedra CF",156,71,0,0.46
+,Ronaldinho,FC Barcelona,145,71,22,0.49
+162,Irureta,"Athletic Bilbao
+																				Atlético Madrid",344,70,4,0.20
+,Marcelino,Real Zaragoza,231,70,0,0.30
+,Javier Saviola,"Sevilla FC
+																				FC Barcelona
+																				Real Madrid
+																				Málaga CF",196,70,0,0.36
+,Urtizberea,"Real Sociedad
+																				Real Unión",71,70,0,0.99
+166,Calvo Olascoaga,Espanyol Barcelona,118,69,2,0.58
+,Eulogio Martínez,"FC Barcelona
+																				Elche CF",151,69,0,0.46
+,Fuertes,"Valencia CF
+																				Elche CF",237,69,0,0.29
+,José María,"Espanyol Barcelona
+																				Real Oviedo",375,69,12,0.18
+,Mendonça,"RCD Mallorca
+																				FC Barcelona
+																				Atlético Madrid",206,69,0,0.33
+,Carlos Vela *,"Real Sociedad
+																				CA Osasuna",252,69,10,0.27
+172,Vladimir Gudelj,Celta Vigo,195,68,14,0.35
+,Jesús Domingo,"Real Valladolid
+																				Real Zaragoza",164,68,0,0.41
+,Juan Sánchez,"Valencia CF
+																				Celta Vigo",304,68,3,0.22
+,Valeriy Karpin,"Real Sociedad
+																				Valencia CF
+																				Celta Vigo",383,68,12,0.18
+,Neymar *,FC Barcelona,123,68,8,0.55
+,Valverde,"Espanyol Barcelona
+																				Athletic Bilbao
+																				FC Barcelona",264,68,0,0.26
+,Venancio,Athletic Bilbao,167,68,5,0.41
+179,Atienza,"UD Las Palmas
+																				Real Madrid
+																				Celta Vigo",192,67,1,0.35
+,Bravo,"FC Barcelona
+																				Gimnàstic",161,67,0,0.42
+,Ronald Koeman,FC Barcelona,192,67,44,0.35
+,Luís Figo,"FC Barcelona
+																				Real Madrid",336,67,21,0.20
+,Marin,"Real Madrid
+																				Atlético Madrid
+																				Granada CF",171,67,2,0.39
+,José Zalazar,"Racing Santander
+																				Albacete
+																				Cádiz CF",252,67,25,0.27
+185,Alday,Real Madrid,80,66,0,0.83
+,Baltazar,"Celta Vigo
+																				Atlético Madrid",125,66,12,0.53
+,Claudio Barragán,"RCD Mallorca
+																				Deportivo La Coruña
+																				Elche CF
+																				UD Salamanca",258,66,2,0.26
+,Diego Costa *,"Real Valladolid
+																				Rayo Vallecano
+																				Atlético Madrid",175,66,7,0.38
+,Emilín García,"FC Barcelona
+																				Real Oviedo",240,66,5,0.28
+190,Joaquín *,"Valencia CF
+																				Málaga CF
+																				Real Betis",517,65,2,0.13
+,Joaquín,Sporting Gijón,479,65,19,0.14
+,Manuel Clares,"FC Barcelona
+																				Rayo Vallecano
+																				CD Castellón",197,65,10,0.33
+,Marcet,"Espanyol Barcelona
+																				Real Madrid",166,65,0,0.39
+,Pasieguito,Valencia CF,243,65,19,0.27
+,Solsona,"Espanyol Barcelona
+																				Valencia CF",371,65,2,0.18
+196,Echevarria,Real Oviedo,81,64,0,0.79
+,Luis Suárez,"Deportivo La Coruña
+																				FC Barcelona",139,64,1,0.46
+,Moya,"RCD Mallorca
+																				Real Valladolid
+																				Sevilla FC
+																				Valencia CF
+																				Atlético Madrid",373,64,2,0.17
+,Giuseppe Rossi,"Celta Vigo
+																				Villarreal CF
+																				Levante UD",171,64,14,0.37
+200,Argote,Athletic Bilbao,331,63,5,0.19
+* Active player,NA,NA,NA,NA,NA,NA
+201,Cabrera,"Atlético Madrid
+																				Cádiz CF
+																				CD Castellón",209,63,1,0.30
+,Chas,"Espanyol Barcelona
+																				Real Oviedo
+																				Racing Santander",102,63,0,0.62
+,Edu,"Celta Vigo
+																				Real Betis",253,63,3,0.25
+,Kevin Gameiro *,"Sevilla FC
+																				Valencia CF
+																				Atlético Madrid",179,63,11,0.35
+,Jesús Zamora,Real Sociedad,455,63,4,0.14
+,Júlio Baptista *,"Sevilla FC
+																				Real Madrid
+																				Málaga CF",151,63,11,0.42
+,Gustavo Poyet,Real Zaragoza,239,63,0,0.26
+208,Catanha,"Celta Vigo
+																				Málaga CF",148,62,5,0.42
+,Elícegui,"Deportivo La Coruña
+																				Atlético Madrid
+																				Real Unión",97,62,1,0.64
+,Juani,"UD Las Palmas
+																				Málaga CF",309,62,4,0.20
+,Mauri,"Athletic Bilbao
+																				CE Sabadell",255,62,0,0.24
+,Rodilla,"Real Valladolid
+																				Espanyol Barcelona",182,62,0,0.34
+,Rosendo Hernández,"Espanyol Barcelona
+																				Real Zaragoza",143,62,9,0.43
+,Vavá,Elche CF,183,62,2,0.34
+215,Bazan,"Deportivo La Coruña
+																				Málaga CF",121,61,2,0.50
+,Carlos Torres,"Espanyol Barcelona
+																				Celta Vigo",191,61,1,0.32
+,Coque,"Real Valladolid
+																				Atlético Madrid
+																				Racing Santander",169,61,5,0.36
+,Juanele,"Real Zaragoza
+																				CD Tenerife
+																				Sporting Gijón",346,61,9,0.18
+,Luque,"RCD Mallorca
+																				Deportivo La Coruña
+																				Málaga CF",248,61,1,0.25
+,Manchón,"FC Barcelona
+																				Granada CF",161,61,0,0.38
+,Héctor Rial,"Espanyol Barcelona
+																				Real Madrid",121,61,0,0.50
+,Sabino,"CA Osasuna
+																				CE Sabadell",148,61,0,0.41
+,Sergio Ramos *,"Sevilla FC
+																				Real Madrid",458,61,8,0.13
+224,Kiko,"Atlético Madrid
+																				Cádiz CF",271,60,0,0.22
+,Roque Olsen,Real Madrid,110,60,0,0.55
+226,Barrios,"FC Barcelona
+																				Hércules CF
+																				Granada CF",229,59,0,0.26
+,Lecue,"Valencia CF
+																				Real Madrid
+																				CD Alavés
+																				Real Betis",248,59,2,0.24
+,Ricardo Oliveira *,"Real Zaragoza
+																				Valencia CF
+																				Real Betis",120,59,5,0.49
+,Vilanova,"Real Zaragoza
+																				Valencia CF
+																				Hércules CF",96,59,0,0.61
+,Xavi *,FC Barcelona,505,59,0,0.12
+231,Alberto,"Real Valladolid
+																				Racing Santander",311,58,0,0.19
+,Larbi Ben Barek,Atlético Madrid,114,58,5,0.51
+,Moran,"FC Barcelona
+																				Real Betis
+																				Atlético Madrid
+																				Sporting Gijón",167,58,10,0.35
+,Pedro *,FC Barcelona,204,58,0,0.28
+,Quique Setién,"Atlético Madrid
+																				Racing Santander
+																				CD Logroñés",374,58,11,0.16
+,Maxi Rodríguez *,"Espanyol Barcelona
+																				Atlético Madrid",232,58,2,0.25
+237,Saturnino Arrúa,Real Zaragoza,119,57,4,0.48
+,Caminero,"Real Valladolid
+																				Atlético Madrid",408,57,0,0.14
+,De Paula,Real Sociedad,273,57,1,0.21
+,Fusté,"FC Barcelona
+																				CA Osasuna",223,57,7,0.26
+,Grosso,"Real Madrid
+																				Atlético Madrid",277,57,0,0.21
+,Juan Seminario,"Real Zaragoza
+																				FC Barcelona
+																				CE Sabadell",109,57,6,0.52
+,Uribe,Athletic Bilbao,174,57,9,0.33
+244,Raúl Amarilla,"Real Zaragoza
+																				FC Barcelona",161,56,1,0.35
+,Aretio,"FC Barcelona
+																				Celta Vigo
+																				Sporting Gijón
+																				Real Murcia",172,56,0,0.33
+,Jesús Alonso,"Real Madrid
+																				Real Oviedo",123,56,0,0.46
+,León,UD Las Palmas,250,56,0,0.22
+,Pahuet,"Sevilla FC
+																				Málaga CF
+																				CA Osasuna
+																				Elche CF",207,56,0,0.27
+,Paz,Real Sociedad,227,56,0,0.25
+,José Sánchez Lage,"Deportivo La Coruña
+																				Valencia CF
+																				Real Oviedo",215,56,9,0.26
+* Active player,NA,NA,NA,NA,NA,NA
+251,Santos,"Real Zaragoza
+																				CD Tenerife",195,56,6,0.29
+,Torres Díaz,"UD Las Palmas
+																				Málaga CF",193,56,23,0.29
+253,Agirretxe,Real Sociedad,180,55,0,0.31
+,Carlos Bacca *,"Sevilla FC
+																				Villarreal CF",138,55,9,0.40
+,Claramunt,Valencia CF,297,55,19,0.19
+,José Dieguez,Sevilla FC,203,55,7,0.27
+,Ezquerro,"RCD Mallorca
+																				Athletic Bilbao
+																				FC Barcelona
+																				CA Osasuna",278,55,3,0.20
+,Aleksandr Mostovoy,Celta Vigo,235,55,8,0.23
+,Olivares,"Real Zaragoza
+																				Real Sociedad
+																				Real Madrid
+																				CD Alavés
+																				Hércules CF",82,55,2,0.67
+,Parejo *,"Valencia CF
+																				Getafe CF",315,55,21,0.17
+,Pereda,"Sevilla FC
+																				FC Barcelona
+																				Real Madrid",197,55,0,0.28
+,Alen Peternac,Real Valladolid,162,55,13,0.34
+,Vazquez,"Celta Vigo
+																				Atlético Madrid",234,55,0,0.24
+264,Antoniet,"Sevilla FC
+																				Real Jaén
+																				Hércules CF",173,54,0,0.31
+,Arocha,"FC Barcelona
+																				Atlético Madrid",80,54,5,0.68
+,Cholín,"Real Sociedad
+																				Granada CF",101,54,0,0.53
+,Fernando,"Real Valladolid
+																				Málaga CF
+																				Real Betis",274,54,13,0.20
+,Enzo Ferrero,Sporting Gijón,242,54,3,0.22
+,Joseito,"Real Madrid
+																				Racing Santander",134,54,0,0.40
+,Landáburu,"FC Barcelona
+																				Rayo Vallecano
+																				Atlético Madrid",332,54,1,0.16
+,Loren,"Real Sociedad
+																				Athletic Bilbao
+																				Burgos CF",482,54,0,0.11
+,Pier,"Real Zaragoza
+																				CD Tenerife
+																				Real Betis
+																				Sporting Gijón",227,54,1,0.24
+,Quino,"Valencia CF
+																				Real Betis
+																				Cádiz CF",223,54,0,0.24
+,Señor,Real Zaragoza,304,54,24,0.18
+275,Loren,"RCD Mallorca
+																				Sevilla FC
+																				Granada CF",148,53,0,0.36
+,Magdaleno,"RCD Mallorca
+																				Sevilla FC
+																				Burgos CF",192,53,4,0.28
+,Manu del Moral *,"Sevilla FC
+																				Elche CF
+																				SD Eibar
+																				Getafe CF",272,53,6,0.19
+,Pio Alonso,"Real Zaragoza
+																				Sporting Gijón",101,53,0,0.52
+,Roig,Celta Vigo,138,53,7,0.38
+,Héctor Scotta,Sevilla FC,101,53,9,0.52
+,Villa,"Real Zaragoza
+																				Real Sociedad",184,53,3,0.29
+,Ramón Villaverde,FC Barcelona,162,53,0,0.33
+283,Argoitia,Athletic Bilbao,230,52,1,0.23
+,Charles *,"Celta Vigo
+																				Málaga CF
+																				SD Eibar",176,52,8,0.30
+,Radamel Falcao *,Atlético Madrid,68,52,13,0.76
+,Guillot,"Valencia CF
+																				Elche CF",167,52,5,0.31
+,Michael Laudrup,"FC Barcelona
+																				Real Madrid",228,52,5,0.23
+,Wilson,"Real Zaragoza
+																				CD Alavés
+																				Racing Santander",129,52,0,0.40
+,Xabi Prieto,Real Sociedad,376,52,18,0.14
+290,Güiza *,"RCD Mallorca
+																				Getafe CF",141,51,1,0.36
+,Herrera,Sevilla FC,123,51,2,0.41
+,Jorge Alonso,"Real Valladolid
+																				CD Logroñés",262,51,5,0.19
+,Diego Milito,Real Zaragoza,108,51,7,0.47
+,Riki,"Deportivo La Coruña
+																				Granada CF
+																				Getafe CF",271,51,3,0.19
+295,Alsúa,"Real Madrid
+																				Lleida Esportiu
+																				Gimnàstic",181,50,1,0.28
+,Amiano,"Espanyol Barcelona
+																				Real Sociedad
+																				UD Salamanca",241,50,0,0.21
+,Arsenio,"Deportivo La Coruña
+																				Sevilla FC
+																				Real Oviedo
+																				Granada CF",238,50,0,0.21
+,Bienzobas,"Real Sociedad
+																				CA Osasuna",92,50,5,0.54
+,Fonseca,"Real Valladolid
+																				Espanyol Barcelona",209,50,7,0.24
+,Fran Yeste,Athletic Bilbao,302,50,4,0.17
+* Active player,NA,NA,NA,NA,NA,NA
+301,Garitano,"Real Zaragoza
+																				Athletic Bilbao",381,50,31,0.13
+,Gerard *,"Espanyol Barcelona
+																				Villarreal CF",167,50,2,0.30
+,Iriondo,"Espanyol Barcelona
+																				Arenas de Getxo",55,50,0,0.91
+,Jorge,Espanyol Barcelona,158,50,2,0.32
+,Molina *,"Real Betis
+																				Getafe CF",186,50,7,0.27
+,Ruud van Nistelrooy,"Real Madrid
+																				Málaga CF",96,50,6,0.52
+307,Aitor Aguirre,"Athletic Bilbao
+																				Racing Santander
+																				Burgos CF",146,49,1,0.34
+,Bango,"Sevilla FC
+																				Sporting Gijón
+																				Real Oviedo",321,49,5,0.15
+,Campos Rodríguez,Sevilla FC,130,49,6,0.38
+,Carrasco,FC Barcelona,262,49,5,0.19
+,Cholo,"Real Zaragoza
+																				Sevilla FC
+																				Real Madrid
+																				CA Osasuna",207,49,1,0.24
+,Donato,"Deportivo La Coruña
+																				Atlético Madrid",466,49,13,0.11
+,Isco *,"Real Madrid
+																				Málaga CF",256,49,2,0.19
+,José Mari,"Sevilla FC
+																				Villarreal CF
+																				Real Betis
+																				Atlético Madrid",271,49,0,0.18
+,Juan Carlos,"Sevilla FC
+																				Valencia CF
+																				Hércules CF",357,49,0,0.14
+,Llorente,"Real Valladolid
+																				Real Sociedad
+																				Villarreal CF
+																				CA Osasuna",179,49,0,0.27
+,Michel Pineda Ozaeta,"Espanyol Barcelona
+																				Racing Santander",201,49,3,0.24
+,Ivan Rakitić *,"Sevilla FC
+																				FC Barcelona",285,49,5,0.17
+,Víctor Casadesús *,"RCD Mallorca
+																				Levante UD",269,49,1,0.18
+320,Guillermo Amor,"FC Barcelona
+																				Villarreal CF",375,48,1,0.13
+,Fernando Correa,"RCD Mallorca
+																				Atlético Madrid
+																				Racing Santander",177,48,4,0.27
+,Gică Craioveanu,"Real Sociedad
+																				Villarreal CF
+																				Getafe CF",221,48,3,0.22
+,Javi Guerrero,"Racing Santander
+																				Recreativo Huelva",195,48,5,0.25
+,Mateos,"Sevilla FC
+																				Real Madrid
+																				Real Betis",123,48,3,0.39
+,Mendieta,"FC Barcelona
+																				Valencia CF",263,48,23,0.18
+,Merodio,"Athletic Bilbao
+																				Real Murcia",143,48,2,0.34
+,Mista,"Deportivo La Coruña
+																				Valencia CF
+																				CD Tenerife
+																				Atlético Madrid",218,48,1,0.22
+,Christopher Ohen,SD Compostela,117,48,1,0.41
+,Pablo Piatti *,"Espanyol Barcelona
+																				Valencia CF
+																				UD Almería",291,48,2,0.16
+,Rojo,Athletic Bilbao,414,48,1,0.12
+,Darío Silva,"Espanyol Barcelona
+																				Sevilla FC
+																				Málaga CF",163,48,3,0.29
+,Jan Urban,"Real Valladolid
+																				CA Osasuna",177,48,4,0.27
+,Velázquez,Real Madrid,301,48,0,0.16
+,Víctor,"Deportivo La Coruña
+																				Real Madrid
+																				Racing Santander",310,48,4,0.15
+335,Baraja,"Real Valladolid
+																				Valencia CF
+																				Atlético Madrid",338,47,2,0.14
+,Johan Cruyff,FC Barcelona,139,47,1,0.34
+,Gilberto,UD Las Palmas,231,47,0,0.20
+,Larrinaga,Racing Santander,122,47,0,0.39
+,Claudio López,Valencia CF,130,47,3,0.36
+,Pepillo,Sevilla FC,94,47,0,0.50
+,Perez Paya,"Real Sociedad
+																				Real Madrid
+																				Atlético Madrid",108,47,0,0.44
+,Pineda,"Real Zaragoza
+																				Real Madrid
+																				Málaga CF",178,47,0,0.26
+,Quevedo,"Real Valladolid
+																				Sevilla FC
+																				Rayo Vallecano
+																				Atlético Madrid
+																				Cádiz CF",325,47,2,0.14
+,Reyes *,"Espanyol Barcelona
+																				Sevilla FC
+																				Real Madrid
+																				Atlético Madrid",347,47,8,0.14
+,Roberto Carlos,Real Madrid,370,47,2,0.13
+,Sañudo,"Real Madrid
+																				CD Alavés",47,47,0,1.00
+,Taltavull,"Valencia CF
+																				Atlético Madrid
+																				Gimnàstic",174,47,0,0.27
+,Ventolrá,"Espanyol Barcelona
+																				FC Barcelona",88,47,0,0.53
+,Pierre Webó,"RCD Mallorca
+																				CA Osasuna",227,47,1,0.21
+,Willian José *,"UD Las Palmas
+																				Real Sociedad",123,47,11,0.38
+* Active player,NA,NA,NA,NA,NA,NA
+351,Juan Arango,RCD Mallorca,183,46,0,0.25
+,Barral *,"Sporting Gijón
+																				Levante UD",221,46,7,0.21
+,Félix Ruiz,"Real Madrid
+																				CA Osasuna",148,46,0,0.31
+,Guti,Real Madrid,386,46,0,0.12
+,Janko Janković,"Real Valladolid
+																				Real Oviedo
+																				Hércules CF",242,46,7,0.19
+,Marcos Alonso,"FC Barcelona
+																				Atlético Madrid
+																				Racing Santander
+																				CD Logroñés",302,46,1,0.15
+,Dagoberto Moll,"Deportivo La Coruña
+																				FC Barcelona
+																				Celta Vigo
+																				Elche CF
+																				CD Condal",193,46,3,0.24
+,Nolito *,"Sevilla FC
+																				Celta Vigo
+																				Granada CF",152,46,6,0.30
+,Hector Núñez,"RCD Mallorca
+																				Valencia CF",147,46,9,0.31
+,Vazquez Toledo,"UD Las Palmas
+																				Córdoba CF
+																				Granada CF",180,46,1,0.26
+361,Rubén Ayala,Atlético Madrid,169,45,7,0.27
+,Cánario,"Real Zaragoza
+																				Sevilla FC
+																				Real Madrid",175,45,0,0.26
+,Jorge Da Silva,"Real Valladolid
+																				Atlético Madrid",120,45,6,0.38
+,De Pedro,Real Sociedad,304,45,15,0.15
+,Gárate,Athletic Bilbao,104,45,0,0.43
+,Marina,"RCD Mallorca
+																				Atlético Madrid",264,45,5,0.17
+,Mauri,"Espanyol Barcelona
+																				Granada CF",119,45,0,0.38
+,Ramón,Sevilla FC,232,45,0,0.19
+,Agustín Sánchez,"Atlético Madrid
+																				Real Oviedo",129,45,3,0.35
+,Silva,"UD Las Palmas
+																				Atlético Madrid",189,45,0,0.24
+371,Areta,"FC Barcelona
+																				Valencia CF
+																				Real Betis
+																				Real Oviedo",206,44,0,0.21
+,José Cardona,"Atlético Madrid
+																				Elche CF",141,44,0,0.31
+,Youssef El-Arabi *,Granada CF,130,44,13,0.34
+,Fernando Baiano,"Celta Vigo
+																				Málaga CF
+																				Real Murcia",112,44,9,0.39
+,Fran,Deportivo La Coruña,435,44,0,0.10
+,Juanin,Córdoba CF,183,44,10,0.24
+,Lardín,"Espanyol Barcelona
+																				Atlético Madrid",200,44,2,0.22
+,Martín Vázquez,"Deportivo La Coruña
+																				Real Madrid",269,44,0,0.16
+,Mejías,"Real Zaragoza
+																				Rayo Vallecano
+																				Real Murcia
+																				Cádiz CF",262,44,1,0.17
+,Morollón,"Real Valladolid
+																				Real Madrid
+																				CE Sabadell",118,44,1,0.37
+,Narciso,"UD Las Palmas
+																				Sporting Gijón
+																				Burgos CF",216,44,3,0.20
+,Raimundo,Sevilla FC,70,44,0,0.63
+383,Angulo,Valencia CF,313,43,0,0.14
+,Casquero,"Sevilla FC
+																				Racing Santander
+																				Getafe CF",321,43,3,0.13
+,Domingo García,"Atlético Madrid
+																				Sporting Gijón
+																				Real Oviedo",121,43,0,0.36
+,Finidi George,"RCD Mallorca
+																				Real Betis",175,43,5,0.25
+,Jorge González,"Real Valladolid
+																				Cádiz CF",158,43,6,0.27
+,Idígoras,"Real Sociedad
+																				Valencia CF",220,43,0,0.20
+,Koldo Aguirre,Athletic Bilbao,227,43,3,0.19
+,Montero,"Sevilla FC
+																				Cádiz CF",339,43,17,0.13
+,Munitis,"Deportivo La Coruña
+																				Real Madrid
+																				Racing Santander",447,43,0,0.10
+,Paco Alcácer *,"FC Barcelona
+																				Valencia CF
+																				Getafe CF",150,43,2,0.29
+,Paquirri,"Deportivo La Coruña
+																				Real Betis",85,43,0,0.51
+,Ikechukwu Uche *,"Real Zaragoza
+																				Villarreal CF
+																				Recreativo Huelva
+																				Granada CF
+																				Getafe CF",194,43,1,0.22
+395,Abel Díaz,"Sporting Gijón
+																				Hércules CF",212,42,0,0.20
+,Adrián *,"Deportivo La Coruña
+																				Villarreal CF
+																				Málaga CF
+																				Atlético Madrid",269,42,2,0.16
+,Agustín,Celta Vigo,71,42,2,0.59
+,Arencibia,Atlético Madrid,113,42,0,0.37
+,Buque,Valencia CF,129,42,0,0.33
+,Gonzalo Castro *,"RCD Mallorca
+																				Real Sociedad
+																				Málaga CF",296,42,3,0.14
+* Active player,NA,NA,NA,NA,NA,NA
+401,Diego Castro *,"Sporting Gijón
+																				Getafe CF",226,42,14,0.19
+,Edelmiro,Espanyol Barcelona,102,42,0,0.41
+,Escaich,"Espanyol Barcelona
+																				FC Barcelona
+																				Sporting Gijón
+																				Albacete",157,42,0,0.27
+,Felipe,"CD Tenerife
+																				Sporting Gijón",347,42,0,0.12
+,Francisco,"Espanyol Barcelona
+																				Sevilla FC",436,42,3,0.10
+,Rafael Franco,Deportivo La Coruña,80,42,8,0.53
+,Juanmi *,"Real Sociedad
+																				Málaga CF",178,42,0,0.24
+,Sándor Kocsis,FC Barcelona,75,42,0,0.56
+,Lezcano,Elche CF,212,42,0,0.20
+,Gary Lineker,FC Barcelona,103,42,4,0.41
+,Mecarle,"Celta Vigo
+																				Hércules CF",121,42,0,0.35
+,Miralles,"Espanyol Barcelona
+																				Córdoba CF
+																				Granada CF",133,42,0,0.32
+,Moreno,"UD Las Palmas
+																				Real Zaragoza
+																				FC Barcelona",92,42,0,0.46
+,Santi Cazorla *,"Villarreal CF
+																				Málaga CF
+																				Recreativo Huelva",286,42,2,0.15
+,Sola,"Athletic Bilbao
+																				CA Osasuna",313,42,3,0.13
+,Óscar Valdez,Valencia CF,167,42,1,0.25
+,Juan Voglino,Elche CF,118,42,11,0.36
+418,Areta,"Athletic Bilbao
+																				Sevilla FC
+																				CA Osasuna",164,41,0,0.25
+,Costa Font,"Espanyol Barcelona
+																				Valencia CF
+																				CD Alcoyano",100,41,4,0.41
+,Gago,"Valencia CF
+																				Sporting Gijón",102,41,0,0.40
+,Oswaldo García,"Deportivo La Coruña
+																				Espanyol Barcelona",154,41,0,0.27
+,Lazcano,"Real Madrid
+																				Atlético Madrid",93,41,0,0.44
+,Noriega,Athletic Bilbao,182,41,0,0.23
+,Óscar,"Real Valladolid
+																				Real Zaragoza",267,41,0,0.15
+,Pedro León *,"Real Valladolid
+																				Levante UD
+																				SD Eibar
+																				Getafe CF",291,41,1,0.14
+,Perico Alonso,"Real Sociedad
+																				FC Barcelona
+																				CE Sabadell",271,41,5,0.15
+,Roldán,"Málaga CF
+																				Pontevedra CF",134,41,3,0.31
+,Uli Stielike,Real Madrid,215,41,5,0.19
+,Tino,"Deportivo La Coruña
+																				Real Zaragoza",149,41,1,0.28
+,Torrontegui,Sevilla FC,92,41,0,0.45
+431,Aguilar,"Real Madrid
+																				Sporting Gijón",190,40,1,0.21
+,Cardeñosa,Real Betis,307,40,17,0.13
+,Cisco,Racing Santander,93,40,1,0.43
+,Javi Guerra *,"Real Valladolid
+																				Rayo Vallecano
+																				Málaga CF",118,40,1,0.34
+,Leivinha,Atlético Madrid,83,40,2,0.48
+,Moisés,"Real Zaragoza
+																				Sevilla FC
+																				Celta Vigo
+																				Villarreal CF",163,40,6,0.25
+,Muniain *,Athletic Bilbao,289,40,2,0.14
+,Ontoria,Real Sociedad,212,40,10,0.19
+,Ortiz,Sporting Gijón,118,40,0,0.34
+,Pinilla,"RCD Mallorca
+																				FC Barcelona
+																				CD Tenerife
+																				Albacete
+																				Gimnàstic",242,40,0,0.17
+,Porta,"Real Zaragoza
+																				Granada CF",122,40,0,0.33
+,Román Riquelme,"FC Barcelona
+																				Villarreal CF",136,40,18,0.29
+,Rivera,"Sevilla FC
+																				Celta Vigo",159,40,5,0.25
+444,Aitor Larrazábal,Athletic Bilbao,390,39,29,0.10
+,John Aloisi,"CD Alavés
+																				CA Osasuna",154,39,6,0.25
+,Alsúa,"Real Sociedad
+																				Racing Santander
+																				Real Jaén",144,39,4,0.27
+,Cabido,"Deportivo La Coruña
+																				Real Zaragoza
+																				Real Oviedo",69,39,0,0.57
+,Dani,"RCD Mallorca
+																				Espanyol Barcelona
+																				Real Zaragoza
+																				FC Barcelona",208,39,2,0.19
+,De Diego,"Espanyol Barcelona
+																				Sevilla FC
+																				Real Madrid
+																				Sporting Gijón
+																				CE Sabadell",124,39,2,0.31
+,Oscar Dertycia,"CD Tenerife
+																				Albacete
+																				Cádiz CF",138,39,2,0.28
+* Active player,NA,NA,NA,NA,NA,NA
+451,Lasa Ibarguren,"Real Zaragoza
+																				Athletic Bilbao
+																				Granada CF",287,39,1,0.14
+,Maguregui,"Espanyol Barcelona
+																				Athletic Bilbao",231,39,0,0.17
+,Megido,"Málaga CF
+																				Real Betis
+																				Sporting Gijón
+																				Hércules CF
+																				Granada CF",226,39,1,0.17
+,Veljko Paunović,"RCD Mallorca
+																				Atlético Madrid
+																				Real Oviedo
+																				UD Almería
+																				Getafe CF",211,39,1,0.18
+,Pérez Medrano,Real Sociedad,189,39,0,0.21
+,Romário,"FC Barcelona
+																				Valencia CF",57,39,0,0.68
+457,Iván Alonso,"Espanyol Barcelona
+																				CD Alavés
+																				Real Murcia",194,38,3,0.20
+,Bestit,"FC Barcelona
+																				CE Europa",64,38,0,0.59
+,Gabriel Calderón,Real Betis,131,38,17,0.29
+,Chano,"CD Tenerife
+																				Real Betis",386,38,4,0.10
+,Djalminha,Deportivo La Coruña,137,38,10,0.28
+,Futre,Atlético Madrid,173,38,0,0.22
+,Gordillo,"Real Madrid
+																				Real Betis",428,38,0,0.09
+,Javi Moreno,"Real Zaragoza
+																				CD Alavés
+																				Atlético Madrid",118,38,10,0.32
+,José Seguer,FC Barcelona,213,38,4,0.18
+,Lapetra,Real Zaragoza,195,38,2,0.19
+,Manjarín,"Deportivo La Coruña
+																				Sporting Gijón
+																				Racing Santander",329,38,0,0.12
+,Monchu,"RCD Mallorca
+																				Sevilla FC
+																				Sporting Gijón",166,38,0,0.23
+,Alexis Sánchez *,FC Barcelona,88,38,0,0.43
+,Susaeta *,Athletic Bilbao,378,38,0,0.10
+,Vazquez,"Espanyol Barcelona
+																				CE Sabadell",101,38,0,0.38
+,Vicente González,"UD Las Palmas
+																				FC Barcelona
+																				Granada CF",201,38,4,0.19
+,Faas Wilkes,Valencia CF,62,38,3,0.61
+474,Bernardo Acosta,Sevilla FC,86,37,4,0.43
+,Arteaga,"Espanyol Barcelona
+																				Rayo Vallecano
+																				Cádiz CF",330,37,2,0.11
+,Wissam Ben Yedder *,Sevilla FC,89,37,3,0.42
+,Bustillo,"Real Zaragoza
+																				FC Barcelona
+																				Málaga CF",144,37,0,0.26
+,Jorge Contreras,UD Las Palmas,113,37,7,0.33
+,Gaspar Rubio,"Valencia CF
+																				Real Madrid
+																				Real Murcia
+																				Granada CF",61,37,0,0.61
+,Guimerans,"Deportivo La Coruña
+																				Celta Vigo",185,37,0,0.20
+,Juan Fernández,Celta Vigo,219,37,0,0.17
+,López Martínez,Sevilla FC,185,37,0,0.20
+,Macala,"Espanyol Barcelona
+																				Athletic Bilbao
+																				Real Madrid
+																				Racing Santander
+																				Hércules CF",177,37,1,0.21
+,Manuel Cuesta,"Espanyol Barcelona
+																				Córdoba CF",165,37,1,0.22
+,Martínez Català,"Espanyol Barcelona
+																				Real Zaragoza
+																				CD Alcoyano",49,37,0,0.76
+,Miku *,"Rayo Vallecano
+																				Getafe CF",123,37,2,0.30
+,Fernando Morena,"Valencia CF
+																				Rayo Vallecano",65,37,9,0.57
+,Múgica,"UD Las Palmas
+																				Atlético Madrid
+																				Sporting Gijón",196,37,5,0.19
+,Rubio,"Atlético Madrid
+																				CE Sabadell",280,37,10,0.13
+,Santi Mina *,"Valencia CF
+																				Celta Vigo",166,37,2,0.22
+,Santiago Aragón,"Real Valladolid
+																				Real Zaragoza
+																				Real Madrid
+																				CD Logroñés",339,37,14,0.11
+,Santiago Vázquez,"Real Sociedad
+																				Celta Vigo
+																				Racing Santander
+																				Gimnàstic",171,37,0,0.22
+,Saura,Valencia CF,304,37,0,0.12
+,Sávio,"Real Zaragoza
+																				Real Sociedad
+																				Real Madrid",231,37,2,0.16
+,Rubén Sosa,"Real Zaragoza
+																				CD Logroñés",141,37,2,0.26
+,Kalu Uche *,"Espanyol Barcelona
+																				Levante UD
+																				UD Almería",148,37,1,0.25
+,Urtiaga,"Real Sociedad
+																				Valencia CF
+																				Atlético Madrid",150,37,0,0.25
+,Zinédine Zidane,Real Madrid,155,37,3,0.24
+499,Araquistain,Real Sociedad,143,36,0,0.25
+,Daniel Bergara,"RCD Mallorca
+																				Sevilla FC",91,36,3,0.40
+* Active player,NA,NA,NA,NA,NA,NA
+501,Bueno *,"Real Valladolid
+																				Rayo Vallecano
+																				Granada CF
+																				CD Leganés",164,36,3,0.22
+,Felipe Caicedo *,"Espanyol Barcelona
+																				Málaga CF
+																				Levante UD",138,36,1,0.26
+,Camps,"Espanyol Barcelona
+																				FC Barcelona
+																				CE Sabadell",164,36,3,0.22
+,Capdevila,"Deportivo La Coruña
+																				Espanyol Barcelona
+																				Villarreal CF
+																				Atlético Madrid",411,36,0,0.09
+,Óscar Coll,Espanyol Barcelona,91,36,2,0.40
+,Colunga,"Real Zaragoza
+																				Sporting Gijón
+																				Recreativo Huelva
+																				Getafe CF",152,36,6,0.24
+,Cristo,"Real Betis
+																				Real Murcia
+																				Elche CF
+																				CE Sabadell
+																				UD Salamanca",183,36,0,0.20
+,Echeverría,CA Osasuna,178,36,0,0.20
+,Egea Gómez,Espanyol Barcelona,80,36,0,0.45
+,Eusebio Sacristán,"Real Valladolid
+																				FC Barcelona
+																				Celta Vigo
+																				Atlético Madrid",543,36,3,0.07
+,Goikoetxea,"Real Sociedad
+																				Athletic Bilbao
+																				FC Barcelona
+																				CA Osasuna",386,36,7,0.09
+,Iriguibel,CA Osasuna,104,36,3,0.35
+,Jiménez,Celta Vigo,152,36,6,0.24
+,Jonas *,Valencia CF,113,36,3,0.32
+,Jorge López,"RCD Mallorca
+																				Real Zaragoza
+																				Valencia CF
+																				Villarreal CF
+																				Racing Santander",271,36,8,0.13
+,José González,"Real Zaragoza
+																				Real Betis",180,36,10,0.20
+,Juanito,"UD Las Palmas
+																				Real Zaragoza
+																				Sevilla FC
+																				Atlético Madrid
+																				CF Extremadura",385,36,11,0.09
+,Lafita,"Deportivo La Coruña
+																				Real Zaragoza
+																				Getafe CF",272,36,0,0.13
+,Pablo Sarabia *,"Sevilla FC
+																				Getafe CF",231,36,3,0.16
+,Rafa,"Atlético Madrid
+																				Granada CF",75,36,0,0.48
+,Vicente,Valencia CF,243,36,3,0.15
+,Yordi,"RCD Mallorca
+																				Real Zaragoza
+																				Sevilla FC
+																				Getafe CF",180,36,0,0.20
+523,Domínguez,"RCD Mallorca
+																				Espanyol Barcelona
+																				Levante UD",111,35,1,0.32
+,Gallardo,"UD Las Palmas
+																				Real Madrid
+																				Gimnàstic",80,35,0,0.44
+,Goikoetxea,Athletic Bilbao,314,35,2,0.11
+,Thierry Henry,FC Barcelona,80,35,0,0.44
+,Adrian Ilie,"Valencia CF
+																				CD Alavés",105,35,2,0.33
+,Iniesta *,FC Barcelona,442,35,1,0.08
+,Johan Neeskens,FC Barcelona,140,35,8,0.25
+,Neme,Pontevedra CF,113,35,2,0.31
+,Prat,Espanyol Barcelona,133,35,3,0.26
+,Quique Estebaranz,"FC Barcelona
+																				CD Tenerife
+																				CF Extremadura",213,35,3,0.16
+,Sánchez,Sporting Gijón,164,35,3,0.21
+,Sergio,"Deportivo La Coruña
+																				Espanyol Barcelona
+																				Levante UD",418,35,8,0.08
+,Diego Simeone,"Sevilla FC
+																				Atlético Madrid",197,35,2,0.18
+,Valdo *,"Espanyol Barcelona
+																				Málaga CF
+																				CA Osasuna
+																				Levante UD",258,35,0,0.14
+,Verdú *,"Deportivo La Coruña
+																				Espanyol Barcelona
+																				Real Betis
+																				Levante UD",262,35,7,0.13
+,Vila Soler,"FC Barcelona
+																				Valencia CF
+																				Real Betis",81,35,0,0.43
+539,Juan Agüero,"Sevilla FC
+																				Real Madrid
+																				Granada CF",134,34,0,0.25
+,Alexanko,"Athletic Bilbao
+																				FC Barcelona",366,34,1,0.09
+,Amavisca,"Deportivo La Coruña
+																				Real Valladolid
+																				Espanyol Barcelona
+																				Real Madrid
+																				Racing Santander",306,34,4,0.11
+,Eduardo Anzarda,"Real Madrid
+																				Real Betis",121,34,0,0.28
+,Arroyo,Valencia CF,273,34,1,0.12
+,Duda,Málaga CF,344,34,1,0.10
+,Goiburu,"FC Barcelona
+																				Valencia CF",116,34,1,0.29
+,Gonzalvo,"Espanyol Barcelona
+																				Real Zaragoza
+																				CE Sabadell",88,34,0,0.39
+,Hans Krankl,FC Barcelona,46,34,6,0.74
+,Miodrag Kustudić,Hércules CF,67,34,7,0.51
+,Laguardia,Real Sociedad,88,34,0,0.39
+,Leo Baptistão *,"Espanyol Barcelona
+																				Rayo Vallecano
+																				Villarreal CF
+																				Real Betis",178,34,1,0.19
+* Active player,NA,NA,NA,NA,NA,NA
+551,Gustavo López,"Real Zaragoza
+																				Celta Vigo",310,34,2,0.11
+,Jorge López,"Sevilla FC
+																				Burgos CF",172,34,0,0.20
+,Losada,"Espanyol Barcelona
+																				Real Madrid
+																				Celta Vigo
+																				Atlético Madrid",131,34,0,0.26
+,Marañon,"CA Osasuna
+																				Real Oviedo
+																				Levante UD",140,34,5,0.24
+,Marianín,Real Oviedo,70,34,0,0.49
+,Martín Monreal,CA Osasuna,225,34,5,0.15
+,Mesa,Sporting Gijón,310,34,0,0.11
+,Pepe Gálvez,"RCD Mallorca
+																				Valencia CF
+																				Real Betis",177,34,0,0.19
+,Ricardito,"UD Las Palmas
+																				Real Valladolid",123,34,0,0.28
+,Rogelio Sosa,Real Betis,175,34,4,0.19
+,Sabas,"Rayo Vallecano
+																				Real Betis
+																				Atlético Madrid
+																				Mérida AD",196,34,0,0.17
+,Silvestre,"Real Sociedad
+																				CA Osasuna
+																				Real Murcia",118,34,4,0.29
+,Rafael Zuviría,"RCD Mallorca
+																				FC Barcelona
+																				Racing Santander",243,34,6,0.14
+564,John Aldridge,Real Sociedad,63,33,8,0.52
+,Asensi,Valencia CF,275,33,0,0.12
+,Bodipo,"Deportivo La Coruña
+																				CD Alavés
+																				Racing Santander",158,33,0,0.21
+,Caballero,"Deportivo La Coruña
+																				Real Betis",140,33,0,0.24
+,Dindurra,"Real Madrid
+																				Sporting Gijón
+																				Real Oviedo",142,33,3,0.23
+,Duca,"RCD Mallorca
+																				Real Zaragoza",112,33,4,0.29
+,Idiakez,Real Sociedad,233,33,2,0.14
+,Iraola,Athletic Bilbao,406,33,8,0.08
+,José Juan,"UD Las Palmas
+																				CD Tenerife",129,33,0,0.26
+,José Pérez,"RCD Mallorca
+																				Deportivo La Coruña
+																				Real Oviedo",181,33,1,0.18
+,Juanito,"FC Barcelona
+																				Hércules CF
+																				UD Salamanca",187,33,1,0.18
+,Justo Gilberto,"UD Las Palmas
+																				CD Tenerife",215,33,0,0.15
+,Marquínez,Deportivo La Coruña,101,33,0,0.33
+,Mata *,Valencia CF,129,33,2,0.26
+,Mikel Oyarzabal *,Real Sociedad,131,33,3,0.25
+,Molina,Atlético Madrid,58,33,0,0.57
+,Nadal,"RCD Mallorca
+																				FC Barcelona",463,33,0,0.07
+,Pauleta,"Deportivo La Coruña
+																				UD Salamanca",92,33,2,0.36
+,Rodrigo *,Valencia CF,144,33,2,0.23
+,Sanchís,Real Madrid,523,33,0,0.06
+,Veloso,"Deportivo La Coruña
+																				Real Madrid",84,33,4,0.39
+,Vizcaíno,"Real Valladolid
+																				Real Zaragoza
+																				Atlético Madrid",396,33,1,0.08
+,Zaballa,"FC Barcelona
+																				CE Sabadell",170,33,0,0.19
+587,Pablo Aimar,"Real Zaragoza
+																				Valencia CF",215,32,1,0.15
+,Arregui,"Sevilla FC
+																				Real Jaén",59,32,0,0.54
+,Cédric Bakambu *,Villarreal CF,75,32,1,0.43
+,Pedro Cabral,"Sevilla FC
+																				Málaga CF",131,32,1,0.24
+,Rommel Fernández,"Valencia CF
+																				CD Tenerife
+																				Albacete",104,32,0,0.31
+,Gabilondo,"Real Sociedad
+																				Athletic Bilbao",276,32,0,0.12
+,Ariel Ibagaza,"RCD Mallorca
+																				Villarreal CF
+																				Atlético Madrid",343,32,3,0.09
+,José Ufarte,"Atlético Madrid
+																				Racing Santander",273,32,2,0.12
+,Julio Prieto,"Celta Vigo
+																				Atlético Madrid
+																				CD Castellón",305,32,1,0.10
+,Loredo,Racing Santander,86,32,0,0.37
+,Lucas Pérez *,Deportivo La Coruña,93,32,6,0.34
+,Horacio Moyano,"Celta Vigo
+																				Real Betis
+																				Hércules CF
+																				Real Murcia",183,32,1,0.17
+,Orozco,"Málaga CF
+																				Atlético Madrid",139,32,1,0.23
+,Pepe Juan,UD Las Palmas,153,32,15,0.21
+* Active player,NA,NA,NA,NA,NA,NA
+601,Pedro Sara,"Real Oviedo
+																				Real Jaén
+																				Real Murcia",89,32,1,0.36
+,Telete,Racing Santander,70,32,0,0.46
+,Vavá,Atlético Madrid,71,32,4,0.45
+,Vidal,"Atlético Madrid
+																				CD Alcoyano",53,32,0,0.60
+,Williams *,Athletic Bilbao,157,32,0,0.20
+606,Aldana,"Deportivo La Coruña
+																				Real Madrid",178,31,0,0.17
+,Amas,"Espanyol Barcelona
+																				Real Sociedad",204,31,0,0.15
+,Basabe,"Real Sociedad
+																				Atlético Madrid
+																				Real Oviedo",103,31,0,0.30
+,Boronat,Real Sociedad,225,31,0,0.14
+,Henry Carlsson,Atlético Madrid,87,31,0,0.36
+,Raúl Castronovo,"Málaga CF
+																				Hércules CF
+																				UD Salamanca",98,31,5,0.32
+,Phillip Cocu,FC Barcelona,205,31,0,0.15
+,Sebastián Fleitas,"Real Madrid
+																				Málaga CF",87,31,3,0.36
+,Grande,"Real Madrid
+																				Racing Santander
+																				Granada CF",176,31,5,0.18
+,Iborra *,"Sevilla FC
+																				Villarreal CF
+																				Levante UD",229,31,1,0.14
+,Slaviša Jokanović,"Deportivo La Coruña
+																				CD Tenerife
+																				Real Oviedo",208,31,11,0.15
+,Morales *,Levante UD,142,31,6,0.22
+,Morata *,"Real Madrid
+																				Atlético Madrid",78,31,0,0.40
+,Morera,"Valencia CF
+																				Real Murcia",57,31,1,0.54
+,Óscar,"Espanyol Barcelona
+																				FC Barcelona
+																				Valencia CF
+																				Albacete",169,31,0,0.18
+,Paquito,"Valencia CF
+																				Real Oviedo",327,31,0,0.09
+,Retamar,"Sevilla FC
+																				Celta Vigo
+																				Real Murcia",97,31,1,0.32
+,Rubén Navarro,"CD Alavés
+																				CD Numancia",147,31,2,0.21
+,Allan Simonsen,FC Barcelona,98,31,3,0.32
+,Florent Sinama-Pongolle,"Real Zaragoza
+																				Atlético Madrid
+																				Recreativo Huelva",132,31,2,0.23
+,Sobrado,"Real Madrid
+																				Celta Vigo
+																				Racing Santander",82,31,1,0.38
+,Tini,"Real Valladolid
+																				Athletic Bilbao",159,31,0,0.19
+,Trompi,Granada CF,87,31,0,0.36
+629,Arnau,"Málaga CF
+																				CD Castellón",181,30,0,0.17
+,Barkero,"Real Sociedad
+																				CD Numancia
+																				Levante UD",159,30,11,0.19
+,Caeiro,Real Sociedad,57,30,0,0.53
+,Chirri,Athletic Bilbao,90,30,0,0.33
+,Maximiliano Gómez *,Celta Vigo,70,30,1,0.43
+,Gurruchaga,"Real Madrid
+																				Arenas de Getxo",66,30,0,0.45
+,Macario,"UD Las Palmas
+																				Valencia CF",137,30,0,0.22
+,Manuel Alfaro,"Villarreal CF
+																				Atlético Madrid
+																				Hércules CF",103,30,15,0.29
+,Mariano Uceda,"Sevilla FC
+																				Atlético Madrid
+																				Racing Santander",58,30,0,0.52
+,Mejías,"Real Murcia
+																				Cádiz CF",163,30,1,0.18
+,Nicola,"Hércules CF
+																				Granada CF",65,30,0,0.46
+,Orejuela,"Espanyol Barcelona
+																				Real Zaragoza
+																				CA Osasuna",141,30,1,0.21
+,Orejuela,"RCD Mallorca
+																				Rayo Vallecano
+																				Atlético Madrid
+																				UD Salamanca",211,30,5,0.14
+,Parra,"Real Madrid
+																				Real Betis
+																				Atlético Madrid",283,30,1,0.11
+,Peralta,"Real Valladolid
+																				Gimnàstic",57,30,0,0.53
+,Ramon Pera,FC Barcelona,60,30,0,0.50
+,Oleg Salenko,"Valencia CF
+																				CD Logroñés",72,30,7,0.42
+,Sergi Enrich *,SD Eibar,135,30,0,0.22
+,Valerón,"RCD Mallorca
+																				Deportivo La Coruña
+																				Atlético Madrid",403,30,0,0.07
+,Yermo,Arenas de Getxo,51,30,0,0.59
+649,Adrover,"Atlético Madrid
+																				Hércules CF",139,29,0,0.21
+,Ara,"Real Valladolid
+																				Espanyol Barcelona
+																				Real Murcia
+																				CE Sabadell
+																				CD Alcoyano",121,29,0,0.24
+* Active player,NA,NA,NA,NA,NA,NA
+651,Juan Benavídez,"Espanyol Barcelona
+																				Granada CF",89,29,4,0.33
+,Berrocal,Sevilla FC,85,29,0,0.34
+,Bolo,"Athletic Bilbao
+																				Rayo Vallecano",168,29,2,0.17
+,Bosch,"FC Barcelona
+																				Real Betis",276,29,1,0.11
+,Miguel Brindisi,UD Las Palmas,92,29,7,0.32
+,Colsa,"RCD Mallorca
+																				Real Valladolid
+																				Atlético Madrid
+																				Racing Santander",340,29,1,0.09
+,Elices,"Athletic Bilbao
+																				Real Madrid",107,29,0,0.27
+,Emilín Alonso,"Real Madrid
+																				Arenas de Getxo",87,29,2,0.33
+,Teodoro Fernández,UD Las Palmas,129,29,0,0.22
+,Gail,"Real Valladolid
+																				Real Betis",266,29,12,0.11
+,Gallart,"Espanyol Barcelona
+																				Real Oviedo",107,29,0,0.27
+,Grau,"Espanyol Barcelona
+																				Sporting Gijón",78,29,1,0.37
+,Jorge Sosa,Atlético Madrid,43,29,0,0.67
+,Koke *,Atlético Madrid,284,29,0,0.10
+,John Lauridsen,"Espanyol Barcelona
+																				Málaga CF",271,29,10,0.11
+,Leal,"Atlético Madrid
+																				Sporting Gijón",208,29,1,0.14
+,Molina,"RCD Mallorca
+																				Real Valladolid
+																				Real Betis
+																				Elche CF",120,29,2,0.24
+,Murúa,Espanyol BarcelonaAD Almería,121,29,2,0.24
+,Palau,"FC Barcelona
+																				CE Sabadell",125,29,1,0.23
+,Piqué *,"Real Zaragoza
+																				FC Barcelona",332,29,0,0.09
+,Piti *,"Rayo Vallecano
+																				Granada CF",148,29,6,0.20
+,Rípodas,"Athletic Bilbao
+																				CA Osasuna",279,29,1,0.10
+,Sergio Rodriguez,"Málaga CF
+																				Hércules CF",92,29,0,0.32
+,Sarasqueta,Real Sociedad,115,29,0,0.25
+,Sonny Anderson,"FC Barcelona
+																				Villarreal CF",85,29,0,0.34
+,Tatono,Hércules CF,85,29,1,0.34
+,Tintín Márquez,Espanyol Barcelona,139,29,0,0.21
+,Vergara,"FC Barcelona
+																				CA Osasuna",34,29,1,0.85
+,Nikola Žigić,"Valencia CF
+																				Racing Santander",79,29,1,0.37
+680,Álvarez Huerta,"Málaga CF
+																				Córdoba CF
+																				UD Salamanca",205,28,1,0.14
+,Apoño,"Real Zaragoza
+																				Málaga CF",138,28,19,0.20
+,Aranda,"Real Zaragoza
+																				Sevilla FC
+																				Villarreal CF
+																				CA Osasuna
+																				CD Numancia
+																				Albacete
+																				Granada CF",168,28,3,0.17
+,Artigas,Espanyol Barcelona,132,28,0,0.21
+,Gavril Balint,Burgos CF,83,28,8,0.34
+,Miguel Benítez,Espanyol Barcelona,157,28,0,0.18
+,Vladimir Beschastnykh,Racing Santander,141,28,2,0.20
+,Canabal,"Real Valladolid
+																				CD Alavés
+																				Rayo Vallecano
+																				Málaga CF",174,28,0,0.16
+,Cani,"Real Zaragoza
+																				Villarreal CF",340,28,0,0.08
+,Castany,Real Zaragoza,155,28,8,0.18
+,Cesc Fàbregas *,FC Barcelona,96,28,2,0.29
+,Chao,"Deportivo La Coruña
+																				Málaga CF",135,28,0,0.21
+,Julio Corcuera,Deportivo La Coruña,88,28,0,0.32
+,Del Sol,"Real Madrid
+																				Real Betis",112,28,1,0.25
+,Luis García Postigo,Atlético Madrid,68,28,7,0.41
+,Gaztelu,Real Sociedad,253,28,2,0.11
+,Ibai *,"Athletic Bilbao
+																				CD Alavés",195,28,2,0.14
+,Isidro,"Real Madrid
+																				Racing Santander
+																				Elche CF",221,28,0,0.13
+,Jesuli,"Sevilla FC
+																				Celta Vigo",184,28,0,0.15
+,Jonathan Viera *,"UD Las Palmas
+																				Valencia CF
+																				Rayo Vallecano",134,28,12,0.21
+,Jones,Atlético Madrid,80,28,0,0.35
+* Active player,NA,NA,NA,NA,NA,NA
+701,Leon Fandos,Racing Santander,72,28,0,0.39
+,Martínez,"Málaga CF
+																				Racing Santander
+																				Lleida Esportiu",91,28,0,0.31
+,Oliveros,"Real Zaragoza
+																				Sevilla FC
+																				FC Barcelona
+																				Granada CF",178,28,1,0.16
+,Oñoro,Sevilla FC,72,28,0,0.39
+,Fabián Orellana *,"Valencia CF
+																				Celta Vigo
+																				Xerez CD
+																				SD Eibar",228,28,2,0.12
+,Roberto Gil,Valencia CF,210,28,0,0.13
+,James Rodríguez *,Real Madrid,77,28,0,0.36
+,Roger,"Espanyol Barcelona
+																				FC Barcelona
+																				Villarreal CF",247,28,2,0.11
+,Saavedra,"UD Las Palmas
+																				Elche CF",180,28,0,0.16
+,Sarriugarte,"Athletic Bilbao
+																				Real Oviedo",160,28,0,0.18
+,Tendillo,"Valencia CF
+																				Real Madrid
+																				Burgos CF
+																				Real Murcia",371,28,1,0.08
+,Urtubi,Athletic Bilbao,209,28,14,0.13
+,Villa,"Deportivo La Coruña
+																				Sporting Gijón",161,28,1,0.17
+714,Alexis,"UD Las Palmas
+																				Real Betis",257,27,15,0.11
+,Arsuaga,"Real Madrid
+																				Racing Santander",90,27,0,0.30
+,Belmar,"Real Madrid
+																				Hércules CF
+																				CE Sabadell",102,27,0,0.26
+,Carlitos,"RCD Mallorca
+																				Sevilla FC",189,27,0,0.14
+,Fernando,"Deportivo La Coruña
+																				Real Valladolid
+																				Real Betis
+																				CA Osasuna",201,27,0,0.13
+,Galán,Real Oviedo,90,27,1,0.30
+,García Hernández,Real Madrid,84,27,0,0.32
+,Gonzalvo,"FC Barcelona
+																				CD Condal",224,27,0,0.12
+,Hélder Postiga,"Deportivo La Coruña
+																				Real Zaragoza
+																				Valencia CF",99,27,1,0.27
+,Tomer Hemed *,"RCD Mallorca
+																				UD Almería",101,27,7,0.27
+,Vicente Jara,"Valencia CF
+																				Córdoba CF
+																				CE Sabadell",107,27,1,0.25
+,José Gay,"Espanyol Barcelona
+																				Real Zaragoza",180,27,1,0.15
+,Losada,"RCD Mallorca
+																				Real Valladolid
+																				Real Oviedo",113,27,2,0.24
+,Diego Maradona,"Sevilla FC
+																				FC Barcelona",62,27,6,0.44
+,Pallas,CE Sabadell,106,27,1,0.25
+,Peña,"Real Valladolid
+																				Real Zaragoza",189,27,0,0.14
+,Dmitri Radchenko,"Deportivo La Coruña
+																				Rayo Vallecano
+																				Racing Santander",141,27,1,0.19
+,Sampedro,"RCD Mallorca
+																				FC Barcelona
+																				Racing Santander",99,27,4,0.27
+,San José *,Athletic Bilbao,294,27,2,0.09
+,Saro,"Real Betis
+																				Arenas de Getxo",156,27,4,0.17
+,Tibor Szalay,"Sevilla FC
+																				FC Barcelona
+																				Real Murcia",85,27,2,0.32
+,Vall,"Espanyol Barcelona
+																				Levante UD
+																				CE Sabadell",139,27,0,0.19
+,Velamazán,"Espanyol Barcelona
+																				FC Barcelona
+																				Real Oviedo
+																				CF Extremadura",198,27,1,0.14
+,Xirau,"Espanyol Barcelona
+																				Hércules CF",82,27,1,0.33
+738,Álvaro *,"Espanyol Barcelona
+																				Getafe CF",155,26,2,0.17
+,Antoñito,"Sevilla FC
+																				Racing Santander
+																				Xerez CD",146,26,0,0.18
+,Ayala,Sevilla FC,72,26,1,0.36
+,Pablo Bengoechea,Sevilla FC,135,26,4,0.19
+,Bojan *,FC Barcelona,117,26,1,0.22
+,Canales *,"Real Sociedad
+																				Valencia CF
+																				Real Betis
+																				Racing Santander",252,26,2,0.10
+,Giovani dos Santos,"RCD Mallorca
+																				FC Barcelona
+																				Villarreal CF
+																				Racing Santander",130,26,1,0.20
+,Dueñas,"FC Barcelona
+																				Granada CF",110,26,0,0.24
+,Duque,"Espanyol Barcelona
+																				Athletic Bilbao",35,26,0,0.74
+,Echeveste,"Real Sociedad
+																				Racing Santander",135,26,0,0.19
+,Eduardo Endériz,"Real Valladolid
+																				Real Zaragoza
+																				FC Barcelona",119,26,0,0.22
+,Gallego,"Sevilla FC
+																				FC Barcelona",433,26,0,0.06
+,Guayre,"UD Las Palmas
+																				Celta Vigo
+																				Villarreal CF",185,26,0,0.14
+* Active player,NA,NA,NA,NA,NA,NA
+751,Iván Rosado,CA Osasuna,121,26,1,0.21
+,Merino,"Celta Vigo
+																				CA Osasuna",293,26,0,0.09
+,Navarro,"Real Valladolid
+																				FC Barcelona
+																				Real Madrid
+																				CA Osasuna",105,26,0,0.25
+,Nilmar,Villarreal CF,85,26,1,0.31
+,Felipe Ocampos,Real Zaragoza,87,26,0,0.30
+,Paco Machín,"Real Betis
+																				Racing Santander",87,26,0,0.30
+,Pineda,"Sevilla FC
+																				Celta Vigo
+																				Real Jaén",110,26,1,0.24
+,Planelles,"Real Zaragoza
+																				Valencia CF
+																				Real Madrid
+																				CD Castellón",141,26,1,0.18
+,Poyatos,"Valencia CF
+																				CD Logroñés",205,26,0,0.13
+,Roque Santa Cruz *,"Málaga CF
+																				Real Betis",124,26,0,0.21
+,Simão,"Espanyol Barcelona
+																				FC Barcelona
+																				Atlético Madrid",219,26,1,0.12
+,Sitjà,Elche CF,145,26,0,0.18
+,Mohammed Tchité,Racing Santander,88,26,6,0.30
+,Walter,Valencia CF,81,26,0,0.32
+765,Ángel *,"CD Tenerife
+																				Levante UD
+																				Getafe CF",128,25,0,0.20
+,Bidegain,"Real Sociedad
+																				Hércules CF
+																				Lleida Esportiu",76,25,0,0.33
+,Borja Bastón *,"CD Alavés
+																				Málaga CF
+																				SD Eibar",83,25,4,0.30
+,Ciriaco,"Sporting Gijón
+																				Elche CF",311,25,13,0.08
+,Corchado,"Real Zaragoza
+																				UD Salamanca",140,25,0,0.18
+,De Lucas,"Espanyol Barcelona
+																				CD Alavés
+																				Celta Vigo
+																				Real Murcia",167,25,4,0.15
+,Gracía López,"FC Barcelona
+																				CE Sabadell",79,25,0,0.32
+,Índio,Espanyol Barcelona,63,25,0,0.40
+,Jesús Navas *,Sevilla FC,340,25,0,0.07
+,Lafuente,"Athletic Bilbao
+																				Atlético Madrid",116,25,1,0.22
+,López,Real Betis,266,25,0,0.09
+,Magritas,"Racing Santander
+																				Real Murcia",98,25,0,0.26
+,Marcelo *,Real Madrid,341,25,0,0.07
+,Marcos,"RCD Mallorca
+																				Sevilla FC
+																				Mérida AD",402,25,3,0.06
+,Marsal,"Real Madrid
+																				Real Murcia",63,25,0,0.40
+,Míchel,"Rayo Vallecano
+																				Real Murcia",182,25,1,0.14
+,Munir *,"Sevilla FC
+																				FC Barcelona
+																				Valencia CF
+																				CD Alavés",113,25,0,0.22
+,Oscar Rodríguez,Racing Santander,65,25,4,0.38
+,Dmitri Popov,"Racing Santander
+																				SD Compostela",153,25,0,0.16
+,Rafa Paz,Sevilla FC,340,25,1,0.07
+,Mario Regueiro,"Valencia CF
+																				Racing Santander
+																				Real Murcia",167,25,0,0.15
+,Renato,Sevilla FC,204,25,0,0.12
+,Robinho *,Real Madrid,101,25,0,0.25
+,Salomón Rondón *,Málaga CF,67,25,0,0.37
+,Antonio Sanabria *,"Real Betis
+																				Sporting Gijón",83,25,2,0.30
+,Sastre,"Espanyol Barcelona
+																				Valencia CF",189,25,7,0.13
+,Víctor Muñoz,"Real Zaragoza
+																				FC Barcelona",332,25,0,0.08
+792,Abelardo,"FC Barcelona
+																				Sporting Gijón",385,24,0,0.06
+,Alcañiz,"Valencia CF
+																				CD Castellón",100,24,2,0.24
+,Amorrortu,"Real Zaragoza
+																				Athletic Bilbao",220,24,0,0.11
+,Florin Andone *,"Deportivo La Coruña
+																				Córdoba CF",86,24,0,0.28
+,Aparicio,"Hércules CF
+																				Granada CF",96,24,0,0.25
+,Daniel Aquino,"Rayo Vallecano
+																				Real Betis
+																				Albacete",90,24,3,0.27
+,Steve Archibald,FC Barcelona,55,24,0,0.44
+,Arzac,Real Sociedad,165,24,0,0.15
+,Éver Banega *,"Sevilla FC
+																				Valencia CF
+																				Atlético Madrid",282,24,7,0.09
+* Active player,NA,NA,NA,NA,NA,NA
+801,Daniel Bertoni,Sevilla FC,57,24,4,0.42
+,Wilmar Cabrera,"Valencia CF
+																				Sporting Gijón",76,24,0,0.32
+,Camuñas,"Deportivo La Coruña
+																				Villarreal CF
+																				CA Osasuna
+																				Recreativo Huelva",205,24,0,0.12
+,Bent Christensen,SD Compostela,76,24,2,0.32
+,Conte,"Sevilla FC
+																				CD Tenerife",229,24,0,0.10
+,Dani Alves *,"Sevilla FC
+																				FC Barcelona",422,24,0,0.06
+,David Silva *,"Valencia CF
+																				Celta Vigo",153,24,0,0.16
+,Esteban Vigo,"FC Barcelona
+																				Málaga CF",240,24,0,0.10
+,García Cortés,"RCD Mallorca
+																				Real Zaragoza
+																				Real Madrid
+																				Rayo Vallecano
+																				Burgos CF",312,24,8,0.08
+,Garzón,"Sevilla FC
+																				CE Sabadell",131,24,3,0.18
+,Guilherme,Rayo Vallecano,72,24,0,0.33
+,Jimmy Floyd Hasselbaink,Atlético Madrid,34,24,4,0.71
+,Juan Carlos Heredia,"FC Barcelona
+																				Elche CF",98,24,0,0.24
+,Hilario,"Deportivo La Coruña
+																				FC Barcelona
+																				Real Madrid",83,24,1,0.29
+,Iborra,"Valencia CF
+																				Sporting Gijón
+																				Elche CF",346,24,4,0.07
+,Raymond Kopa,Real Madrid,79,24,0,0.30
+,Liz,"Deportivo La Coruña
+																				Sevilla FC",103,24,0,0.23
+,Luis Pérez,Real Sociedad,184,24,0,0.13
+,Maceda,"Real Madrid
+																				Sporting Gijón",223,24,0,0.11
+,Mañó,Valencia CF,174,24,0,0.14
+,Manucho *,"Real Valladolid
+																				Rayo Vallecano",144,24,0,0.17
+,Marcos Assunção,Real Betis,135,24,2,0.18
+,Miguel Muñoz,"Real Madrid
+																				Celta Vigo",259,24,2,0.09
+,Minguela,Real Valladolid,341,24,2,0.07
+,Morro,"UD Las Palmas
+																				Real Valladolid",43,24,0,0.56
+,Kiki Musampa,"Málaga CF
+																				Atlético Madrid",130,24,2,0.18
+,Javad Nekounam,CA Osasuna,149,24,10,0.16
+,Nino *,"CD Tenerife
+																				CA Osasuna
+																				Levante UD",121,24,0,0.20
+,Odriozola,"Racing Santander
+																				Pontevedra CF",153,24,4,0.16
+,Planas,Real Zaragoza,148,24,0,0.16
+,Quiles,"CE Sabadell
+																				Granada CF",161,24,3,0.15
+,Rafa Yunta,"Real Valladolid
+																				Real Madrid",77,24,0,0.31
+,Ramiro,Atlético Madrid,117,24,6,0.21
+,Ricardo Alós,Valencia CF,41,24,0,0.59
+,Samitier,"FC Barcelona
+																				Real Madrid",36,24,0,0.67
+,Subirats,Valencia CF,250,24,3,0.10
+,Christian Vieri,Atlético Madrid,24,24,2,1.00
+838,Bosch,Espanyol Barcelona,130,23,0,0.18
+,David López,"Athletic Bilbao
+																				CA Osasuna",197,23,6,0.12
+,Geli,"CD Alavés
+																				Atlético Madrid
+																				Albacete",343,23,2,0.07
+,Kily González,"Real Zaragoza
+																				Valencia CF",182,23,0,0.13
+,Gheorghe Hagi,"FC Barcelona
+																				Real Madrid",100,23,1,0.23
+,Hernández,"Espanyol Barcelona
+																				Valencia CF
+																				CD Castellón",108,23,0,0.21
+,Jamelli,Real Zaragoza,102,23,1,0.23
+,Juan Carlos,"FC Barcelona
+																				Racing Santander",243,23,0,0.09
+,Juanin,"Deportivo La Coruña
+																				Celta Vigo",40,23,0,0.58
+,Kaká,Real Madrid,85,23,5,0.27
+,Salif Keïta,Valencia CF,74,23,0,0.31
+,Jorge Larraz,"UD Las Palmas
+																				Deportivo La Coruña
+																				CD Tenerife
+																				Granada CF",92,23,1,0.25
+,Joaquin Larrivey *,"Celta Vigo
+																				Rayo Vallecano",70,23,3,0.33
+* Active player,NA,NA,NA,NA,NA,NA
+851,Milan Luhový,Sporting Gijón,56,23,3,0.41
+,Nenê *,"RCD Mallorca
+																				Espanyol Barcelona
+																				CD Alavés
+																				Celta Vigo",140,23,5,0.16
+,Oriol Riera *,"Deportivo La Coruña
+																				CA Osasuna",102,23,0,0.23
+,Pintinho,Sevilla FC,97,23,11,0.24
+,Haim Revivo,Celta Vigo,124,23,0,0.19
+,Revuelta,"Real Valladolid
+																				Racing Santander",82,23,0,0.28
+,Rifé,FC Barcelona,290,23,0,0.08
+,Rivera Masón,"Real Valladolid
+																				Real Sociedad
+																				Levante UD",94,23,0,0.24
+,Rufete,"Espanyol Barcelona
+																				Valencia CF
+																				Málaga CF",269,23,1,0.09
+,Serena,"Real Madrid
+																				CA Osasuna
+																				Elche CF",144,23,2,0.16
+,Soria,"CD Castellón
+																				CD Alcoyano",81,23,1,0.28
+,Sospedra,"Espanyol Barcelona
+																				FC Barcelona",111,23,0,0.21
+,Toni,CE Sabadell,75,23,0,0.31
+,Turu Flores,"Deportivo La Coruña
+																				Real Valladolid",104,23,1,0.22
+,Urreisti,Real Sociedad,231,23,1,0.10
+,Vívar Dorado,"Real Valladolid
+																				CD Tenerife
+																				Racing Santander
+																				Getafe CF",296,23,0,0.08
+867,Mutiu Adepoju,"Real Sociedad
+																				Racing Santander",175,22,0,0.13
+,Aldecoa,"Real Valladolid
+																				Athletic Bilbao
+																				FC Barcelona",120,22,0,0.18
+,Arana Parrés,"Hércules CF
+																				Córdoba CF",53,22,0,0.42
+,Aranburu,Real Sociedad,296,22,0,0.07
+,Mate Bilić,"Real Zaragoza
+																				Sporting Gijón",124,22,3,0.18
+,Elvir Bolić,Rayo Vallecano,98,22,0,0.22
+,Ramón Carranza,"Espanyol Barcelona
+																				Granada CF",89,22,1,0.25
+,Juan Casco,"Real Murcia
+																				Elche CF",113,22,2,0.19
+,Cruellas,Espanyol Barcelona,60,22,1,0.37
+,Jordi Cruyff,"Espanyol Barcelona
+																				FC Barcelona
+																				CD Alavés
+																				Celta Vigo",173,22,0,0.13
+,Doblas,Celta Vigo,101,22,0,0.22
+,Charles Ducasse,"Real Valladolid
+																				Real Sociedad",86,22,0,0.26
+,Sofiane Féghouli *,"Valencia CF
+																				UD Almería",155,22,0,0.14
+,José Figueroa,Real Murcia,54,22,7,0.41
+,Gallego,Real Madrid,250,22,0,0.09
+,Crispín García Maciel,"UD Las Palmas
+																				Granada CF",83,22,0,0.27
+,Garmendia,"Real Sociedad
+																				Real Unión",67,22,0,0.33
+,Gausi,"Real Zaragoza
+																				Celta Vigo",149,22,0,0.15
+,Guillamón,"RCD Mallorca
+																				Sevilla FC",273,22,5,0.08
+,Robert Jarni,"UD Las Palmas
+																				Real Madrid
+																				Real Betis",151,22,3,0.15
+,Javi Martínez *,Athletic Bilbao,201,22,0,0.11
+,Jurado *,"RCD Mallorca
+																				Espanyol Barcelona
+																				Atlético Madrid",186,22,0,0.12
+,Kike Sola,"Athletic Bilbao
+																				CA Osasuna",104,22,0,0.21
+,Roman Kosecki,"Atlético Madrid
+																				CA Osasuna",93,22,1,0.24
+,Luis Cembranos,"Espanyol Barcelona
+																				Rayo Vallecano",155,22,5,0.14
+,Martín Esperanza,"Real Betis
+																				Pontevedra CF",177,22,3,0.12
+,Méndez Alonso,Sporting Gijón,40,22,0,0.55
+,Miguel Sánchez,"Deportivo La Coruña
+																				Real Oviedo
+																				Granada CF",57,22,1,0.39
+,Pablo Hernández *,"Valencia CF
+																				Rayo Vallecano
+																				Getafe CF",166,22,0,0.13
+,Antonio Pacheco,"Espanyol Barcelona
+																				Albacete",80,22,4,0.28
+,Pallares,Real Betis,116,22,2,0.19
+,Paredes,"Espanyol Barcelona
+																				Valencia CF",40,22,0,0.55
+,Patxi Ferreira,"Athletic Bilbao
+																				Sevilla FC
+																				Valencia CF
+																				Atlético Madrid",358,22,0,0.06
+,Pizá,CD Castellón,112,22,0,0.20
+* Active player,NA,NA,NA,NA,NA,NA
+901,Poli,"Espanyol Barcelona
+																				Valencia CF",229,22,0,0.10
+,Prendes,"Sporting Gijón
+																				Real Murcia",74,22,0,0.30
+,Pujol,"FC Barcelona
+																				CD Castellón
+																				CE Sabadell",100,22,0,0.22
+,Puñal,CA Osasuna,420,22,14,0.05
+,Johnny Rep,Valencia CF,55,22,4,0.40
+,Santi,"Sevilla FC
+																				Málaga CF",97,22,3,0.23
+,Soriano,"Real Zaragoza
+																				CA Osasuna
+																				UD Almería",229,22,0,0.10
+,Suárez,"Celta Vigo
+																				Real Betis
+																				Racing Santander",138,22,4,0.16
+,Ucelay,"Real Sociedad
+																				CD Alavés",45,22,0,0.49
+,Vaquero,Real Valladolid,51,22,0,0.43
+,Xavier Aguado,Real Zaragoza,383,22,0,0.06
+912,Aguilera,"CD Tenerife
+																				Atlético Madrid",375,21,0,0.06
+,Juan Albín *,"Espanyol Barcelona
+																				Getafe CF",129,21,0,0.16
+,Alvarito,Rayo VallecanoAD Almería,87,21,0,0.24
+,Arizmendi,"RCD Mallorca
+																				Deportivo La Coruña
+																				Real Zaragoza
+																				Valencia CF
+																				Racing Santander
+																				Getafe CF",180,21,0,0.12
+,Beci,Deportivo La Coruña,106,21,0,0.20
+,Berruezo,"Sevilla FC
+																				Málaga CF",98,21,0,0.21
+,Nenad Bjelica,"Real Betis
+																				Albacete",109,21,4,0.19
+,Bruno Soriano *,Villarreal CF,281,21,11,0.07
+,Bustingorri,"Atlético Madrid
+																				CA Osasuna",342,21,5,0.06
+,Carlos García,Athletic Bilbao,226,21,0,0.09
+,Cerdan,"Real Valladolid
+																				CA Osasuna",155,21,0,0.14
+,Corominas,"Espanyol Barcelona
+																				UD Salamanca",175,21,0,0.12
+,De Marcos *,Athletic Bilbao,284,21,0,0.07
+,Ángel Di María *,Real Madrid,124,21,0,0.17
+,Echeandia,CD Alavés,58,21,0,0.36
+,Elzo,"Deportivo La Coruña
+																				Real Zaragoza
+																				Valencia CF
+																				Real Madrid
+																				CD Castellón",76,21,0,0.28
+,Estruch,"Málaga CF
+																				Atlético Madrid
+																				CD Alcoyano",96,21,5,0.22
+,Ewerthon,"Espanyol Barcelona
+																				Real Zaragoza",83,21,3,0.25
+,Ezequiel Garay *,"Valencia CF
+																				Real Madrid
+																				Racing Santander",184,21,7,0.11
+,García Soriano,"Real Betis
+																				Real Murcia
+																				CE Sabadell",163,21,1,0.13
+,Diego Godín *,"Villarreal CF
+																				Atlético Madrid",367,21,0,0.06
+,Herrera,"Real Zaragoza
+																				Celta Vigo",173,21,0,0.12
+,Iturbe,"Sevilla FC
+																				Real Oviedo",79,21,0,0.27
+,Iván Helguera,"Espanyol Barcelona
+																				Valencia CF
+																				Real Madrid",290,21,0,0.07
+,Ivan Iglesias,"FC Barcelona
+																				Rayo Vallecano
+																				Sporting Gijón
+																				Real Oviedo",229,21,1,0.09
+,Jaén,"Sevilla FC
+																				Córdoba CF
+																				Granada CF",217,21,9,0.10
+,Jonathas *,"Real Sociedad
+																				Elche CF",61,21,0,0.34
+,Seydou Keita,"Sevilla FC
+																				FC Barcelona
+																				Valencia CF",161,21,0,0.13
+,Luis García,"Real Valladolid
+																				FC Barcelona
+																				Atlético Madrid",150,21,2,0.14
+,Mohamed Mahjoub,Racing Santander,52,21,0,0.40
+,Mendez Díaz,"Atlético Madrid
+																				Real Jaén",43,21,1,0.49
+,Mendiguren,Athletic Bilbao,191,21,0,0.11
+,Onésimo,"Real Valladolid
+																				Sevilla FC
+																				Rayo Vallecano",221,21,0,0.10
+,Pitarch,"Espanyol Barcelona
+																				Valencia CF
+																				CD Logroñés",120,21,0,0.18
+,Portillo,"Real Madrid
+																				CA Osasuna
+																				Hércules CF
+																				Gimnàstic",129,21,2,0.16
+,Robert Prosinečki,"Sevilla FC
+																				FC Barcelona
+																				Real Madrid
+																				Real Oviedo",124,21,6,0.17
+,Ramoní,"Sevilla FC
+																				Granada CF",184,21,2,0.11
+,Marco Rubén *,"Villarreal CF
+																				Recreativo Huelva",108,21,2,0.19
+,Salguero,"Sevilla FC
+																				Real Madrid
+																				Málaga CF",279,21,4,0.08
+* Active player,NA,NA,NA,NA,NA,NA
+951,Sergio León *,"Real Betis
+																				CA Osasuna",80,21,1,0.26
+,Tiko,Athletic Bilbao,198,21,1,0.11
+,Toquero *,"Athletic Bilbao
+																				CD Alavés",179,21,0,0.12
+,Valdés,Burgos CF,114,21,14,0.18
+,Valdes,Sporting Gijón,184,21,3,0.11
+,Vidal,"FC Barcelona
+																				CE Sabadell",93,21,0,0.23
+,Luciano Vietto *,"Sevilla FC
+																				Valencia CF
+																				Villarreal CF
+																				Atlético Madrid",92,21,0,0.23
+,Patricio Yañez,"Real Valladolid
+																				Real Zaragoza
+																				Real Betis",193,21,3,0.11
+959,Roberto Acuña,Real Zaragoza,166,20,1,0.12
+,Adriano *,"Sevilla FC
+																				FC Barcelona",271,20,0,0.07
+,Gabriel Amato,"RCD Mallorca
+																				Real Betis
+																				Hércules CF",104,20,5,0.19
+,Arteche,"Atlético Madrid
+																				Racing Santander",356,20,0,0.06
+,Yossi Benayoun *,Racing Santander,101,20,0,0.20
+,John Carew,Valencia CF,84,20,0,0.24
+,Castaño,"Real Madrid
+																				Real Betis",62,20,0,0.32
+,Castivia,Real Sociedad,60,20,7,0.33
+,Castro,"FC Barcelona
+																				Celta Vigo",206,20,1,0.10
+,Carlos Caszely,Espanyol Barcelona,46,20,2,0.43
+,Ángel Correa *,Atlético Madrid,128,20,0,0.16
+,Mario Finarolli,Elche CF,53,20,0,0.38
+,Gabi *,"Real Zaragoza
+																				Atlético Madrid
+																				Getafe CF",429,20,6,0.05
+,Mark González *,"Real Sociedad
+																				Real Betis
+																				Albacete",85,20,1,0.24
+,Jeremias,Espanyol Barcelona,65,20,0,0.31
+,José Hurtado,"Málaga CF
+																				CD Castellón",123,20,1,0.16
+,Juan Rodríguez,"Deportivo La Coruña
+																				Málaga CF
+																				Getafe CF",326,20,1,0.06
+,Julio Suárez,UD Las Palmas,124,20,2,0.16
+,Lolo,Real Valladolid,133,20,0,0.15
+,Marcos Senna,Villarreal CF,258,20,5,0.08
+,Menchaca,"Valencia CF
+																				Arenas de Getxo",54,20,0,0.37
+,Migueli,FC Barcelona,391,20,0,0.05
+,Alejandro Morera,"FC Barcelona
+																				Hércules CF",42,20,1,0.48
+,Noya,"CE Sabadell
+																				Granada CF",83,20,0,0.24
+,Pablo Osvaldo,Espanyol Barcelona,44,20,2,0.45
+,Martín Palermo,"Villarreal CF
+																				Real Betis",81,20,0,0.25
+,Pla,"Valencia CF
+																				Sporting Gijón",69,20,0,0.29
+,Polo,"Deportivo La Coruña
+																				Atlético Madrid",89,20,0,0.22
+,Quique Ramos,Atlético Madrid,273,20,0,0.07
+,Recalde,"CA Osasuna
+																				Pontevedra CF",131,20,1,0.15
+,Clemente Rolón,UD SalamancaAD Almería,73,20,1,0.27
+,Ruiz,"Málaga CF
+																				Atlético Madrid",319,20,0,0.06
+,Ruiz,"RCD Mallorca
+																				Espanyol Barcelona",98,20,0,0.20
+,Saúl *,"Rayo Vallecano
+																				Atlético Madrid",193,20,0,0.10
+,Adolfo Soto,"UD Las Palmas
+																				Real Zaragoza",117,20,0,0.17
+,Valle Mas,FC Barcelona,78,20,0,0.26
+,Juan Veron,"RCD Mallorca
+																				Racing Santander",101,20,1,0.20
+,Vicente Del Bosque,"Real Madrid
+																				Córdoba CF
+																				CD Castellón",288,20,0,0.07
+,Vitolo *,"UD Las Palmas
+																				Sevilla FC
+																				Atlético Madrid",157,20,0,0.13
+998,Adrián *,"Rayo Vallecano
+																				Málaga CF
+																				Racing Santander
+																				SD Eibar
+																				Getafe CF",243,19,6,0.08
+,Aganzo,"Real Valladolid
+																				Racing Santander",94,19,1,0.20
+,Alkiza,"Real Sociedad
+																				Athletic Bilbao",417,19,0,0.05
+* Active player,NA,NA,NA,NA,NA,NA

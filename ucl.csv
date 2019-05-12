@@ -1,0 +1,1462 @@
+rank,player,teams,matches,goals,penalties,rate
+1,Cristiano Ronaldo *,"Juventus
+																				Real Madrid
+																				Manchester United",162,126,16,0.78
+2,Lionel Messi *,FC Barcelona,135,112,12,0.83
+3,Raúl,"FC Schalke 04
+																				Real Madrid",142,71,1,0.50
+4,Karim Benzema *,"Real Madrid
+																				Olympique Lyon",112,60,0,0.54
+5,Ruud van Nistelrooy,"Real Madrid
+																				Manchester United
+																				PSV Eindhoven",73,56,10,0.77
+6,Robert Lewandowski *,"Borussia Dortmund
+																				Bayern München",80,53,9,0.66
+7,Thierry Henry,"FC Barcelona
+																				Arsenal FC
+																				AS Monaco",112,50,3,0.45
+8,Alfredo Di Stéfano,Real Madrid,58,49,3,0.84
+9,Zlatan Ibrahimović *,"Inter
+																				Juventus
+																				AC Milan
+																				FC Barcelona
+																				Paris Saint-Germain
+																				AFC Ajax",120,48,5,0.40
+,Andriy Shevchenko,"AC Milan
+																				Chelsea FC
+																				Dinamo Kiev",100,48,5,0.48
+11,Eusébio,SL Benfica,65,46,3,0.71
+,Filippo Inzaghi,"Juventus
+																				AC Milan",81,46,1,0.57
+13,Didier Drogba,"Chelsea FC
+																				Olympique Marseille
+																				Galatasaray",92,44,2,0.48
+14,Alessandro Del Piero,Juventus,89,42,6,0.47
+,Thomas Müller *,Bayern München,105,42,7,0.40
+16,Kun Agüero *,"Atlético Madrid
+																				Manchester City",68,37,9,0.54
+17,Ferenc Puskás,"Real Madrid
+																				Budapest Honvéd",41,36,3,0.88
+18,Edinson Cavani *,"Paris Saint-Germain
+																				SSC Napoli",59,34,3,0.58
+,Gerd Müller,Bayern München,35,34,1,0.97
+20,Morientes,"Valencia CF
+																				Real Madrid
+																				Liverpool FC
+																				AS Monaco",93,33,0,0.35
+21,Neymar *,"FC Barcelona
+																				Paris Saint-Germain",53,32,2,0.60
+22,Arjen Robben *,"Bayern München
+																				Real Madrid
+																				Chelsea FC
+																				PSV Eindhoven",110,31,2,0.28
+23,Samuel Eto'o *,"Inter
+																				RCD Mallorca
+																				FC Barcelona
+																				Chelsea FC",78,30,2,0.38
+,Gento,Real Madrid,89,30,2,0.34
+,Kaká,"AC Milan
+																				Real Madrid",86,30,5,0.35
+,Wayne Rooney *,Manchester United,85,30,4,0.35
+27,Patrick Kluivert,"FC Barcelona
+																				AFC Ajax",71,29,0,0.41
+,Roy Makaay,"Bayern München
+																				Deportivo La Coruña",61,29,3,0.48
+,David Trezeguet,"Juventus
+																				AS Monaco",58,29,0,0.50
+30,Ryan Giggs,Manchester United,145,28,0,0.19
+,Jean-Pierre Papin,"Bayern München
+																				AC Milan
+																				Olympique Marseille",37,28,2,0.76
+32,Rivaldo,"AC Milan
+																				FC Barcelona
+																				Olympiakos Piräus",73,27,6,0.37
+33,Mario Gomez *,"VfB Stuttgart
+																				Bayern München",44,26,0,0.59
+34,Hernán Crespo,"Lazio Roma
+																				Inter
+																				AC Milan
+																				Parma Calcio 1913
+																				Chelsea FC",65,25,0,0.38
+,Jardel,"Galatasaray
+																				FC Porto",46,25,0,0.54
+,Robin van Persie *,"Manchester United
+																				Arsenal FC",59,25,6,0.42
+37,José Altafini,"Juventus
+																				AC Milan",28,24,0,0.86
+,Giovane Élber,"Bayern München
+																				Olympique Lyon",69,24,0,0.35
+,José Augusto,SL Benfica,56,24,1,0.43
+,Luís Figo,"Inter
+																				FC Barcelona
+																				Real Madrid",103,24,10,0.23
+,Paul Scholes,Manchester United,124,24,2,0.19
+,Marco Simone,"AC Milan
+																				AS Monaco
+																				Paris Saint-Germain",46,24,1,0.52
+43,Frank Lampard,Chelsea FC,105,23,4,0.22
+,Jari Litmanen,"Liverpool FC
+																				AFC Ajax",59,23,3,0.39
+45,Edin Džeko *,"VfL Wolfsburg
+																				AS Roma
+																				Manchester City",55,22,0,0.40
+,Gonzalo Higuaín *,"Juventus
+																				Real Madrid
+																				SSC Napoli",75,22,2,0.29
+,Santillana,Real Madrid,46,22,0,0.48
+48,Amancio,Real Madrid,52,21,0,0.40
+,Steven Gerrard,Liverpool FC,73,21,6,0.29
+,Antoine Griezmann *,Atlético Madrid,54,21,4,0.39
+* Active player,NA,NA,NA,NA,NA,NA
+51,Luiz Adriano *,"Shakhtar Donetsk
+																				Spartak Moskva",47,21,3,0.45
+,Mario Mandžukić *,"Bayern München
+																				Juventus
+																				Atlético Madrid",60,21,0,0.35
+,Claudio Pizarro *,"Werder Bremen
+																				Bayern München",73,21,0,0.29
+,Serhiy Rebrov,Dinamo Kiev,43,21,4,0.49
+,Luis Suárez *,"FC Barcelona
+																				AFC Ajax",53,21,0,0.40
+56,Nicolas Anelka,"Real Madrid
+																				Chelsea FC
+																				Arsenal FC
+																				Paris Saint-Germain",68,20,1,0.29
+,Gareth Bale *,"Real Madrid
+																				Tottenham Hotspur",61,20,0,0.33
+,Cesc Fàbregas *,"FC Barcelona
+																				Chelsea FC
+																				Arsenal FC",104,20,5,0.19
+,Fernando Torres *,"Chelsea FC
+																				Liverpool FC
+																				Atlético Madrid",79,20,0,0.25
+,Romário,"FC Barcelona
+																				PSV Eindhoven",32,20,1,0.63
+,Paul Van Himst,RSC Anderlecht,39,20,0,0.51
+62,Johan Cruyff,AFC Ajax,49,19,0,0.39
+,Julio Cruz,"Inter
+																				Feyenoord",48,19,2,0.40
+,José Torres,SL Benfica,33,19,0,0.58
+,Lisandro López *,"Olympique Lyon
+																				FC Porto",47,19,1,0.40
+,Luis Enrique,FC Barcelona,44,19,1,0.43
+,Pirri,Real Madrid,57,19,1,0.33
+,Ole Gunnar Solskjær,Manchester United,77,19,0,0.25
+,Marco van Basten,AC Milan,27,19,4,0.70
+70,Jozef Adamec,"Spartak Trnava
+																				1. FK Příbram",35,18,0,0.51
+,John Carew,"Valencia CF
+																				Olympique Lyon
+																				Rosenborg BK",54,18,0,0.33
+,Andy Cole,Manchester United,48,18,0,0.38
+,Ángel Di María *,"Real Madrid
+																				Paris Saint-Germain",75,18,0,0.24
+,Lucho González *,"Olympique Marseille
+																				FC Porto",63,18,3,0.29
+,José Águas,SL Benfica,22,18,0,0.82
+,Juninho Pernambucano,Olympique Lyon,59,18,3,0.31
+,Franck Ribéry *,Bayern München,87,18,2,0.21
+,Ronaldinho,"AC Milan
+																				FC Barcelona",47,18,6,0.38
+,Javier Saviola,"FC Barcelona
+																				Málaga CF
+																				AS Monaco
+																				Olympiakos Piräus",56,18,0,0.32
+80,Butragueño,Real Madrid,29,17,0,0.59
+,Hulk *,"FC Porto
+																				Zenit St. Petersburg",50,17,3,0.34
+,Bora Kostić,Crvena Zvezda,19,17,0,0.89
+,Sandro Mazzola,Inter,38,17,2,0.45
+,Luc Nilis,"RSC Anderlecht
+																				PSV Eindhoven",42,17,0,0.40
+,Michel Platini,Juventus,28,17,5,0.61
+,Marco Reus *,Borussia Dortmund,36,17,1,0.47
+,Mohamed Salah *,"AS Roma
+																				Liverpool FC
+																				FC Basel",39,17,1,0.44
+,Hugo Sánchez,Real Madrid,27,17,4,0.63
+,Hristo Stoichkov,"FC Barcelona
+																				CSKA Sofia",35,17,1,0.49
+,Francesco Totti,AS Roma,57,17,4,0.30
+91,Michael Ballack,"Bayern München
+																				Bayer Leverkusen
+																				Chelsea FC",93,16,2,0.17
+,David Beckham,"Real Madrid
+																				Manchester United",107,16,1,0.15
+,Guti,Real Madrid,97,16,0,0.16
+,Dieter Hoeneß,Bayern München,27,16,0,0.59
+,Pedro *,"FC Barcelona
+																				Chelsea FC",73,16,1,0.22
+,Karl-Heinz Rummenigge,Bayern München,36,16,1,0.44
+,Soldado *,"Valencia CF
+																				Real Madrid",23,16,3,0.70
+,Willian *,"Chelsea FC
+																				Shakhtar Donetsk",64,16,0,0.25
+99,Pierre-Emerick Aubameyang *,Borussia Dortmund,32,15,0,0.47
+,Ferenc Bene,Újpest FC,28,15,0,0.54
+* Active player,NA,NA,NA,NA,NA,NA
+101,Kenny Dalglish,"Liverpool FC
+																				Celtic FC",68,15,0,0.22
+,Diego Tristán,Deportivo La Coruña,43,15,1,0.35
+,Seydou Doumbia *,"FC Basel
+																				Sporting CP
+																				CSKA Moskva",31,15,2,0.48
+,Gheorghe Hagi,"Galatasaray
+																				Steaua Bucureşti",51,15,5,0.29
+,Simone Inzaghi,Lazio Roma,31,15,1,0.48
+,Iván Helguera,Real Madrid,87,15,0,0.17
+,Włodzimierz Lubański,Górnik Zabrze,26,15,1,0.58
+,Pavel Nedvěd,"Lazio Roma
+																				Juventus",79,15,0,0.19
+,Nené,SL Benfica,38,15,1,0.39
+,Roberto Carlos,Real Madrid,120,15,0,0.13
+,Theo Walcott *,Arsenal FC,59,15,0,0.25
+,Sylvain Wiltord,"Arsenal FC
+																				Girondins Bordeaux
+																				Olympique Lyon",76,15,0,0.20
+113,Vincent Aboubakar *,"Beşiktaş
+																				FC Porto",23,14,0,0.61
+,Adriano,Inter,27,14,1,0.52
+,David Villa *,"FC Barcelona
+																				Valencia CF",47,14,1,0.30
+,Javier Hernández *,"Bayer Leverkusen
+																				Real Madrid
+																				Manchester United",46,14,1,0.30
+,Jupp Heynckes,Bor. Mönchengladbach,27,14,0,0.52
+,Klaas Jan Huntelaar *,"FC Schalke 04
+																				AFC Ajax",35,14,1,0.40
+,Harry Kane *,Tottenham Hotspur,18,14,1,0.78
+,Roy Keane,Manchester United,74,14,0,0.19
+,Miroslav Klose,"Werder Bremen
+																				Bayern München",39,14,1,0.36
+,Marius Lăcătuş,Steaua Bucureşti,41,14,0,0.34
+,Denis Law,Manchester United,18,14,0,0.78
+,Søren Lerby,"PSV Eindhoven
+																				AFC Ajax",44,14,1,0.32
+,Sadio Mané *,Liverpool FC,23,14,0,0.61
+,Kylian Mbappé *,"AS Monaco
+																				Paris Saint-Germain",25,14,0,0.56
+,Kostas Mitroglou *,"SL Benfica
+																				Olympiakos Piräus",41,14,0,0.34
+,Torbjörn Nilsson,IFK Göteborg,14,14,0,1.00
+,Piqué *,"FC Barcelona
+																				Manchester United",109,14,0,0.13
+,Robert Pirés,"Villarreal CF
+																				Arsenal FC
+																				Olympique Marseille",82,14,3,0.17
+,Héctor Rial,Real Madrid,23,14,0,0.61
+,Roberto Firmino *,Liverpool FC,24,14,0,0.58
+,Ronaldo,"Inter
+																				Real Madrid",40,14,1,0.35
+,Ian Rush,Liverpool FC,26,14,0,0.54
+,Raheem Sterling *,Manchester City,41,14,0,0.34
+,Arturo Vidal *,"Bayern München
+																				Juventus",65,14,5,0.22
+,Zinédine Zidane,"Juventus
+																				Real Madrid",80,14,0,0.18
+138,Antonis Antoniadis,Panathinaikos,14,13,1,0.93
+,Dimitar Berbatov,"Bayer Leverkusen
+																				Manchester United
+																				AS Monaco",60,13,0,0.22
+,Peter Crouch *,"Liverpool FC
+																				Tottenham Hotspur",34,13,0,0.38
+,Deco,"FC Barcelona
+																				FC Porto",75,13,0,0.17
+,Ronald Koeman,"FC Barcelona
+																				PSV Eindhoven",52,13,3,0.25
+,Jan Koller,"Borussia Dortmund
+																				RSC Anderlecht",30,13,0,0.43
+,Freddie Ljungberg,Arsenal FC,64,13,0,0.20
+,Jackson Martínez *,"Atlético Madrid
+																				FC Porto",26,13,1,0.50
+,Metin Oktay,Galatasaray,13,13,5,1.00
+,Lukas Podolski *,"Bayern München
+																				Arsenal FC
+																				Galatasaray",29,13,0,0.45
+,Sonny Anderson,"FC Barcelona
+																				Olympique Lyon",29,13,1,0.45
+,Hakan Şükür,Galatasaray,42,13,1,0.31
+,Carlos Tévez *,"Juventus
+																				Manchester United",46,13,1,0.28
+* Active player,NA,NA,NA,NA,NA,NA
+151,Dennis Viollet,Manchester United,14,13,0,0.93
+,William Wallace,Celtic FC,26,13,0,0.50
+,George Weah,"AC Milan
+																				AS Monaco
+																				Paris Saint-Germain",21,13,0,0.62
+,Sergey Yuran,"Sturm Graz
+																				SL Benfica
+																				Spartak Moskva",20,13,0,0.65
+155,Dani Alves *,"Juventus
+																				Sevilla FC
+																				FC Barcelona
+																				Paris Saint-Germain",111,12,0,0.11
+,Radamel Falcao *,"AS Monaco
+																				FC Porto",26,12,0,0.46
+,Zoran Filipović,"SL Benfica
+																				Crvena Zvezda",22,12,0,0.55
+,Giovanni,"FC Barcelona
+																				Olympiakos Piräus",41,12,2,0.29
+,Olivier Giroud *,Arsenal FC,30,12,2,0.40
+,Mario Götze *,"Borussia Dortmund
+																				Bayern München",58,12,0,0.21
+,Carsten Jancker,Bayern München,49,12,0,0.24
+,Piet Keizer,AFC Ajax,43,12,0,0.28
+,Luis Aragonés,Atlético Madrid,21,12,3,0.57
+,Rabah Madjer,FC Porto,17,12,0,0.71
+,Terry McDermott,Liverpool FC,33,12,1,0.36
+,Morata *,"Juventus
+																				Real Madrid
+																				Chelsea FC",44,12,0,0.27
+,Ivan Mráz,"Sparta Praha
+																				1. FK Příbram",17,12,0,0.71
+,Walter Pandiani,Deportivo La Coruña,40,12,1,0.30
+,Paulo Sérgio,Bayern München,36,12,1,0.33
+,Peiró,"Inter
+																				Atlético Madrid",23,12,0,0.52
+,Alexis Sánchez *,"FC Barcelona
+																				Arsenal FC",52,12,0,0.23
+,Mehmet Scholl,Bayern München,70,12,2,0.17
+,Bastian Schweinsteiger *,Bayern München,95,12,1,0.13
+,Allan Simonsen,"Bor. Mönchengladbach
+																				Vejle BK",25,12,1,0.48
+,Wesley Sneijder *,"Inter
+																				Galatasaray
+																				AFC Ajax",76,12,0,0.16
+,Heung-min Son *,"Bayer Leverkusen
+																				Tottenham Hotspur",40,12,0,0.30
+,Roar Strand,Rosenborg BK,73,12,0,0.16
+,Sjaak Swart,AFC Ajax,43,12,0,0.28
+,Conny Torstensson,"Bayern München
+																				Åtvidabergs FF",23,12,0,0.52
+,Roland Wohlfarth,Bayern München,30,12,0,0.40
+181,Emmanuel Adebayor *,"Real Madrid
+																				Arsenal FC
+																				AS Monaco",44,11,1,0.25
+,Alex Teixeira *,Shakhtar Donetsk,41,11,1,0.27
+,Oleg Blokhin,Dinamo Kiev,43,11,1,0.26
+,Alen Bokšić,"Lazio Roma
+																				Juventus
+																				Olympique Marseille",26,11,0,0.42
+,Harald Brattbakk,Rosenborg BK,38,11,0,0.29
+,Óscar Cardozo *,SL Benfica,28,11,0,0.39
+,Coluna,SL Benfica,58,11,0,0.19
+,Diego Costa *,"Chelsea FC
+																				Atlético Madrid",28,11,1,0.39
+,Paulo Dybala *,Juventus,35,11,1,0.31
+,Michael Essien *,"Chelsea FC
+																				Olympique Lyon",76,11,0,0.14
+,Evaristo,"FC Barcelona
+																				Real Madrid",18,11,0,0.61
+,Alberto Gilardino,"AC Milan
+																				ACF Fiorentina",39,11,0,0.28
+,Sidney Govou,"Olympique Lyon
+																				Panathinaikos",73,11,0,0.15
+,Grosso,Real Madrid,30,11,0,0.37
+,Iniesta *,FC Barcelona,130,11,0,0.08
+,Tsvetan Ionchev,CSKA Sofia,24,11,0,0.46
+,Jair da Costa,Inter,34,11,0,0.32
+,Jimmy Johnstone,Celtic FC,46,11,0,0.24
+,Jonas *,"Valencia CF
+																				SL Benfica",32,11,1,0.34
+,José Callejón *,"Real Madrid
+																				SSC Napoli",35,11,0,0.31
+* Active player,NA,NA,NA,NA,NA,NA
+201,Michalis Konstantinou,"Panathinaikos
+																				Olympiakos Piräus",35,11,0,0.31
+,Vladimir Kovačević,Partizan,22,11,1,0.50
+,Claudio López,"Lazio Roma
+																				Valencia CF",30,11,1,0.37
+,Ally McCoist,Rangers FC,31,11,4,0.35
+,Siniša Mihajlović,"Lazio Roma
+																				Crvena Zvezda
+																				Vojvodina",47,11,2,0.23
+,Michael Owen,"Real Madrid
+																				Manchester United
+																				Liverpool FC",29,11,0,0.38
+,Mesut Özil *,"Real Madrid
+																				Arsenal FC",69,11,0,0.16
+,Darko Pančev,Crvena Zvezda,20,11,0,0.55
+,Christian Panucci,"AC Milan
+																				AS Roma
+																				Real Madrid",76,11,0,0.14
+,Miralem Pjanić *,"Juventus
+																				AS Roma
+																				Olympique Lyon",64,11,3,0.17
+,Ernest Pol,Górnik Zabrze,21,11,1,0.52
+,Paolo Rossi,Juventus,18,11,0,0.61
+,Dejan Savićević,"AC Milan
+																				Crvena Zvezda",32,11,1,0.34
+,Sávio,"Real Madrid
+																				Anorthosis Famagusta FC",39,11,1,0.28
+,Clarence Seedorf,"AC Milan
+																				Real Madrid",125,11,0,0.09
+,Sergio Ramos *,Real Madrid,119,11,0,0.09
+,Maksim Shatskikh,Dinamo Kiev,45,11,0,0.24
+,Dejan Stanković,"Lazio Roma
+																				Inter",87,11,0,0.13
+,Claudio Sulser,Grasshopper Club Zürich,10,11,2,1.10
+,Tommy Taylor,Manchester United,14,11,0,0.79
+,Jon Dahl Tomasson,"AC Milan
+																				Feyenoord",42,11,0,0.26
+,Xavi *,FC Barcelona,151,11,2,0.07
+,Dwight Yorke,Manchester United,36,11,0,0.31
+,Zlatko Zahovič,"Valencia CF
+																				FC Porto
+																				Olympiakos Piräus",32,11,0,0.34
+225,Wissam Ben Yedder *,Sevilla FC,14,10,2,0.71
+,Bobby Charlton,Manchester United,28,10,0,0.36
+,David Silva *,"Valencia CF
+																				Manchester City",66,10,0,0.15
+,Douglas Costa *,"Bayern München
+																				Shakhtar Donetsk",69,10,1,0.14
+,Jefferson Farfán *,"FC Schalke 04
+																				Lokomotiv Moskva
+																				PSV Eindhoven",60,10,0,0.17
+,Jacques Foix,OGC Nice,14,10,0,0.71
+,Just Fontaine,Stade Reims,8,10,0,1.25
+,Harry Hood,Celtic FC,25,10,1,0.40
+,Horst Hrubesch,"Hamburger SV
+																				Standard Liège",19,10,0,0.53
+,Roger Hunt,Liverpool FC,14,10,0,0.71
+,Ray Kennedy,"Liverpool FC
+																				Arsenal FC",38,10,0,0.26
+,Emil Kostadinov,"FC Porto
+																				CSKA Sofia",34,10,0,0.29
+,Rudolf Kucera,1. FK Příbram,14,10,0,0.71
+,Michael Laudrup,"Juventus
+																				FC Barcelona",41,10,0,0.24
+,Luis García,Liverpool FC,35,10,0,0.29
+,Dries Mertens *,SSC Napoli,26,10,0,0.38
+,Phil Neal,Liverpool FC,57,10,5,0.18
+,Ivica Olić,"Bayern München
+																				CSKA Moskva",26,10,1,0.38
+,Peter Pacult,FC Wacker Innsbruck,8,10,1,1.25
+,Péter Palotás,MTK Budapest,8,10,0,1.25
+,Toni Polster,Austria Wien,14,10,2,0.71
+,Hervé Revelli,AS Saint-Étienne,32,10,2,0.31
+,Ricardo Quaresma *,"Beşiktaş
+																				FC Porto",60,10,3,0.17
+,Tomáš Rosický,"Borussia Dortmund
+																				Arsenal FC
+																				Sparta Praha",70,10,1,0.14
+,Franck Sauzée,Olympique Marseille,19,10,1,0.53
+,John Terry,Chelsea FC,109,10,0,0.09
+* Active player,NA,NA,NA,NA,NA,NA
+251,Willy van der Kuijlen,PSV Eindhoven,15,10,0,0.67
+,Willem van Hanegem,Feyenoord,19,10,0,0.53
+,Christian Vieri,"Inter
+																				Juventus",35,10,0,0.29
+,Mirko Vučinić,"Juventus
+																				AS Roma",37,10,0,0.27
+,Burak Yılmaz *,Galatasaray,33,10,1,0.30
+256,Flórián Albert,Ferencvárosi TC,8,9,1,1.13
+,Nicola Amoruso,Juventus,22,9,2,0.41
+,Ryan Babel *,"Liverpool FC
+																				Beşiktaş",43,9,0,0.21
+,Bakero,"Real Sociedad
+																				FC Barcelona",36,9,0,0.25
+,George Best,Manchester United,21,9,0,0.43
+,Leonid Buryak,Dinamo Kiev,27,9,2,0.33
+,Phillip Cocu,"FC Barcelona
+																				PSV Eindhoven",79,9,0,0.11
+,Bernd Dürnberger,Bayern München,48,9,1,0.19
+,Predrag Đorđević,Olympiakos Piräus,62,9,2,0.15
+,Stefan Effenberg,Bayern München,46,9,3,0.20
+,Milan Galić,"Partizan
+																				Standard Liège",20,9,0,0.45
+,Ruud Geels,"Feyenoord
+																				AFC Ajax",14,9,0,0.64
+,Tommy Gemmell,Celtic FC,31,9,2,0.29
+,Alan Gilzean,Dundee FC,8,9,0,1.13
+,Ludovic Giuly,"AS Roma
+																				FC Barcelona
+																				AS Monaco",47,9,0,0.19
+,Bafétimbi Gomis *,Olympique Lyon,23,9,0,0.39
+,Lorenzo Insigne *,SSC Napoli,25,9,1,0.36
+,Jádson *,Shakhtar Donetsk,31,9,0,0.29
+,David Johnson,"Liverpool FC
+																				Everton FC",22,9,0,0.41
+,Juan Sánchez,Valencia CF,36,9,0,0.25
+,Ove Kindvall,"IFK Norrköping
+																				Feyenoord",18,9,0,0.50
+,Ulf Kirsten,Bayer Leverkusen,26,9,0,0.35
+,Dirk Kuyt,Liverpool FC,37,9,0,0.24
+,Raoul Lambert,Club Brugge KV,15,9,1,0.60
+,Ezequiel Lavezzi *,"Paris Saint-Germain
+																				SSC Napoli",39,9,0,0.23
+,Bobby Lennox,Celtic FC,51,9,0,0.18
+,Marcelo *,Real Madrid,93,9,0,0.10
+,Obafemi Martins,Inter,34,9,0,0.26
+,Daniele Massaro,AC Milan,39,9,0,0.23
+,Mateos,Real Madrid,16,9,0,0.56
+,Benny McCarthy,FC Porto,28,9,0,0.32
+,Diego Milito,Inter,22,9,0,0.41
+,Jan Mulder,"RSC Anderlecht
+																				AFC Ajax",12,9,0,0.75
+,Nani *,"Manchester United
+																				Sporting CP",60,9,0,0.15
+,Samir Nasri *,"Sevilla FC
+																				Arsenal FC
+																				Manchester City",58,9,0,0.16
+,Marc Overmars,"FC Barcelona
+																				Arsenal FC
+																				AFC Ajax",56,9,0,0.16
+,Dado Pršo,"AS Monaco
+																				Rangers FC",21,9,0,0.43
+,Robinho *,"AC Milan
+																				Real Madrid",45,9,0,0.20
+,Hasan Salihamidžić,Bayern München,88,9,0,0.10
+,Saúl *,Atlético Madrid,44,9,0,0.20
+,Teddy Sheringham,Manchester United,30,9,0,0.30
+,Sylvester Takač,"Vojvodina
+																				Standard Liège",19,9,2,0.47
+,Tejada,"FC Barcelona
+																				Real Madrid",10,9,0,0.90
+,Arda Turan *,"FC Barcelona
+																				Atlético Madrid",32,9,0,0.28
+,Rafael van der Vaart,"Hamburger SV
+																				Tottenham Hotspur
+																				AFC Ajax",37,9,0,0.24
+* Active player,NA,NA,NA,NA,NA,NA
+301,Pietro Virdis,"Juventus
+																				AC Milan",15,9,0,0.60
+,Krzysztof Warzycha,"Ruch Chorzów
+																				Panathinaikos",34,9,0,0.26
+303,Alex,"Chelsea FC
+																				Paris Saint-Germain
+																				PSV Eindhoven",66,8,0,0.12
+,António Simões,SL Benfica,56,8,0,0.14
+,Mario Balotelli *,"Inter
+																				AC Milan
+																				Liverpool FC
+																				Manchester City",32,8,3,0.25
+,Nicklas Bendtner *,Arsenal FC,33,8,1,0.24
+,Garry Birtles,Nottingham Forest,20,8,0,0.40
+,John Bosman,"RSC Anderlecht
+																				KV Mechelen",28,8,0,0.29
+,Yacine Brahimi *,FC Porto,35,8,0,0.23
+,Éric Cantona,"Leeds United
+																				Manchester United
+																				Olympique Marseille",24,8,0,0.33
+,Marouane Chamakh,"Arsenal FC
+																				Girondins Bordeaux",30,8,0,0.27
+,Coutinho *,"FC Barcelona
+																				Liverpool FC",31,8,1,0.26
+,Ray Crawford,Ipswich Town,4,8,0,2.00
+,Lajos Csordás,Budapesti Vasas,8,8,1,1.00
+,Daniele De Rossi *,AS Roma,61,8,2,0.13
+,Marco Di Vaio,"Juventus
+																				Valencia CF",23,8,0,0.35
+,Domingos Paciência,FC Porto,35,8,0,0.23
+,Julian Draxler *,"FC Schalke 04
+																				VfL Wolfsburg
+																				Paris Saint-Germain",49,8,0,0.16
+,Antal Dunai,Újpest FC,20,8,0,0.40
+,Alan Dzagoev *,CSKA Moskva,37,8,0,0.22
+,Eduardo,"Arsenal FC
+																				Shakhtar Donetsk",31,8,0,0.26
+,Johnny Ekström,IFK Göteborg,29,8,0,0.28
+,Juul Ellerman,PSV Eindhoven,21,8,0,0.38
+,Emerson,"Bayer Leverkusen
+																				Juventus
+																				AS Roma",62,8,0,0.13
+,János Farkas,Budapesti Vasas,13,8,0,0.62
+,László Fazekas,Újpest FC,34,8,3,0.24
+,Fernando Gomes,FC Porto,22,8,1,0.36
+,Tore André Flo,Chelsea FC,14,8,0,0.57
+,Alexander Frei,FC Basel,13,8,2,0.62
+,Gabriel Jesus *,Manchester City,15,8,2,0.53
+,Eden Hazard *,Chelsea FC,44,8,4,0.18
+,Hierro,Real Madrid,77,8,3,0.10
+,Uli Hoeneß,Bayern München,34,8,0,0.24
+,Vincenzo Iaquinta,"Juventus
+																				Udinese Calcio",12,8,0,0.67
+,Adrian Ilie,"Valencia CF
+																				Galatasaray
+																				Steaua Bucureşti",32,8,1,0.25
+,Isco *,"Real Madrid
+																				Málaga CF",65,8,0,0.12
+,Mo Johnston,"Rangers FC
+																				Celtic FC",10,8,1,0.80
+,Salomon Kalou *,"Chelsea FC
+																				Lille OSC",54,8,0,0.15
+,Sándor Kocsis,"FC Barcelona
+																				Budapest Honvéd",12,8,0,0.67
+,Timo Konietzka,"TSV 1860 München
+																				Borussia Dortmund",10,8,0,0.80
+,Raymond Kopa,"Real Madrid
+																				Stade Reims",34,8,0,0.24
+,Toni Kroos *,"Bayern München
+																				Real Madrid",97,8,0,0.08
+,Kevin Kurányi,"FC Schalke 04
+																				VfB Stuttgart",22,8,0,0.36
+,Losada,Real Madrid,8,8,0,1.00
+,Lucas *,"Tottenham Hotspur
+																				Paris Saint-Germain",50,8,0,0.16
+,Luis Suárez,"Inter
+																				FC Barcelona",45,8,1,0.18
+,Lou Macari,Celtic FC,12,8,0,0.67
+,Mats Magnusson,"Servette Genève
+																				SL Benfica",21,8,1,0.38
+,Florent Malouda,"Chelsea FC
+																				Olympique Lyon",83,8,0,0.10
+,Dimitar Marashliev,CSKA Sofia,20,8,0,0.40
+* Active player,NA,NA,NA,NA,NA,NA
+351,Mata *,"Valencia CF
+																				Manchester United
+																				Chelsea FC",45,8,2,0.18
+,Mendieta,"FC Barcelona
+																				Valencia CF",47,8,4,0.17
+,Míchel,Real Madrid,38,8,3,0.21
+,Johan Micoud,"Werder Bremen
+																				Girondins Bordeaux",33,8,1,0.24
+,Miloš Milutinović,Partizan,4,8,0,2.00
+,Andreas Möller,"FC Schalke 04
+																				Borussia Dortmund",32,8,0,0.25
+,Dieter Müller,"1. FC Köln
+																				Girondins Bordeaux",14,8,0,0.57
+,Oliver Neuville,Bayer Leverkusen,37,8,0,0.22
+,Oscar *,Chelsea FC,30,8,1,0.27
+,Andrea Pirlo,"Juventus
+																				AC Milan",108,8,0,0.07
+,Pierino Prati,AC Milan,11,8,0,0.73
+,Adi Preißler,Borussia Dortmund,10,8,0,0.80
+,Aaron Ramsey *,Arsenal FC,43,8,0,0.19
+,Wynton Rufer,Werder Bremen,10,8,2,0.80
+,Sigurd Rushfeldt,Rosenborg BK,19,8,0,0.42
+,Roque Santa Cruz *,"Bayern München
+																				Málaga CF",61,8,0,0.13
+,Dimitrios Saravakos,Panathinaikos,28,8,5,0.29
+,Juan Schiaffino,AC Milan,13,8,0,0.62
+,Lex Schoenmaker,Feyenoord,10,8,1,0.80
+,Gary Shaw,Aston Villa,14,8,0,0.57
+,Jacky Stockman,RSC Anderlecht,21,8,0,0.38
+,Heinz Strehl,1. FC Nürnberg,7,8,0,1.14
+,Talisca *,"Beşiktaş
+																				SL Benfica",22,8,0,0.36
+,Thiago *,Bayern München,51,8,0,0.16
+,Andrey Tikhonov,Spartak Moskva,30,8,3,0.27
+,Yaya Touré,"FC Barcelona
+																				Manchester City",70,8,0,0.11
+,Vavá,Atlético Madrid,10,8,1,0.80
+,Gianluca Vialli,"Juventus
+																				Sampdoria",18,8,0,0.44
+,Slavisa Žungul,Hajduk Split,9,8,0,0.89
+380,Álvaro Negredo *,"Sevilla FC
+																				Manchester City
+																				Beşiktaş",23,7,1,0.30
+,Angulo,Valencia CF,52,7,0,0.13
+,Frank Arnesen,AFC Ajax,25,7,0,0.28
+,Walter Balmer,FC Basel,13,7,0,0.54
+,Baraja,Valencia CF,36,7,0,0.19
+,Mario Basler,"Werder Bremen
+																				Bayern München",23,7,0,0.30
+,Yossi Benayoun *,"Liverpool FC
+																				Arsenal FC",26,7,0,0.27
+,Dennis Bergkamp,Arsenal FC,40,7,0,0.18
+,Bernardo Silva *,"AS Monaco
+																				Manchester City",35,7,0,0.20
+,Roberto Bettega,Juventus,31,7,0,0.23
+,Ton Blanker,AFC Ajax,3,7,0,2.33
+,René Bliard,Stade Reims,14,7,0,0.50
+,Brandão,"Olympique Marseille
+																				Shakhtar Donetsk",38,7,0,0.18
+,Paul Breitner,Bayern München,37,7,3,0.19
+,Jimmy Case,Liverpool FC,22,7,0,0.32
+,Stéphane Chapuisat,Borussia Dortmund,20,7,0,0.35
+,John Connelly,"Manchester United
+																				Burnley FC",12,7,0,0.58
+,Boro Cvetković,Crvena Zvezda,8,7,0,0.88
+,Danny,Zenit St. Petersburg,34,7,0,0.21
+,David Luiz *,"Chelsea FC
+																				Paris Saint-Germain",54,7,1,0.13
+,Frank de Boer,"FC Barcelona
+																				AFC Ajax",81,7,0,0.09
+* Active player,NA,NA,NA,NA,NA,NA
+401,Luuk de Jong *,"PSV Eindhoven
+																				FC Twente",23,7,0,0.30
+,Lajos Détári,Budapest Honvéd,8,7,1,0.88
+,Robert Dienst,Rapid Wien,17,7,0,0.41
+,Alejandro Domínguez,"Valencia CF
+																				Olympiakos Piräus
+																				Rubin Kazan",33,7,1,0.21
+,Ljubinko Drulović,FC Porto,50,7,0,0.14
+,Jacques Faivre,OGC Nice,10,7,0,0.70
+,Fernandinho *,"Manchester City
+																				Shakhtar Donetsk",80,7,0,0.09
+,Constantin Frăţilă,Dinamo Bucureşti,11,7,0,0.64
+,Dudu Georgescu,Dinamo Bucureşti,9,7,1,0.78
+,Stylianos Giannakopoulos,Olympiakos Piräus,33,7,0,0.21
+,Eiður Guðjohnsen,"FC Barcelona
+																				Chelsea FC",45,7,0,0.16
+,Victor Ikpeba,AS Monaco,19,7,0,0.37
+,Branislav Ivanović *,Chelsea FC,58,7,0,0.12
+,Jiří Jarošík,"Celtic FC
+																				Sparta Praha",43,7,0,0.16
+,Josef Jelínek,1. FK Příbram,19,7,0,0.37
+,Mick Jones,Leeds United,8,7,0,0.88
+,Juanito,Real Madrid,22,7,1,0.32
+,Dušan Kabát,Spartak Trnava,26,7,0,0.27
+,Frederic Kanouté,Sevilla FC,15,7,2,0.47
+,Stanislav Karasi,Crvena Zvezda,16,7,1,0.44
+,Joshua Kimmich *,Bayern München,35,7,0,0.20
+,Nikola Kotkov,Lokomotiv Sofia,4,7,0,1.75
+,Ladislav Kubala,FC Barcelona,12,7,3,0.58
+,Jean-Michel Larqué,AS Saint-Étienne,27,7,0,0.26
+,Henrik Larsson,"FC Barcelona
+																				Manchester United
+																				Celtic FC",28,7,2,0.25
+,Llorente *,"Juventus
+																				Sevilla FC
+																				Tottenham Hotspur",32,7,0,0.22
+,Peter Lorimer,Leeds United,15,7,1,0.47
+,Romelu Lukaku *,Manchester United,17,7,0,0.41
+,Steve Marlet,"Olympique Lyon
+																				AJ Auxerre
+																				Olympique Marseille",19,7,0,0.37
+,Blaise Matuidi *,"Juventus
+																				Paris Saint-Germain",63,7,0,0.11
+,Eugen Meier,BSC Young Boys,15,7,0,0.47
+,Petar Novák,"Sparta Praha
+																				Bohemians 1905",14,7,0,0.50
+,Nuno Gomes,SL Benfica,24,7,1,0.29
+,Tibor Nyilasi,"Austria Wien
+																				Ferencvárosi TC",15,7,0,0.47
+,Owe Ohlsson,IFK Göteborg,11,7,0,0.64
+,Stevan Ostojić,Crvena Zvezda,12,7,0,0.58
+,László Pál,Budapesti Vasas,5,7,0,1.40
+,Panayot Panayotov,CSKA Sofia,21,7,0,0.33
+,Stefan Pettersson,IFK Göteborg,31,7,1,0.23
+,Roger Piantoni,Stade Reims,14,7,0,0.50
+,Ramires *,Chelsea FC,45,7,0,0.16
+,Raúl García *,Atlético Madrid,31,7,0,0.23
+,Fabrizio Ravanelli,"Lazio Roma
+																				Juventus
+																				Olympique Marseille",20,7,0,0.35
+,Rob Rensenbrink,RSC Anderlecht,10,7,2,0.70
+,Lars Ricken,Borussia Dortmund,43,7,0,0.16
+,Frank Rijkaard,"AC Milan
+																				AFC Ajax",42,7,0,0.17
+,Sergey Rodionov,Spartak Moskva,15,7,0,0.47
+,Markus Rosenberg *,"Werder Bremen
+																				Malmö FF
+																				AFC Ajax",29,7,0,0.24
+,Franz Roth,Bayern München,33,7,0,0.21
+,Rui Águas,"FC Porto
+																				SL Benfica",14,7,0,0.50
+* Active player,NA,NA,NA,NA,NA,NA
+451,Leroy Sané *,"FC Schalke 04
+																				Manchester City",22,7,0,0.32
+,Santana,SL Benfica,19,7,0,0.37
+,Alex Scott,Rangers FC,22,7,0,0.32
+,Aldo Serena,"Inter
+																				Juventus",9,7,1,0.78
+,Alan Shearer,"Newcastle United
+																				Blackburn Rovers",16,7,3,0.44
+,Horst Siegl,Sparta Praha,35,7,0,0.20
+,Santiago Solari,Real Madrid,61,7,0,0.11
+,Wesley Sonck,"KRC Genk
+																				AFC Ajax",15,7,1,0.47
+,Jan Derek Sørensen,Rosenborg BK,29,7,0,0.24
+,Ian St. John,Liverpool FC,13,7,0,0.54
+,Ieroklis Stoltidis,Olympiakos Piräus,37,7,0,0.19
+,Davor Šuker,"Real Madrid
+																				Arsenal FC",18,7,3,0.39
+,Zygfryd Szołtysik,Górnik Zabrze,26,7,0,0.27
+,Mos Temming,"Feyenoord
+																				AFC DWS",8,7,0,0.88
+,Andreas Thom,BFC Dynamo,19,7,0,0.37
+,Kubilay Türkyilmaz,"Grasshopper Club Zürich
+																				Galatasaray",16,7,0,0.44
+,Josef Vacenovský,1. FK Příbram,32,7,0,0.22
+,Juan Sebastián Verón,"Lazio Roma
+																				Manchester United",60,7,0,0.12
+,Ernst Wechselberger,BSC Young Boys,11,7,0,0.64
+,Danny Welbeck *,"Manchester United
+																				Arsenal FC",24,7,0,0.29
+,Davie Wilson,Rangers FC,23,7,0,0.30
+,Petar Zhekov,CSKA Sofia,13,7,0,0.54
+473,Abédi Pelé,Olympique Marseille,22,6,0,0.27
+,Alexandre Pato *,AC Milan,22,6,0,0.27
+,Alexios Alexandris,"Olympiakos Piräus
+																				AEK Athen",29,6,0,0.21
+,André Ayew *,Olympique Marseille,24,6,1,0.25
+,Marko Babić,Bayer Leverkusen,16,6,0,0.38
+,Gavril Balint,Steaua Bucureşti,30,6,0,0.20
+,Paolo Barison,AC Milan,7,6,0,0.86
+,Gabriel Batistuta,"AS Roma
+																				ACF Fiorentina",27,6,0,0.22
+,Begiristáin,FC Barcelona,28,6,0,0.21
+,Rinus Bennaars,Feyenoord,13,6,0,0.46
+,Frans Bouwmeester sr,Feyenoord,12,6,0,0.50
+,Lee Bowyer,Leeds United,13,6,0,0.46
+,Billy Bremner,Leeds United,14,6,0,0.43
+,Franz Brungs,Borussia Dortmund,6,6,0,1.00
+,Bruno César *,"Sporting CP
+																				SL Benfica",26,6,0,0.23
+,Dezső Bundzsák,Budapesti Vasas,13,6,0,0.46
+,Esteban Cambiasso,Inter,79,6,0,0.08
+,Eric Carrière,Olympique Lyon,17,6,0,0.35
+,Antonio Cassano,"AC Milan
+																				AS Roma",27,6,0,0.22
+,César Brito,SL Benfica,13,6,0,0.46
+,Stevie Chalmers,Celtic FC,18,6,0,0.33
+,Enrico Chiesa,"Parma Calcio 1913
+																				ACF Fiorentina",15,6,2,0.40
+,Roger Claessen,Standard Liège,8,6,0,0.75
+,Allan Clarke,Leeds United,13,6,0,0.46
+,Tanju Çolak,Galatasaray,8,6,0,0.75
+,Joe Cole,Chelsea FC,57,6,0,0.11
+,Cristian Tello *,"FC Barcelona
+																				FC Porto",21,6,0,0.29
+,Franco Cucinotta,"Servette Genève
+																				FC Zürich",11,6,0,0.55
+* Active player,NA,NA,NA,NA,NA,NA
+501,Ousmane Dembélé *,"Borussia Dortmund
+																				FC Barcelona",21,6,0,0.29
+,Oktay Derelioğlu,"Beşiktaş
+																				Fenerbahçe",9,6,0,0.67
+,Johan Devrindt,RSC Anderlecht,18,6,0,0.33
+,Diego *,"Werder Bremen
+																				Atlético Madrid
+																				FC Porto",35,6,2,0.17
+,Filippos Dimitriou,Omonia Nikosia,18,6,1,0.33
+,Diogo Rincón,Dinamo Kiev,25,6,0,0.24
+,Ilie Dumitrescu,Steaua Bucureşti,15,6,1,0.40
+,Ian Durrant,Rangers FC,26,6,0,0.23
+,Dragan Džajić,Crvena Zvezda,17,6,0,0.35
+,Artem Dzyuba *,Zenit St. Petersburg,13,6,0,0.46
+,Enrique Collar,Atlético Madrid,14,6,0,0.43
+,Arif Erdem,Galatasaray,55,6,0,0.11
+,Christian Eriksen *,"Tottenham Hotspur
+																				AFC Ajax",39,6,0,0.15
+,Magnus Erlingmark,IFK Göteborg,19,6,0,0.32
+,Rainer Ernst,BFC Dynamo,26,6,0,0.23
+,Vadim Evtushenko,Dinamo Kiev,19,6,0,0.32
+,Giacinto Facchetti,Inter,39,6,0,0.15
+,Jean-Marc Ferreri,"Girondins Bordeaux
+																				Olympique Marseille",9,6,0,0.67
+,Diego Forlán,"Villarreal CF
+																				Manchester United
+																				Atlético Madrid",46,6,1,0.13
+,Jim Forrest,Rangers FC,9,6,0,0.67
+,Fred *,Olympique Lyon,21,6,0,0.29
+,Gabri,FC Barcelona,34,6,0,0.18
+,Gerard,"FC Barcelona
+																				Valencia CF",38,6,0,0.16
+,Gervinho *,"AS Roma
+																				Arsenal FC",20,6,0,0.30
+,Léon Glovacki,Stade Reims,8,6,0,0.75
+,Siniša Gogić,"APOEL Nikosia
+																				Olympiakos Piräus",20,6,0,0.30
+,Kily González,Valencia CF,42,6,1,0.14
+,Yoann Gourcuff *,"AC Milan
+																				Girondins Bordeaux
+																				Olympique Lyon",37,6,0,0.16
+,Ernesto Grillo,AC Milan,11,6,0,0.55
+,Torsten Gütschow,Dynamo Dresden,7,6,2,0.86
+,Arie Haan,"Standard Liège
+																				AFC Ajax",23,6,0,0.26
+,Mustafa Hasanagić,Partizan,15,6,0,0.40
+,Mark Hateley,Rangers FC,15,6,0,0.40
+,Héctor Herrera *,FC Porto,37,6,0,0.16
+,Heiko Herrlich,Borussia Dortmund,29,6,0,0.21
+,Erich Hof,Wiener Sport-Club,10,6,0,0.60
+,Hugo Almeida *,"Werder Bremen
+																				FC Porto",27,6,0,0.22
+,Isaías,SL Benfica,15,6,0,0.40
+,Rinus Israël,"Feyenoord
+																				AFC DWS",23,6,2,0.26
+,Jure Jerković,"FC Zürich
+																				Hajduk Split",11,6,0,0.55
+,Frode Johnsen,Rosenborg BK,29,6,0,0.21
+,Jordão,SL Benfica,25,6,0,0.24
+,Joseito,Real Madrid,11,6,0,0.55
+,Jef Jurion,RSC Anderlecht,29,6,0,0.21
+,Sotiris Kaiafas,Omonia Nikosia,18,6,2,0.33
+,Siegfried Kaiser,Erzgebirge Aue,13,6,0,0.46
+,Andreas Kantilos,Omonia Nikosia,16,6,0,0.38
+,Giorgios Karagounis,Panathinaikos,50,6,0,0.12
+,Ümit Karan,Galatasaray,20,6,0,0.30
+,Kevin Keegan,"Hamburger SV
+																				Liverpool FC",21,6,0,0.29
+* Active player,NA,NA,NA,NA,NA,NA
+551,Ivan Kolev,CSKA Sofia,23,6,0,0.26
+,István Korsós,"Budapesti Vasas
+																				Győri ETO FC",14,6,0,0.43
+,Darko Kovačević,"Juventus
+																				Real Sociedad
+																				Olympiakos Piräus",22,6,1,0.27
+,Bo Larsson,Malmö FF,17,6,2,0.35
+,Liédson,Sporting CP,15,6,0,0.40
+,Ismo Lius,FC Kuusysi,8,6,0,0.75
+,Bent Løfqvist,B 1913 Odense,4,6,0,1.50
+,Harry Lubse,PSV Eindhoven,16,6,0,0.38
+,Lúcio,"Bayern München
+																				Bayer Leverkusen
+																				Inter",83,6,0,0.07
+,Luís Fabiano,Sevilla FC,18,6,0,0.33
+,Marco Asensio *,Real Madrid,27,6,0,0.22
+,Moussa Marega *,FC Porto,15,6,2,0.40
+,Stanislav Martinkovic,Spartak Trnava,19,6,0,0.32
+,Václav Mašek,Sparta Praha,11,6,1,0.55
+,Ian McMillan,Rangers FC,13,6,0,0.46
+,Michel Bastos,"FC Schalke 04
+																				Olympique Lyon",28,6,1,0.21
+,Bruno Mora,"Juventus
+																				AC Milan",16,6,1,0.38
+,Jerzy Musiałek,Górnik Zabrze,21,6,0,0.29
+,Adrian Mutu,"Juventus
+																				Chelsea FC
+																				ACF Fiorentina",25,6,0,0.24
+,László Nagy,Újpest FC,23,6,0,0.26
+,Mamadou Niang,Olympique Marseille,17,6,0,0.35
+,Radu Nunweiler,Dinamo Bucureşti,13,6,0,0.46
+,Alex Oxlade-Chamberlain *,"Liverpool FC
+																				Arsenal FC",36,6,0,0.17
+,Vladimir Petrović,Crvena Zvezda,20,6,0,0.30
+,Jürgen Piepenburg,1. FC Frankfurt (Oder),12,6,0,0.50
+,Louis Pilot,Standard Liège,16,6,1,0.38
+,Nikolay Pisarev,Spartak Moskva,21,6,0,0.29
+,Victor Piţurcă,Steaua Bucureşti,26,6,0,0.23
+,Raimondo Ponte,Grasshopper Club Zürich,15,6,0,0.40
+,Fabio Quagliarella *,Juventus,11,6,0,0.55
+,Ivan Rakitić *,FC Barcelona,65,6,0,0.09
+,Raphaël Guerreiro *,Borussia Dortmund,15,6,0,0.40
+,Karl-Heinz Riedle,"Werder Bremen
+																				Borussia Dortmund",14,6,0,0.43
+,Peter Risi,FC Zürich,7,6,1,0.86
+,Gianni Rivera,AC Milan,19,6,2,0.32
+,Roberto Martínez,Real Madrid,17,6,0,0.35
+,Georgios Savvidis,"Omonia Nikosia
+																				AEK Athen",13,6,0,0.46
+,Walter Schachner,Austria Wien,12,6,0,0.50
+,Bernd Schneider,Bayer Leverkusen,46,6,2,0.13
+,Lasse Schöne *,AFC Ajax,28,6,1,0.21
+,André Schürrle *,"Borussia Dortmund
+																				Bayer Leverkusen
+																				VfL Wolfsburg
+																				Chelsea FC",39,6,0,0.15
+,Roman Shirokov,Zenit St. Petersburg,21,6,0,0.29
+,Diego Simeone,"Lazio Roma
+																				Inter
+																				Atlético Madrid",37,6,0,0.16
+,Omar Sivori,Juventus,8,6,0,0.75
+,Bent Skammelsrud,"Rosenborg BK
+																				Malmö FF",62,6,4,0.10
+,Alan Smith,"Leeds United
+																				Manchester United",27,6,0,0.22
+,Bobby Smith,Tottenham Hotspur,6,6,0,1.00
+,Viktor Sokol,Dinamo Minsk,6,6,0,1.00
+,Graeme Souness,Liverpool FC,42,6,1,0.14
+,Jürgen Sparwasser,1. FC Magdeburg,8,6,0,0.75
+* Active player,NA,NA,NA,NA,NA,NA
+601,Gerhard Steinkogler,Austria Wien,14,6,0,0.43
+,Klaus Stürmer,"Hamburger SV
+																				FC Zürich",16,6,0,0.38
+,Ivo Šurjak,Hajduk Split,14,6,0,0.43
+,Chris Sutton,Celtic FC,28,6,0,0.21
+,Dušan Tadić *,AFC Ajax,12,6,2,0.50
+,Marcel Theis,Jeunesse Esch,13,6,0,0.46
+,Egor Titov,Spartak Moskva,36,6,0,0.17
+,Nikola Tsanev,CSKA Sofia,19,6,1,0.32
+,Ilia Tsymbalar,Spartak Moskva,30,6,0,0.20
+,Vágner Love *,"Beşiktaş
+																				CSKA Moskva",22,6,2,0.27
+,Antonio Valencia *,Manchester United,45,6,0,0.13
+,Mark van Bommel,"Bayern München
+																				FC Barcelona
+																				PSV Eindhoven",76,6,0,0.08
+,René van de Kerkhof,PSV Eindhoven,13,6,0,0.46
+,Jan Vennegoor of Hesselink,"Celtic FC
+																				PSV Eindhoven",41,6,0,0.15
+,Philippe Vercruysse,Olympique Marseille,13,6,0,0.46
+,Gert Verheyen,Club Brugge KV,34,6,0,0.18
+,Jean Vincent,Stade Reims,16,6,0,0.38
+,Ronnie Whelan,Liverpool FC,23,6,0,0.26
+,Reinhold Wosab,Borussia Dortmund,8,6,1,0.75
+,Xabi Alonso,"Bayern München
+																				Real Sociedad
+																				Liverpool FC",119,6,1,0.05
+,Marcelo Zalayeta,Juventus,29,6,0,0.21
+,Zé Carlos,FC Porto,14,6,1,0.43
+,Klaus Zink,Erzgebirge Aue,10,6,0,0.60
+624,Pablo Aimar,"Valencia CF
+																				SL Benfica",37,5,0,0.14
+,David Alaba *,Bayern München,74,5,0,0.07
+,Alan,Sporting Braga,18,5,1,0.28
+,Demetrio Albertini,AC Milan,53,5,1,0.09
+,Dmitriy Alenichev,"FC Porto
+																				Spartak Moskva",26,5,0,0.19
+,Alex,Fenerbahçe,25,5,2,0.20
+,Reine Almqvist,"IFK Göteborg
+																				Åtvidabergs FF",10,5,0,0.50
+,Guillermo Amor,FC Barcelona,30,5,0,0.17
+,Amoroso,Borussia Dortmund,12,5,0,0.42
+,Nikos Anastopoulos,Olympiakos Piräus,10,5,0,0.50
+,Zoran Antonijević,Crvena Zvezda,11,5,0,0.45
+,António Sousa,FC Porto,15,5,0,0.33
+,Arteche,Athletic Bilbao,5,5,1,1.00
+,Georgi Asparuchov,Levski Sofia,4,5,0,1.25
+,Klaus Augenthaler,Bayern München,46,5,0,0.11
+,Yakubu Ayegbeni,Maccabi Haifa,5,5,2,1.00
+,Angelos Basinas,Panathinaikos,38,5,3,0.13
+,Gastone Bean,AC Milan,9,5,0,0.56
+,Pummy Bergholtz,RSC Anderlecht,20,5,0,0.25
+,Josef Bertalan,Rapid Wien,12,5,0,0.42
+,Vladimir Beschastnykh,Spartak Moskva,22,5,0,0.23
+,Artyom Bezrodny,Spartak Moskva,25,5,0,0.20
+,Michal Bílek,Sparta Praha,12,5,2,0.42
+,Kevin-Prince Boateng *,"FC Schalke 04
+																				AC Milan",33,5,0,0.15
+,Bojan *,FC Barcelona,34,5,1,0.15
+,Roberto Boninsegna,"Inter
+																				Juventus",16,5,1,0.31
+,Marco Borriello,"AC Milan
+																				AS Roma",17,5,0,0.29
+* Active player,NA,NA,NA,NA,NA,NA
+651,Ian Bowyer,Nottingham Forest,16,5,0,0.31
+,Ralph Brand,Rangers FC,12,5,0,0.42
+,Arnold Bruggink,PSV Eindhoven,27,5,0,0.19
+,Lucjan Brychczy,Legia Warszawa,12,5,0,0.42
+,Bronek Bula,Ruch Chorzów,9,5,2,0.56
+,Ivan Buljan,"Hamburger SV
+																				Hajduk Split",18,5,0,0.28
+,Hakan Çalhanoğlu *,Bayer Leverkusen,20,5,2,0.25
+,Tommy Callaghan,Celtic FC,23,5,0,0.22
+,Casemiro *,"Real Madrid
+																				FC Porto",52,5,0,0.10
+,Nery Castillo,Olympiakos Piräus,16,5,0,0.31
+,Christian,Paris Saint-Germain,12,5,0,0.42
+,Kingsley Coman *,Bayern München,21,5,0,0.24
+,Antonio Conte,Juventus,47,5,0,0.11
+,Maxwel Cornet *,Olympique Lyon,15,5,0,0.33
+,Mario Corso,Inter,25,5,0,0.20
+,Costinha,"AS Monaco
+																				FC Porto",33,5,0,0.15
+,Laurie Cunningham,Real Madrid,12,5,1,0.42
+,Ümit Davala,Galatasaray,37,5,3,0.14
+,Roger Davies,Club Brugge KV,15,5,2,0.33
+,Ronald de Boer,"Rangers FC
+																				AFC Ajax",54,5,0,0.09
+,Kevin De Bruyne *,Manchester City,35,5,0,0.14
+,Nigel de Jong *,AFC Ajax,46,5,0,0.11
+,Spiro Debarski,Lokomotiv Sofia,4,5,0,1.25
+,Deivid,Fenerbahçe,11,5,0,0.45
+,Moussa Dembélé *,"Olympique Lyon
+																				Celtic FC",16,5,1,0.31
+,Henri Depireux,Standard Liège,10,5,0,0.50
+,Eren Derdiyok *,"Bayer Leverkusen
+																				FC Basel
+																				Galatasaray",21,5,0,0.24
+,Derlei,"FC Porto
+																				Sporting CP",21,5,2,0.24
+,Diamantino,SL Benfica,19,5,0,0.26
+,Mahamadou Diarra,"Real Madrid
+																				Olympique Lyon",54,5,0,0.09
+,Djalminha,Deportivo La Coruña,18,5,3,0.28
+,Boško Đurovski,Crvena Zvezda,16,5,1,0.31
+,Sofiane Féghouli *,"Valencia CF
+																				Galatasaray",23,5,1,0.22
+,França,Bayer Leverkusen,13,5,0,0.38
+,Per Frimann,RSC Anderlecht,15,5,0,0.33
+,Torsten Frings,"Werder Bremen
+																				Borussia Dortmund
+																				Bayern München",45,5,0,0.11
+,Robert Gadocha,Legia Warszawa,14,5,0,0.36
+,Nicolás Gaitán *,SL Benfica,46,5,0,0.11
+,Felix Gasselich,Austria Wien,18,5,2,0.28
+,Charlie George,"Derby County
+																				Arsenal FC",9,5,2,0.56
+,Willy Geurts,RSC Anderlecht,12,5,0,0.42
+,Christian Giménez,FC Basel,12,5,0,0.42
+,Derlis González *,"FC Basel
+																				Dinamo Kiev",21,5,0,0.24
+,Ruud Gullit,AC Milan,22,5,0,0.23
+,İlkay Gündoğan *,"Borussia Dortmund
+																				Manchester City",43,5,1,0.12
+,Hermann Gunnarsson,Valur Reykjavík,6,5,0,0.83
+,Josef Hamerl,Wiener Sport-Club,12,5,0,0.42
+,Marek Hamšík *,SSC Napoli,32,5,0,0.16
+,David Herd,Manchester United,8,5,0,0.63
+,Ottmar Hitzfeld,FC Basel,6,5,2,0.83
+* Active player,NA,NA,NA,NA,NA,NA
+701,Bernd Hobsch,Werder Bremen,8,5,0,0.63
+,Walter Horak,Wiener Sport-Club,11,5,0,0.45
+,Benedikt Höwedes *,FC Schalke 04,40,5,0,0.13
+,Mini Jakobsen,Rosenborg BK,36,5,1,0.14
+,Rajko Janjanin,Crvena Zvezda,11,5,2,0.45
+,Slobodan Janković,Crvena Zvezda,11,5,0,0.45
+,Erik Jensen,Aarhus GF,13,5,0,0.38
+,João Moutinho *,"AS Monaco
+																				FC Porto
+																				Sporting CP",61,5,0,0.08
+,Juan *,"Bayer Leverkusen
+																				AS Roma",25,5,0,0.20
+,Juan Bernat *,"Bayern München
+																				Paris Saint-Germain",33,5,0,0.15
+,Juary,FC Porto,12,5,0,0.42
+,Júnior Moraes *,"Shakhtar Donetsk
+																				Dinamo Kiev",19,5,0,0.26
+,Nwankwo Kanu,"Arsenal FC
+																				AFC Ajax",60,5,0,0.08
+,Valeriy Karpin,Spartak Moskva,26,5,0,0.19
+,Seydou Keita,"Sevilla FC
+																				FC Barcelona",62,5,0,0.08
+,Pierre Kerkhoffs,PSV Eindhoven,6,5,0,0.83
+,Marek Kincl,"Rapid Wien
+																				Sparta Praha",27,5,0,0.19
+,Ivan Klasnić,Werder Bremen,17,5,0,0.29
+,Lubomír Knapp,Baník Ostrava,11,5,4,0.45
+,Tomica Kocijan,"Sturm Graz
+																				RB Salzburg",24,5,0,0.21
+,Koke *,Atlético Madrid,56,5,0,0.09
+,Alfred Körner,Rapid Wien,9,5,1,0.56
+,Andrej Kramarić *,1899 Hoffenheim,6,5,1,0.83
+,Zlatko Kranjčar,Rapid Wien,10,5,2,0.50
+,Hans Krankl,Rapid Wien,10,5,0,0.50
+,Miloš Krasić,CSKA Moskva,22,5,0,0.23
+,Ruud Krol,AFC Ajax,38,5,3,0.13
+,Piet Kruiver,Feyenoord,10,5,0,0.50
+,Ladislav Kuna,Spartak Trnava,20,5,0,0.25
+,Andrej Kvašňák,Sparta Praha,12,5,2,0.42
+,Tscheu La Ling,AFC Ajax,13,5,0,0.38
+,Vladimír Labant,Sparta Praha,29,5,5,0.17
+,Alexandre Lacazette *,Olympique Lyon,18,5,0,0.28
+,Herbert Laumen,Bor. Mönchengladbach,4,5,0,1.25
+,Ulrik le Fevre,"Bor. Mönchengladbach
+																				Club Brugge KV",18,5,0,0.28
+,Viktor Leonenko,Dinamo Kiev,7,5,2,0.71
+,Verner Lička,Baník Ostrava,13,5,0,0.38
+,Anders Ljungberg,Malmö FF,17,5,2,0.29
+,Attilio Lombardo,"Juventus
+																				Sampdoria",32,5,0,0.16
+,Peter Løvenkrands,Rangers FC,20,5,0,0.25
+,Luisão,SL Benfica,61,5,0,0.08
+,Riyad Mahrez *,"Leicester City
+																				Manchester City",15,5,2,0.33
+,Maicon *,"Inter
+																				AS Roma
+																				AS Monaco",60,5,0,0.08
+,Manduca,APOEL Nikosia,17,5,1,0.29
+,Kostas Manolas *,"AS Roma
+																				Olympiakos Piräus",45,5,0,0.11
+,Evangelos Mantzios,Panathinaikos,10,5,0,0.50
+,Eduard Markarov,FC Ararat,5,5,0,1.00
+,Marsal,Real Madrid,9,5,0,0.56
+,Josef Masopust,1. FK Příbram,37,5,0,0.14
+,Reinhold Mathy,Bayern München,6,5,0,0.83
+* Active player,NA,NA,NA,NA,NA,NA
+751,Lothar Matthäus,Bayern München,46,5,3,0.11
+,Paul May,Jeunesse Esch,13,5,0,0.38
+,Steve McManaman,Real Madrid,43,5,0,0.12
+,Admir Mehmedi *,Bayer Leverkusen,15,5,0,0.33
+,Fabrizio Miccoli,"Juventus
+																				SL Benfica",17,5,0,0.29
+,Radmilo Mihajlović,Bayern München,6,5,0,0.83
+,Dimitar Milanov,CSKA Sofia,11,5,0,0.45
+,Arkadiusz Milik *,"SSC Napoli
+																				AFC Ajax",14,5,2,0.36
+,Kenny Miller *,"Rangers FC
+																				Celtic FC",20,5,1,0.25
+,Henrikh Mkhitaryan *,"Borussia Dortmund
+																				Manchester United
+																				Shakhtar Donetsk",42,5,0,0.12
+,Luka Modrić *,"Real Madrid
+																				Tottenham Hotspur",76,5,0,0.07
+,Michael Mols,Rangers FC,16,5,0,0.31
+,Tony Morley,Aston Villa,13,5,0,0.38
+,Mitar Mrkela,Crvena Zvezda,12,5,0,0.42
+,Gheorghe Mulţescu,Dinamo Bucureşti,11,5,0,0.45
+,Josef Nedorost,1. FK Příbram,10,5,0,0.50
+,Horst Nemec,Austria Wien,10,5,0,0.50
+,Yuriy Nikiforov,Spartak Moskva,40,5,1,0.13
+,Jiří Novotný,Sparta Praha,55,5,0,0.09
+,Andreas Ogris,Austria Wien,8,5,0,0.63
+,Vladimir Onishchenko,Dinamo Kiev,15,5,0,0.33
+,Nicolas Ouédec,FC Nantes,9,5,0,0.56
+,Tibor Pál,Budapesti Vasas,13,5,0,0.38
+,Goran Pandev *,"Lazio Roma
+																				Inter",33,5,0,0.15
+,Antonín Panenka,Rapid Wien,10,5,1,0.50
+,Milinko Pantić,Atlético Madrid,8,5,1,0.63
+,Felipe Pardo *,Olympiakos Piräus,12,5,0,0.42
+,Roman Pavlyuchenko,"Tottenham Hotspur
+																				Spartak Moskva",12,5,2,0.42
+,Jan Pieszko,Legia Warszawa,13,5,0,0.38
+,Ion Pîrcălab,Dinamo Bucureşti,14,5,2,0.36
+,Jerzy Podbrożny,"Lech Poznań
+																				Legia Warszawa",14,5,3,0.36
+,Robert Prosinečki,"Crvena Zvezda
+																				Dinamo Zagreb",17,5,2,0.29
+,Roberto Pruzzo,AS Roma,7,5,0,0.71
+,Lajos Puskás,Budapesti Vasas,8,5,0,0.63
+,Anatoliy Puzach,Dinamo Kiev,13,5,0,0.38
+,Tomasz Radzinski,RSC Anderlecht,12,5,0,0.42
+,Marcus Rashford *,Manchester United,18,5,1,0.28
+,Loïc Rémy *,"Chelsea FC
+																				Olympique Marseille",25,5,0,0.20
+,Hans-Jürgen Riediger,BFC Dynamo,11,5,0,0.45
+,John Robertson,Nottingham Forest,20,5,3,0.25
+,James Rodríguez *,"Bayern München
+																				Real Madrid
+																				FC Porto",51,5,0,0.10
+,Julio Rossi,FC Basel,12,5,0,0.42
+,Marcelo Salas,"Lazio Roma
+																				Juventus",27,5,0,0.19
+,Tuncay Şanlı,Fenerbahçe,11,5,0,0.45
+,Boubacar Sanogo,"Werder Bremen
+																				Hamburger SV",14,5,0,0.36
+,Bernd Schulz,BFC Dynamo,29,5,0,0.17
+,Enzo Scifo,"AS Monaco
+																				RSC Anderlecht",21,5,1,0.24
+,Uwe Seeler,Hamburger SV,7,5,0,0.71
+,Sergey Semak,"CSKA Moskva
+																				Zenit St. Petersburg",20,5,0,0.25
+,Simão,"Atlético Madrid
+																				SL Benfica",41,5,0,0.12
+* Active player,NA,NA,NA,NA,NA,NA
+801,Libor Sionko,Sparta Praha,33,5,0,0.15
+,Ole Stavrum,Lyn Oslo,7,5,0,0.71
+,Erwin Stein,Eintracht Frankfurt,6,5,0,0.83
+,Lars Stindl *,Bor. Mönchengladbach,11,5,0,0.45
+,Simon Tahamata,"Standard Liège
+																				AFC Ajax",19,5,2,0.26
+,Thiago Motta,"Inter
+																				FC Barcelona
+																				Paris Saint-Germain",82,5,0,0.06
+,Arthur Thomas,Linfield FC,5,5,1,1.00
+,Corentin Tolisso *,"Bayern München
+																				Olympique Lyon",20,5,0,0.25
+,Cenk Tosun *,Beşiktaş,12,5,1,0.42
+,Willy Tröger,Erzgebirge Aue,14,5,2,0.36
+,Nelson Valdez *,"Werder Bremen
+																				Valencia CF",25,5,0,0.20
+,Valerón,Deportivo La Coruña,44,5,0,0.11
+,Daniel Van Buyten,"Bayern München
+																				Olympique Marseille",52,5,0,0.10
+,Velázquez,Real Madrid,38,5,0,0.13
+,Víctor,"Deportivo La Coruña
+																				Real Madrid",48,5,0,0.10
+,John Wark,Liverpool FC,9,5,0,0.56
+,Liam Whelan,Manchester United,11,5,0,0.45
+,Paul Wilson,Celtic FC,13,5,0,0.38
+,Peter Withe,Aston Villa,15,5,0,0.33
+,Andrey Yarmolenko *,"Borussia Dortmund
+																				Dinamo Kiev",30,5,2,0.17
+,Iván Zamorano,"Inter
+																				Real Madrid",13,5,0,0.38
+,Zé Roberto,"Bayern München
+																				Bayer Leverkusen
+																				Real Madrid",62,5,0,0.08
+,Alexander Zickler,Bayern München,51,5,0,0.10
+824,Adelardo,Atlético Madrid,20,4,0,0.20
+,Adrián *,"Atlético Madrid
+																				FC Porto",19,4,0,0.21
+,Aduriz *,"Athletic Bilbao
+																				Valencia CF",17,4,0,0.24
+,Diego Alonso,Valencia CF,10,4,0,0.40
+,Alessandro Altobelli,Inter,8,4,1,0.50
+,Pietro Anastasi,Juventus,15,4,1,0.27
+,André,FC Porto,37,4,2,0.11
+,André Silva *,FC Porto,8,4,2,0.50
+,Ángelo Sormani,AC Milan,9,4,0,0.44
+,Andrey Arshavin,Arsenal FC,34,4,0,0.12
+,Artur,FC Porto,15,4,0,0.27
+,Artur Jorge,SL Benfica,13,4,0,0.31
+,Roberto Baggio,"Inter
+																				AC Milan",9,4,0,0.44
+,Samuel Baird,Rangers FC,16,4,0,0.25
+,Dušan Bajević,AEK Athen,6,4,0,0.67
+,Abel Balbo,ACF Fiorentina,10,4,0,0.40
+,Lars Bastrup,Hamburger SV,8,4,0,0.50
+,Dominique Bathenay,AS Saint-Étienne,23,4,0,0.17
+,DaMarcus Beasley *,"Rangers FC
+																				PSV Eindhoven",22,4,0,0.18
+,Franz Beckenbauer,Bayern München,40,4,1,0.10
+,Horst Begerad,1. FC Frankfurt (Oder),12,4,0,0.33
+,Stefan Beinlich,Bayer Leverkusen,12,4,1,0.33
+,Valentin Belkevich,Dinamo Kiev,52,4,0,0.08
+,Jan Benigier,Ruch Chorzów,12,4,0,0.33
+,Jan Berg,Lyn Oslo,8,4,0,0.50
+,Ørjan Berg,Rosenborg BK,34,4,0,0.12
+,Oliver Bierhoff,AC Milan,16,4,0,0.25
+* Active player,NA,NA,NA,NA,NA,NA
+851,Marco Bode,Werder Bremen,10,4,0,0.40
+,Danny Boffin,RSC Anderlecht,26,4,0,0.15
+,Basile Boli,Olympique Marseille,19,4,0,0.21
+,Rainer Bonhof,Bor. Mönchengladbach,28,4,3,0.14
+,Massimo Briaschi,Juventus,14,4,0,0.29
+,Peter Broadbent,Wolverhampton Wanderers,8,4,0,0.50
+,Jan Brumovský,1. FK Příbram,17,4,0,0.24
+,Kenneth Brylle,"RSC Anderlecht
+																				Club Brugge KV
+																				Vejle BK",15,4,0,0.27
+,Umut Bulut *,Galatasaray,29,4,0,0.14
+,Busquets *,FC Barcelona,106,4,0,0.04
+,Maksim Buznikin,Lokomotiv Moskva,19,4,0,0.21
+,Antonio Cabrini,Juventus,40,4,0,0.10
+,Gary Cahill *,Chelsea FC,38,4,0,0.11
+,Michael Carrick,Manchester United,70,4,0,0.06
+,Pierre Carteus,Club Brugge KV,4,4,0,1.00
+,Cavém,SL Benfica,44,4,0,0.09
+,Celso,FC Porto,15,4,0,0.27
+,Bruno Cheyrou,"Liverpool FC
+																				Lille OSC",9,4,1,0.44
+,Djibril Cissé,"Liverpool FC
+																				Olympique Marseille",27,4,0,0.15
+,Clayton,FC Porto,14,4,0,0.29
+,Ronnie Cocks,Sliema Wanderers,9,4,0,0.44
+,Jovan Cokić,Crvena Zvezda,5,4,0,0.80
+,Julien Cools,Club Brugge KV,20,4,0,0.20
+,Jesús Corona *,FC Porto,27,4,0,0.15
+,Lucien Cossou,AS Monaco,3,4,0,1.33
+,Alan Cousin,Dundee FC,8,4,0,0.50
+,Joe Craig,Celtic FC,4,4,0,1.00
+,László Dajka,Budapest Honvéd,12,4,0,0.33
+,Dani,FC Barcelona,23,4,0,0.17
+,Joop Daniëls,Sparta Rotterdam,3,4,0,1.33
+,Inge Danielsson,AFC Ajax,7,4,0,0.57
+,Giancarlo Danova,AC Milan,5,4,0,0.80
+,John de Jong,PSV Eindhoven,18,4,0,0.22
+,Siem de Jong *,AFC Ajax,22,4,0,0.18
+,Dixie Deans,Celtic FC,11,4,0,0.36
+,Barukh Dego,Maccabi Tel Aviv,4,4,2,1.00
+,Marc Degryse,RSC Anderlecht,20,4,0,0.20
+,Del Sol,Real Madrid,24,4,0,0.17
+,Jacek Dembiński,"Widzew Łódź
+																				Lech Poznań",9,4,0,0.44
+,Kazimierz Deyna,Legia Warszawa,14,4,0,0.29
+,Abou Diaby,Arsenal FC,26,4,0,0.15
+,Nicolae Dică,Steaua Bucureşti,12,4,0,0.33
+,Aruna Dindane,RSC Anderlecht,23,4,0,0.17
+,Youri Djorkaeff,"Inter
+																				AS Monaco",15,4,1,0.27
+,Karol Dobiaš,Spartak Trnava,20,4,2,0.20
+,Nicolae Dobrin,Argeș Pitești,8,4,3,0.50
+,Davie Dodds,"Rangers FC
+																				Dundee United",10,4,0,0.40
+,Bas Dost *,"VfL Wolfsburg
+																				Sporting CP",18,4,0,0.22
+,Alfred Drabits,Austria Wien,15,4,0,0.27
+,Peter Ducke,FC Carl Zeiss Jena,7,4,0,0.57
+* Active player,NA,NA,NA,NA,NA,NA
+901,Ede Dunai,Újpest FC,34,4,0,0.12
+,Milan Dvořák,1. FK Příbram,23,4,0,0.17
+,Terry Dyson,Tottenham Hotspur,4,4,0,1.00
+,Stephan El Shaarawy *,"AC Milan
+																				AS Roma",27,4,0,0.15
+,Eliseu,Málaga CF,27,4,0,0.15
+,Preben Elkjær Larsen,Hellas Verona,4,4,0,1.00
+,Elpidio Silva,Boavista,11,4,0,0.36
+,Félix Ruiz,Real Madrid,17,4,0,0.24
+,Felo,Real Madrid,11,4,0,0.36
+,Yannick Ferreira-Carrasco *,"AS Monaco
+																				Atlético Madrid",36,4,0,0.11
+,Rudi Flögel,Rapid Wien,21,4,0,0.19
+,Trevor Francis,Nottingham Forest,9,4,0,0.44
+,Fabian Frei *,FC Basel,26,4,0,0.15
+,Maik Galakos,Olympiakos Piräus,4,4,0,1.00
+,Kevin Gameiro *,"Sevilla FC
+																				Atlético Madrid",25,4,2,0.16
+,Gilberto Silva,Arsenal FC,57,4,1,0.07
+,Johnny Giles,Leeds United,13,4,1,0.31
+,Walter Glechner,Rapid Wien,22,4,0,0.18
+,Diego Godín *,Atlético Madrid,59,4,0,0.07
+,Ezequiel González,Panathinaikos,12,4,1,0.33
+,Richard Gough,Rangers FC,34,4,0,0.12
+,Grande,Real Madrid,10,4,0,0.40
+,Oleg Gusev,Dinamo Kiev,36,4,0,0.11
+,Ernst Happel,Rapid Wien,5,4,2,0.80
+,Ivan Hašek,Sparta Praha,15,4,0,0.27
+,Kevin Hector,Derby County,11,4,0,0.36
+,Gert Heidler,Dynamo Dresden,18,4,0,0.22
+,Steve Heighway,Liverpool FC,26,4,0,0.15
+,Emile Heskey,Liverpool FC,20,4,0,0.20
+,Guillaume Hoarau *,"Paris Saint-Germain
+																				BSC Young Boys",7,4,2,0.57
+,Tommy Holmgren,IFK Göteborg,20,4,0,0.20
+,Mats Hummels *,"Borussia Dortmund
+																				Bayern München",51,4,1,0.08
+,Sami Hyypiä,Liverpool FC,53,4,0,0.08
+,Mauro Icardi *,Inter,6,4,0,0.67
+,Ciro Immobile *,Borussia Dortmund,10,4,0,0.40
+,Denis Irwin,Manchester United,62,4,3,0.06
+,Odd Iversen,Rosenborg BK,2,4,0,2.00
+,Steffen Iversen,Rosenborg BK,18,4,0,0.22
+,Ivson,Sporting CP,3,4,0,1.33
+,Jean Jadot,Standard Liège,5,4,0,0.80
+,Jaime Graça,SL Benfica,28,4,0,0.14
+,John Jensen,Aarhus GF,13,4,0,0.31
+,Jens Jeremies,Bayern München,49,4,0,0.08
+,Raúl Jiménez *,SL Benfica,22,4,0,0.18
+,João Vieira Pinto,SL Benfica,17,4,0,0.24
+,Joaquín *,"Valencia CF
+																				Málaga CF",32,4,1,0.13
+,Benny Johansen,B 1903 København,4,4,0,1.00
+,Bertil Johansson,IFK Göteborg,8,4,0,0.50
+,Cliff Jones,Tottenham Hotspur,8,4,0,0.50
+,José Gárate,Atlético Madrid,19,4,0,0.21
+* Active player,NA,NA,NA,NA,NA,NA
+951,José Mari,AC Milan,17,4,0,0.24
+,José Semedo,FC Porto,31,4,0,0.13
+,Stevan Jovetić *,ACF Fiorentina,15,4,0,0.27
+,Júlio Baptista *,"AS Roma
+																				Real Madrid
+																				Arsenal FC",26,4,0,0.15
+,Shinji Kagawa *,Borussia Dortmund,33,4,0,0.12
+,Christian Karembeu,Real Madrid,33,4,0,0.12
+,Christian Keglevits,Rapid Wien,9,4,0,0.44
+,László Keglovich,Győri ETO FC,8,4,0,0.50
+,Alfred Kelbassa,Borussia Dortmund,9,4,0,0.44
+,Howard Kendall,Everton FC,6,4,0,0.67
+,Mateja Kežman,"Fenerbahçe
+																				PSV Eindhoven",45,4,0,0.09
+,Aleksandr Khatskevich,Dinamo Kiev,38,4,0,0.11
+,Dmitriy Khokhlov,"Lokomotiv Moskva
+																				PSV Eindhoven",18,4,0,0.22
+,Wim Kieft,PSV Eindhoven,30,4,0,0.13
+,Stefan Kießling,Bayer Leverkusen,30,4,0,0.13
+,Jürgen Klinsmann,AS Monaco,14,4,0,0.29
+,Kazimierz Kmiecik,Wisła Kraków,6,4,0,0.67
+,Danny Koevermans,PSV Eindhoven,11,4,0,0.36
+,Ludwig Kögl,Bayern München,24,4,1,0.17
+,Horst Kohle,1. FC Frankfurt (Oder),4,4,0,1.00
+,Aleksandar Kolarov *,"AS Roma
+																				Manchester City",55,4,1,0.07
+,Viktor Kolotov,Dinamo Kiev,15,4,0,0.27
+,Yssouf Koné,"Rosenborg BK
+																				CFR Cluj",12,4,0,0.33
+,Horst Köppel,Bor. Mönchengladbach,6,4,0,0.67
+,Peter Kotte,Dynamo Dresden,14,4,2,0.29
+,Hans-Jürgen Kreische,Dynamo Dresden,12,4,0,0.33
+,Willy Kreuz,Feyenoord,4,4,0,1.00
+,Mihály Lantos,MTK Budapest,6,4,3,0.67
+,Vojin Lazarević,Crvena Zvezda,10,4,0,0.40
+,Michel Leblond,Stade Reims,18,4,0,0.22
+,Sammy Lee,Liverpool FC,33,4,0,0.12
+,Laurent Leroy,Paris Saint-Germain,11,4,0,0.36
+,Dieter Lindner,Eintracht Frankfurt,7,4,0,0.57
+,Llorente,Villarreal CF,7,4,0,0.57
+,Vratislav Lokvenc,Sparta Praha,17,4,0,0.24
+,Dmitriy Loskov,Lokomotiv Moskva,23,4,0,0.17
+,Lourenço,Sporting CP,5,4,0,0.80
+,Lozano,RSC Anderlecht,20,4,1,0.20
+,Kalle Løken,Rosenborg BK,15,4,0,0.27
+,Luque,Deportivo La Coruña,32,4,0,0.13
+,Peguy Luyindula,Olympique Lyon,18,4,0,0.22
+,Murdo MacLeod,Celtic FC,16,4,0,0.25
+,Francis Magny,FC Nantes,5,4,0,0.80
+,Jean Makoun,"Olympique Lyon
+																				Lille OSC",39,4,0,0.10
+,Mancini,"Inter
+																				AS Roma",26,4,0,0.15
+,Roberto Mancini,Sampdoria,18,4,1,0.22
+,Maniche,"Atlético Madrid
+																				FC Porto",28,4,0,0.14
+,Manuel Clares,FC Barcelona,7,4,0,0.57
+,Marcão,Spartak Moskva,11,4,0,0.36
+,Ciprian Marica,"VfB Stuttgart
+																				Shakhtar Donetsk",22,4,0,0.18
+* Active player,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,2587 @@
+rank,player,teams,matches,goals,penalties,rate
+1,Delio Onnis,"AS Monaco
+																				Stade Reims
+																				Sporting Club de Toulon
+																				Tours FC",449,299,42,0.67
+2,Bernard Lacombe,"Girondins Bordeaux
+																				Olympique Lyon
+																				AS Saint-Étienne",497,255,27,0.51
+3,Hervé Revelli,"AS Saint-Étienne
+																				OGC Nice",389,215,4,0.55
+4,Carlos Bianchi,"Paris Saint-Germain
+																				RC Strasbourg
+																				Stade Reims",220,179,24,0.81
+5,Alain Giresse,"Girondins Bordeaux
+																				Olympique Marseille",586,163,19,0.28
+6,Fleury Di Nallo,"Olympique Lyon
+																				Red Star FC",355,158,0,0.45
+7,André Guy,"Olympique Lyon
+																				Stade Rennes
+																				Lille OSC
+																				AS Saint-Étienne",265,156,10,0.59
+,Jean-Pierre Papin,"Girondins Bordeaux
+																				Olympique Marseille",270,156,27,0.58
+9,Jacky Vergnes,"Girondins Bordeaux
+																				SC Bastia
+																				RC Strasbourg
+																				Stade Laval
+																				Red Star FC
+																				Stade Reims
+																				Nîmes Olympique",327,153,11,0.47
+10,Josip Skoblar,Olympique Marseille,174,151,8,0.87
+11,Dominique Rocheteau,"Paris Saint-Germain
+																				Toulouse FC
+																				AS Saint-Étienne",417,145,14,0.35
+12,Pauleta,"Paris Saint-Germain
+																				Girondins Bordeaux",266,141,17,0.53
+13,Michel Platini,"AS Saint-Étienne
+																				AS Nancy",254,139,17,0.55
+14,Sonny Anderson,"AS Monaco
+																				Olympique Lyon
+																				Olympique Marseille",221,138,9,0.62
+15,Salif Keïta,"Olympique Marseille
+																				AS Saint-Étienne",169,135,6,0.80
+16,Edinson Cavani *,Paris Saint-Germain,184,133,19,0.72
+17,Yannick Stopyra,"FC Sochaux
+																				Girondins Bordeaux
+																				FC Metz
+																				Stade Rennes
+																				AS Cannes
+																				Toulouse FC",456,132,0,0.29
+18,Bernard Zénier,"Girondins Bordeaux
+																				FC Metz
+																				Olympique Marseille
+																				AS Nancy",466,130,20,0.28
+19,François M'Pele,"Paris Saint-Germain
+																				RC Lens
+																				AC Ajaccio",350,129,13,0.37
+,Gérard Soler,"AS Monaco
+																				FC Sochaux
+																				Girondins Bordeaux
+																				SC Bastia
+																				Stade Rennes
+																				Lille OSC
+																				RC Strasbourg
+																				Toulouse FC",428,129,0,0.30
+21,Lilian Laslandes,"Girondins Bordeaux
+																				SC Bastia
+																				AJ Auxerre
+																				OGC Nice",405,127,5,0.31
+22,Joseph Yegba Maya,"Olympique Marseille
+																				RC Strasbourg
+																				Valenciennes FC",235,123,4,0.52
+23,Bafétimbi Gomis *,"Olympique Lyon
+																				Olympique Marseille
+																				AS Saint-Étienne",340,121,8,0.36
+24,Serge Chiesa,Olympique Lyon,475,120,2,0.25
+,François Félix,"SC Bastia
+																				Olympique Lyon
+																				AJ Auxerre
+																				Nîmes Olympique
+																				Angers SCO
+																				Paris FC",340,120,12,0.35
+26,Didier Couécou,"Girondins Bordeaux
+																				FC Nantes
+																				Olympique Marseille",306,117,10,0.38
+27,Bernard Genghini,"AS Monaco
+																				FC Sochaux
+																				Girondins Bordeaux
+																				Olympique Marseille
+																				AS Saint-Étienne",363,116,7,0.32
+28,Georges Lech,"FC Sochaux
+																				RC Lens
+																				Stade Reims",355,114,13,0.32
+29,Zlatan Ibrahimović *,Paris Saint-Germain,122,113,24,0.93
+30,Eric Pécout,"AS Monaco
+																				FC Metz
+																				FC Nantes
+																				RC Strasbourg",277,112,2,0.40
+31,Albert Emon,"AS Monaco
+																				Olympique Lyon
+																				Olympique Marseille
+																				AS Cannes
+																				Stade Reims
+																				Sporting Club de Toulon",410,111,8,0.27
+32,Claude Papi,SC Bastia,392,110,17,0.28
+33,Charly Loubet,"Olympique Marseille
+																				Stade Français
+																				OGC Nice",347,109,1,0.31
+34,Bernard Blanchet,FC Nantes,357,108,0,0.30
+35,Albert Gemmrich,"Girondins Bordeaux
+																				RC Strasbourg",308,106,7,0.34
+36,Daniel Xuereb,"Paris Saint-Germain
+																				Olympique Lyon
+																				RC Lens
+																				Montpellier HSC
+																				Olympique Marseille
+																				Sporting Club de Toulon",439,105,0,0.24
+37,Alain Cavéglia,"FC Sochaux
+																				Olympique Lyon
+																				FC Nantes
+																				Le Havre AC",312,104,15,0.33
+38,François Brisson,"Paris Saint-Germain
+																				Olympique Lyon
+																				RC Lens
+																				Olympique Marseille
+																				Lille OSC
+																				RC Strasbourg
+																				Stade Laval",505,103,13,0.20
+,Abdelkrim Merry Krimau,"SC Bastia
+																				FC Metz
+																				Lille OSC
+																				RC Strasbourg
+																				AS Saint-Étienne
+																				Le Havre AC
+																				Racing Club de France
+																				Tours FC",337,103,4,0.31
+,Robert Pintenat,"FC Sochaux
+																				Toulouse FC
+																				FC Rouen
+																				Red Star FC
+																				AS Nancy
+																				Nîmes Olympique",298,103,16,0.35
+41,Marc Berdoll,"Olympique Marseille
+																				Angers SCO",251,102,0,0.41
+,Mustapha Dahleb,"Paris Saint-Germain
+																				CS Sedan",297,102,3,0.34
+,André-Pierre Gignac *,"FC Lorient
+																				Olympique Marseille
+																				Toulouse FC",289,102,4,0.35
+,Philippe Vercruysse,"Girondins Bordeaux
+																				RC Lens
+																				FC Metz
+																				Olympique Marseille
+																				Nîmes Olympique",457,102,4,0.22
+45,Vahid Halilhodžić,"Paris Saint-Germain
+																				FC Nantes",181,101,12,0.56
+,Mamadou Niang,"ESTAC Troyes
+																				Olympique Marseille
+																				RC Strasbourg",257,101,12,0.39
+,Philippe Piat,"AS Monaco
+																				FC Sochaux
+																				RC Strasbourg",240,101,16,0.42
+,Patrick Revelli,"FC Sochaux
+																				AS Saint-Étienne",360,101,4,0.28
+49,Philippe Gondet,"FC Nantes
+																				Red Star FC",212,100,9,0.47
+,Alexandre Lacazette *,Olympique Lyon,203,100,21,0.49
+* Active player,NA,NA,NA,NA,NA,NA
+51,Daniel Rodighiero,Stade Rennes,222,98,13,0.44
+,Jacky Simon,"Girondins Bordeaux
+																				FC Nantes
+																				Red Star FC",301,98,5,0.33
+53,Philippe Anziani,"AS Monaco
+																				FC Sochaux
+																				FC Nantes
+																				Racing Club de France
+																				FC Martigues
+																				Sporting Club de Toulon",484,97,7,0.20
+,Patrice Garande,"FC Sochaux
+																				AJ Auxerre
+																				Montpellier HSC
+																				FC Nantes
+																				AS Saint-Étienne
+																				Le Havre AC",315,97,13,0.31
+55,Nico Braun,FC Metz,171,96,5,0.56
+,Djibril Cissé,"SC Bastia
+																				AJ Auxerre
+																				Olympique Marseille",209,96,1,0.46
+,Francis Piasecki,"Paris Saint-Germain
+																				FC Sochaux
+																				FC Metz
+																				RC Strasbourg",478,96,15,0.20
+58,Sylvain Wiltord,"Girondins Bordeaux
+																				Olympique Lyon
+																				Stade Rennes
+																				Olympique Marseille",322,95,0,0.30
+59,Andrzej Szarmach,AJ Auxerre,148,94,16,0.64
+60,Florian Maurice,"Paris Saint-Germain
+																				SC Bastia
+																				Olympique Lyon
+																				Olympique Marseille",300,93,4,0.31
+,Gilles Rampillion,FC Nantes,346,93,9,0.27
+62,Jimmy Briand *,"EA Guingamp
+																				Girondins Bordeaux
+																				Olympique Lyon
+																				Stade Rennes",417,92,10,0.22
+,Mevlüt Erdinç *,"EA Guingamp
+																				Paris Saint-Germain
+																				FC Sochaux
+																				FC Metz
+																				Stade Rennes
+																				AS Saint-Étienne",295,92,6,0.31
+,Patrice Loko,"Paris Saint-Germain
+																				Montpellier HSC
+																				ESTAC Troyes
+																				FC Nantes
+																				FC Lorient
+																				AC Ajaccio",351,92,1,0.26
+65,Gérard Buscher,"Montpellier HSC
+																				FC Nantes
+																				Racing Club de France
+																				OGC Nice
+																				Stade Brest",321,91,8,0.28
+,Stéphane Paille,"FC Sochaux
+																				Girondins Bordeaux
+																				Olympique Lyon
+																				Montpellier HSC
+																				SM Caen",310,91,7,0.29
+,Jacques Zimako,"FC Sochaux
+																				SC Bastia
+																				AS Saint-Étienne",388,91,4,0.23
+68,Shabani Nonda,"AS Monaco
+																				Stade Rennes",178,88,4,0.49
+69,Loïc Amisse,FC Nantes,503,86,1,0.17
+,Jean-Marc Ferreri,"Girondins Bordeaux
+																				AJ Auxerre
+																				Olympique Marseille
+																				FC Martigues",423,86,5,0.20
+,Peguy Luyindula,"Paris Saint-Germain
+																				Olympique Lyon
+																				AJ Auxerre
+																				Olympique Marseille
+																				RC Strasbourg",370,86,3,0.23
+72,Nenad Bjeković,OGC Nice,143,85,6,0.59
+,Ludovic Giuly,"AS Monaco
+																				Paris Saint-Germain
+																				Olympique Lyon
+																				FC Lorient",401,85,1,0.21
+74,Hugo Curioni,"FC Metz
+																				ESTAC Troyes
+																				FC Nantes",152,84,6,0.55
+,Pierre-Alain Frau,"Paris Saint-Germain
+																				FC Sochaux
+																				Olympique Lyon
+																				RC Lens
+																				Lille OSC
+																				SM Caen",337,84,11,0.25
+,Jean Gallice,"Girondins Bordeaux
+																				Olympique Lyon
+																				Angoulême CFC",324,84,0,0.26
+,Rachid Mekhloufi,"SC Bastia
+																				AS Saint-Étienne",239,84,13,0.35
+,Olivier Rouyer,"RC Strasbourg
+																				AS Nancy",287,84,0,0.29
+,George Weah,"AS Monaco
+																				Paris Saint-Germain
+																				Olympique Marseille",217,84,3,0.39
+80,Uwe Krause,"AS Monaco
+																				FC Sochaux
+																				Stade Laval",214,83,6,0.39
+81,Guy Lassalette,"FC Sochaux
+																				FC Metz
+																				FC Rouen
+																				Angers SCO
+																				Angoulême CFC",246,82,6,0.33
+,David Zitelli,"FC Metz
+																				RC Strasbourg
+																				AS Nancy",297,82,7,0.28
+83,Laurent Blanc,"AJ Auxerre
+																				Montpellier HSC
+																				Olympique Marseille
+																				AS Saint-Étienne
+																				Nîmes Olympique",318,81,29,0.25
+,Henri Michel,FC Nantes,532,81,8,0.15
+,Yvan Roy,"FC Sochaux
+																				CS Sedan
+																				RC Strasbourg
+																				Angers SCO",331,81,0,0.24
+86,Gérald Baticle,"FC Metz
+																				AJ Auxerre
+																				ESTAC Troyes
+																				RC Strasbourg",364,80,1,0.22
+,Joseph Bonnel,"Olympique Marseille
+																				Valenciennes FC",333,80,0,0.24
+,Fabrice Divert,"EA Guingamp
+																				Montpellier HSC
+																				SM Caen",245,80,5,0.33
+89,Jean-Michel Larqué,AS Saint-Étienne,343,78,1,0.23
+,Jean-Pierre Serra,"SC Bastia
+																				OGC Nice
+																				AC Ajaccio",209,78,1,0.37
+91,Bernard Lech,"RC Lens
+																				Stade Reims
+																				AS Nancy
+																				Angers SCO
+																				Paris FC",322,77,8,0.24
+,Johnny Rep,"SC Bastia
+																				AS Saint-Étienne",196,77,2,0.39
+93,Daniel Bravo,"AS Monaco
+																				Paris Saint-Germain
+																				Olympique Lyon
+																				Olympique Marseille
+																				OGC Nice",484,76,8,0.16
+,Kevin Gameiro *,"Paris Saint-Germain
+																				FC Lorient
+																				RC Strasbourg",209,76,3,0.36
+,Grégory Pujol,"FC Nantes
+																				CS Sedan
+																				Valenciennes FC
+																				GFC Ajaccio",315,76,1,0.24
+96,José Farias,"RC Strasbourg
+																				Red Star FC",221,75,3,0.34
+,Juninho Pernambucano,Olympique Lyon,248,75,10,0.30
+,Serge Lenoir,"SC Bastia
+																				Stade Rennes
+																				Stade Brest",290,75,8,0.26
+,Philippe Levavasseur,"FC Metz
+																				FC Nantes
+																				Lille OSC
+																				CS Sedan",184,75,4,0.41
+,Florian Thauvin *,"SC Bastia
+																				Olympique Marseille",218,75,7,0.34
+* Active player,NA,NA,NA,NA,NA,NA
+101,Serge Dellamore,"CS Sedan
+																				Nîmes Olympique
+																				Paris FC",245,74,0,0.30
+,Gerard Hausser,"FC Metz
+																				RC Strasbourg",279,74,0,0.27
+,Marc Molitor,"RC Strasbourg
+																				OGC Nice",168,74,0,0.44
+,Daniel Moreira,"EA Guingamp
+																				RC Lens
+																				Toulouse FC
+																				Grenoble Foot 38
+																				US Boulogne",385,74,3,0.19
+,Étienne Sansonetti,"Angers SCO
+																				AC Ajaccio
+																				Valenciennes FC",183,74,5,0.40
+,Franck Sauzée,"AS Monaco
+																				FC Sochaux
+																				Montpellier HSC
+																				Olympique Marseille
+																				RC Strasbourg",382,74,8,0.19
+,José Touré,"AS Monaco
+																				Girondins Bordeaux
+																				FC Nantes",255,74,5,0.29
+108,Xavier Gravelaine,"EA Guingamp
+																				Paris Saint-Germain
+																				Montpellier HSC
+																				Olympique Marseille
+																				RC Strasbourg
+																				SM Caen
+																				Le Havre AC",251,73,0,0.29
+,Chérif Oudjani,"FC Sochaux
+																				RC Lens
+																				Stade Laval
+																				Racing Club de France",218,73,6,0.33
+110,Fares Bousdira,"RC Lens
+																				Stade Rennes
+																				OGC Nice
+																				Angers SCO",290,72,7,0.25
+,Nestor Combin,"Olympique Lyon
+																				FC Metz
+																				Red Star FC",118,72,5,0.61
+,Youri Djorkaeff,"AS Monaco
+																				Paris Saint-Germain",190,72,13,0.38
+,Stéphane Guivarc'h,"EA Guingamp
+																				Stade Rennes
+																				AJ Auxerre",171,72,0,0.42
+,Marc Kanyan,"SC Bastia
+																				Nîmes Olympique",216,72,0,0.33
+,Japhet N'Doram,"AS Monaco
+																				FC Nantes",205,72,2,0.35
+116,Christophe Cocard,"Olympique Lyon
+																				AJ Auxerre",345,71,1,0.21
+,Louis Floch,"AS Monaco
+																				Paris Saint-Germain
+																				Stade Rennes
+																				Stade Brest
+																				Paris FC",256,71,0,0.28
+,Toifilou Maoulida,"SC Bastia
+																				RC Lens
+																				FC Metz
+																				Stade Rennes
+																				AJ Auxerre
+																				Montpellier HSC
+																				Olympique Marseille",372,71,1,0.19
+,Dimitri Payet *,"FC Nantes
+																				Olympique Marseille
+																				Lille OSC
+																				AS Saint-Étienne",379,71,5,0.19
+,Marama Vahirua,"FC Nantes
+																				FC Lorient
+																				OGC Nice
+																				AS Nancy",321,71,7,0.22
+,Tony Vairelles,"Girondins Bordeaux
+																				SC Bastia
+																				Olympique Lyon
+																				RC Lens
+																				Stade Rennes
+																				AS Nancy",301,71,5,0.24
+122,Jules Bocandé,"Paris Saint-Germain
+																				RC Lens
+																				FC Metz
+																				OGC Nice",223,70,3,0.31
+,Olivier Monterrubio,"RC Lens
+																				Stade Rennes
+																				FC Nantes
+																				FC Lorient",335,70,22,0.21
+,Nolan Roux *,"EA Guingamp
+																				FC Metz
+																				Lille OSC
+																				AS Saint-Étienne
+																				Stade Brest",267,70,5,0.26
+,Ruben Umpiérrez,"Racing Club de France
+																				AS Nancy",315,70,2,0.22
+126,Réginald Dortomb,"Girondins Bordeaux
+																				Stade Rennes
+																				FC Rouen
+																				Nîmes Olympique
+																				AC Ajaccio",283,69,5,0.24
+,Claude Dubaële,"Stade Rennes
+																				Lille OSC
+																				Angers SCO",211,69,0,0.33
+,Bruno Rodriguez,"EA Guingamp
+																				Paris Saint-Germain
+																				SC Bastia
+																				RC Lens
+																				FC Metz
+																				RC Strasbourg
+																				AC Ajaccio",234,69,1,0.29
+129,Bruno Baronchelli,"FC Nantes
+																				Le Havre AC",337,68,0,0.20
+,Mickaël Pagis,"FC Sochaux
+																				Stade Rennes
+																				Olympique Marseille
+																				RC Strasbourg",243,68,5,0.28
+,André Perrin,"FC Sochaux
+																				Olympique Lyon
+																				Lille OSC
+																				CS Sedan",306,68,0,0.22
+132,Héctor De Bourgoing,Girondins Bordeaux,144,67,4,0.47
+,Cheik Fantamady Diallo,"FC Metz
+																				ESTAC Troyes
+																				Stade Laval",184,67,12,0.36
+,Gilbert Marguerite,"OGC Nice
+																				Nîmes Olympique",220,67,8,0.30
+135,Robert Herbin,AS Saint-Étienne,267,66,1,0.25
+,Nicolas Ouédec,"Montpellier HSC
+																				FC Nantes",193,66,10,0.34
+,Safet Sušić,Paris Saint-Germain,286,66,4,0.23
+138,Jean-François Beltramini,"Paris Saint-Germain
+																				FC Rouen
+																				Paris FC",167,65,8,0.39
+,Christian Coste,"Lille OSC
+																				Stade Laval
+																				Stade Reims",153,65,9,0.42
+,Jean-Claude Darcheville,"Girondins Bordeaux
+																				Stade Rennes
+																				FC Lorient
+																				Valenciennes FC",216,65,10,0.30
+,Éric Edwige,Angers SCO,263,65,3,0.25
+,Antoine Sibierski,"RC Lens
+																				AJ Auxerre
+																				FC Nantes
+																				Lille OSC",277,65,4,0.23
+143,Anto Drobnjak,"SC Bastia
+																				RC Lens",131,64,3,0.49
+,Radamel Falcao *,AS Monaco,106,64,13,0.60
+,Bernard Ferrer,"AJ Auxerre
+																				Toulouse FC
+																				Stade Brest",252,64,11,0.25
+,Boubacar Sarr,"Paris Saint-Germain
+																				Olympique Marseille",203,64,5,0.32
+,Joël Tiéhi,"RC Lens
+																				Toulouse FC
+																				Le Havre AC
+																				FC Martigues",187,64,2,0.34
+148,Bruno Bellone,"AS Monaco
+																				Montpellier HSC
+																				AS Cannes",265,63,1,0.24
+,Wissam Ben Yedder *,Toulouse FC,156,63,6,0.40
+,Loïc Rémy *,"RC Lens
+																				Olympique Marseille
+																				Lille OSC
+																				OGC Nice",188,63,8,0.34
+* Active player,NA,NA,NA,NA,NA,NA
+151,Souleymane Camara *,"EA Guingamp
+																				AS Monaco
+																				Montpellier HSC
+																				OGC Nice",408,62,4,0.15
+,Jean-Pierre Guinot,"FC Sochaux
+																				Valenciennes FC",328,62,1,0.19
+,Alberto Márcico,Toulouse FC,227,62,17,0.27
+,Roger Milla,"AS Monaco
+																				SC Bastia
+																				Montpellier HSC
+																				Valenciennes FC",220,62,0,0.28
+,Zlatko Vujović,"Paris Saint-Germain
+																				FC Sochaux
+																				Girondins Bordeaux
+																				AS Cannes",183,62,4,0.34
+,Edouard Wojciak,"Girondins Bordeaux
+																				Toulouse FC",254,62,2,0.24
+157,Youssouf Hadji,"SC Bastia
+																				Stade Rennes
+																				AS Nancy",281,61,6,0.22
+,Francisco Rubio,"Olympique Marseille
+																				AS Nancy",328,61,2,0.19
+159,Patrick Delamontagne,"AS Monaco
+																				Stade Rennes
+																				Olympique Marseille
+																				Stade Laval
+																				AS Nancy",365,60,1,0.16
+,Pierre Lechantre,"AS Monaco
+																				FC Sochaux
+																				RC Lens
+																				Stade Laval",327,60,0,0.18
+,Tokomon Nambatingue,"Paris Saint-Germain
+																				Girondins Bordeaux
+																				RC Strasbourg
+																				OGC Nice
+																				Valenciennes FC",274,60,0,0.22
+,Raúl Noguès,"AS Monaco
+																				Olympique Marseille
+																				AS Saint-Étienne
+																				OGC Nice",254,60,1,0.24
+,John Utaka,"RC Lens
+																				Stade Rennes
+																				Montpellier HSC",239,60,1,0.25
+164,Ilan,"FC Sochaux
+																				SC Bastia
+																				AS Saint-Étienne
+																				AC Ajaccio",238,59,8,0.25
+,Lisandro López *,Olympique Lyon,119,59,12,0.50
+,Luizinho,"Montpellier HSC
+																				Nîmes Olympique",218,59,2,0.27
+,Kylian Mbappé *,"AS Monaco
+																				Paris Saint-Germain",95,59,1,0.62
+,Daniel Sánchez,"Paris Saint-Germain
+																				AS Saint-Étienne
+																				FC Mulhouse
+																				OGC Nice",285,59,1,0.21
+169,Georges Bereta,"Olympique Marseille
+																				AS Saint-Étienne",357,58,5,0.16
+,Cheick Diabaté *,"Girondins Bordeaux
+																				FC Metz",142,58,10,0.41
+,Jean-Pierre Dogliani,"Paris Saint-Germain
+																				SC Bastia
+																				Angers SCO",245,58,10,0.24
+,Pascal Nouma,"Paris Saint-Germain
+																				RC Lens
+																				Olympique Marseille
+																				Lille OSC
+																				RC Strasbourg
+																				SM Caen",237,58,1,0.24
+,Rafael Santos,"FC Nantes
+																				OGC Nice",164,58,7,0.35
+174,Dominique Bathenay,"Paris Saint-Germain
+																				AS Saint-Étienne",388,57,15,0.15
+,Yves Herbet,"CS Sedan
+																				Red Star FC
+																				Stade Reims
+																				AS Nancy
+																				Avenir Club Avignonnais",359,57,1,0.16
+,Corentin Martins,"AJ Auxerre
+																				RC Strasbourg
+																				Stade Brest",382,57,1,0.15
+,Frédéric Née,"SC Bastia
+																				Olympique Lyon
+																				SM Caen",191,57,0,0.30
+,Gérald Passi,"AS Monaco
+																				Toulouse FC
+																				AS Saint-Étienne",275,57,8,0.21
+,Pierre Pleimelding,"AS Monaco
+																				Lille OSC",157,57,1,0.36
+,Didier Six,"RC Lens
+																				FC Metz
+																				Olympique Marseille
+																				RC Strasbourg
+																				Valenciennes FC",233,57,9,0.24
+181,André Betta,"Girondins Bordeaux
+																				FC Metz
+																				Stade Rennes
+																				FC Rouen
+																				Stade Reims",440,56,10,0.13
+,Marouane Chamakh,Girondins Bordeaux,230,56,2,0.24
+,Christian Dalger,AS Monaco,223,56,1,0.25
+,Thierry Meyer,"FC Sochaux
+																				SC Bastia
+																				AS Nancy
+																				Nîmes Olympique",216,56,9,0.26
+185,Ibrahima Bakayoko,"Montpellier HSC
+																				Olympique Marseille
+																				FC Istres",206,55,3,0.27
+,Jean Deloffre,"RC Lens
+																				Angers SCO
+																				Angoulême CFC",205,55,2,0.27
+,Jean-François Domergue,"Girondins Bordeaux
+																				Olympique Lyon
+																				Olympique Marseille
+																				Lille OSC
+																				SM Caen
+																				Toulouse FC",444,55,31,0.12
+,Philippe Hinschberger,FC Metz,429,55,1,0.13
+,Victor Ikpeba,AS Monaco,170,55,0,0.32
+,Steve Marlet,"Olympique Lyon
+																				AJ Auxerre
+																				FC Lorient
+																				Olympique Marseille",219,55,0,0.25
+,Frederic Meyrieu,"RC Lens
+																				FC Metz
+																				Olympique Marseille
+																				Sporting Club de Toulon",422,55,1,0.13
+,Nenê *,"AS Monaco
+																				Paris Saint-Germain",142,55,13,0.39
+,Frédéric Piquionne,"AS Monaco
+																				Olympique Lyon
+																				Stade Rennes
+																				AS Saint-Étienne",237,55,1,0.23
+,Laurent Robuschi,"Girondins Bordeaux
+																				Olympique Marseille",153,55,6,0.36
+195,Roger Boli,"RC Lens
+																				AJ Auxerre
+																				Lille OSC
+																				Le Havre AC",271,54,2,0.20
+,Robert Buigues,"Girondins Bordeaux
+																				SC Bastia
+																				Olympique Marseille
+																				Stade Laval
+																				AC Ajaccio",342,54,0,0.16
+,Éric Cantona,"Girondins Bordeaux
+																				AJ Auxerre
+																				Montpellier HSC
+																				Olympique Marseille
+																				Nîmes Olympique",182,54,4,0.30
+,Nabil Fekir *,Olympique Lyon,144,54,9,0.38
+,François Omam-Biyik,"RC Lens
+																				Stade Rennes
+																				AS Cannes
+																				Stade Laval",176,54,3,0.31
+200,Daniel Bourgeois,"FC Metz
+																				ESTAC Troyes
+																				CS Sedan
+																				Red Star FC",280,53,6,0.19
+* Active player,NA,NA,NA,NA,NA,NA
+201,Zvonko Ivezić,FC Sochaux,193,53,14,0.27
+,Ruiter,"AS Monaco
+																				Girondins Bordeaux",129,53,0,0.41
+,Didier Tholot,"Girondins Bordeaux
+																				AS Saint-Étienne
+																				FC Martigues
+																				Sporting Club de Toulon
+																				Chamois Niortais",235,53,1,0.23
+,Pascal Vahirua,"AJ Auxerre
+																				SM Caen",313,53,11,0.17
+205,Bernard Bureau,"Paris Saint-Germain
+																				Lille OSC
+																				Racing Club de France
+																				Stade Brest",233,52,0,0.22
+,Francis Magny,"AS Monaco
+																				FC Nantes
+																				Lille OSC
+																				Racing Club de France
+																				Red Star FC",139,52,0,0.37
+,Johan Micoud,"Girondins Bordeaux
+																				AS Cannes",286,52,2,0.18
+,Enzo Scifo,"AS Monaco
+																				Girondins Bordeaux
+																				AJ Auxerre",182,52,13,0.29
+,David Trezeguet,AS Monaco,93,52,0,0.56
+210,Thierry Fernier,"FC Sochaux
+																				FC Nantes
+																				Racing Club de France
+																				Valenciennes FC",262,51,11,0.19
+,David Ginola,"Paris Saint-Germain
+																				Racing Club de France
+																				Sporting Club de Toulon
+																				Stade Brest",290,51,13,0.18
+,Joël Henry,"SC Bastia
+																				FC Nantes
+																				Lille OSC
+																				OGC Nice
+																				Sporting Club de Toulon
+																				Stade Brest",345,51,0,0.15
+,Michel Bastos,"Olympique Lyon
+																				Lille OSC",196,51,7,0.26
+,Raí,Paris Saint-Germain,147,51,2,0.35
+,Gérard Tonnel,"Stade Rennes
+																				ESTAC Troyes
+																				CS Sedan
+																				RC Strasbourg",140,51,7,0.36
+216,Rémy Cabella *,"Montpellier HSC
+																				Olympique Marseille
+																				AS Saint-Étienne
+																				AC Arles-Avignon",239,50,5,0.21
+,André Fefeu,"AS Saint-Étienne
+																				Stade Français
+																				AC Ajaccio",183,50,0,0.27
+,Pascal Feindouno,"Girondins Bordeaux
+																				FC Lorient
+																				AS Saint-Étienne",267,50,7,0.19
+,Valère Germain *,"AS Monaco
+																				Olympique Marseille
+																				OGC Nice",196,50,0,0.26
+,Nicolas Goussé,"EA Guingamp
+																				FC Metz
+																				Stade Rennes
+																				ESTAC Troyes",210,50,0,0.24
+,Sidney Govou,"Olympique Lyon
+																				Évian Thonon Gaillard",327,50,0,0.15
+,Louis Marcialis,"SC Bastia
+																				AS Nancy",186,50,0,0.27
+,Robert Pirés,"FC Metz
+																				Olympique Marseille",227,50,0,0.22
+,Amara Simba,"AS Monaco
+																				Paris Saint-Germain
+																				Lille OSC
+																				AS Cannes
+																				SM Caen",230,50,0,0.22
+,Marco Simone,"AS Monaco
+																				Paris Saint-Germain",140,50,0,0.36
+226,Yves Ehrlacher,"SC Bastia
+																				RC Lens
+																				RC Strasbourg
+																				FC Mulhouse",271,49,3,0.18
+,Pascal Françoise,"RC Lens
+																				Lille OSC
+																				AS Saint-Étienne",274,49,1,0.18
+,Max Gradel *,"Toulouse FC
+																				AS Saint-Étienne",165,49,16,0.30
+,Philippe Jeannol,"Paris Saint-Germain
+																				AS Nancy",422,49,0,0.12
+,Ireneusz Jeleń,"AJ Auxerre
+																				Lille OSC",153,49,0,0.32
+,Wahbi Khazri *,"Girondins Bordeaux
+																				SC Bastia
+																				Stade Rennes
+																				AS Saint-Étienne",168,49,10,0.29
+232,Pierre-Yves André,"EA Guingamp
+																				SC Bastia
+																				Stade Rennes
+																				FC Nantes",299,48,1,0.16
+,Lucien Cossou,"AS Monaco
+																				AS Aixoise",93,48,1,0.52
+,Alexander Frei,Stade Rennes,100,48,0,0.48
+,Modibo Maïga *,"FC Sochaux
+																				FC Metz
+																				Le Mans FC",172,48,2,0.28
+,Giovanni Pellegrini,Stade Rennes,122,48,3,0.39
+,Emiliano Sala,"Girondins Bordeaux
+																				FC Nantes
+																				SM Caen",144,48,9,0.33
+,Oscar Trossero,"AS Monaco
+																				Montpellier HSC
+																				FC Nantes",113,48,2,0.42
+,Michel Watteau,"FC Sochaux
+																				Stade Rennes
+																				ESTAC Troyes
+																				Lille OSC
+																				CS Sedan
+																				Racing Club de France
+																				Valenciennes FC",313,48,10,0.15
+240,André Ayew *,"FC Lorient
+																				Olympique Marseille",183,47,2,0.26
+,Ange Di Caro,"Olympique Marseille
+																				Stade Laval
+																				AS Nancy",194,47,0,0.24
+,Christophe Dugarry,"Girondins Bordeaux
+																				Olympique Marseille",277,47,0,0.17
+,Robert Jacques,"Paris Saint-Germain
+																				AS Saint-Étienne
+																				AS Nancy
+																				Valenciennes FC",283,47,4,0.17
+,Benjamin Moukandjo,"AS Monaco
+																				FC Lorient
+																				Stade Reims
+																				AS Nancy",165,47,10,0.28
+,Benjamin Nivet *,"ESTAC Troyes
+																				SM Caen",339,47,14,0.14
+,Ahmed Oudjani,"RC Lens
+																				CS Sedan",61,47,0,0.77
+,Jacques Santini,"Montpellier HSC
+																				AS Saint-Étienne",288,47,4,0.16
+248,Romain Hamouma *,"SM Caen
+																				AS Saint-Étienne",261,46,2,0.18
+,Toni Kurbos,"AS Monaco
+																				FC Metz
+																				OGC Nice",157,46,3,0.29
+,Jérôme Leroy,"EA Guingamp
+																				Paris Saint-Germain
+																				FC Sochaux
+																				RC Lens
+																				Stade Rennes
+																				Olympique Marseille
+																				Évian Thonon Gaillard",416,46,1,0.11
+* Active player,NA,NA,NA,NA,NA,NA
+251,Michel Margottin,"Olympique Lyon
+																				Angers SCO
+																				Angoulême CFC",155,46,1,0.30
+,Fabrice Mège,"AS Monaco
+																				RC Strasbourg
+																				AS Saint-Étienne
+																				OGC Nice",244,46,8,0.19
+,Didier Simon,"FC Sochaux
+																				Lille OSC
+																				Stade Reims",295,46,0,0.16
+,Philippe Tibeuf,"AS Monaco
+																				AS Saint-Étienne",176,46,2,0.26
+,Drago Vabec,Stade Brest,90,46,6,0.51
+256,Jacques Bonnet,Nîmes Olympique,129,45,1,0.35
+,Ryad Boudebouz *,"FC Sochaux
+																				SC Bastia
+																				Montpellier HSC",301,45,19,0.15
+,Frédéric Da Rocha,FC Nantes,413,45,0,0.11
+,Julien Féret *,"Stade Rennes
+																				SM Caen
+																				AS Nancy",339,45,7,0.13
+,Yoann Gourcuff *,"Girondins Bordeaux
+																				Olympique Lyon
+																				Stade Rennes",282,45,0,0.16
+,Jussiê,"Girondins Bordeaux
+																				RC Lens",266,45,9,0.17
+,Antoine Kuszowski,"Olympique Marseille
+																				Stade Reims
+																				AS Nancy",107,45,0,0.42
+,Guy Lacombe,"RC Lens
+																				Stade Rennes
+																				FC Nantes
+																				Lille OSC
+																				AS Cannes
+																				Toulouse FC
+																				Tours FC",355,45,0,0.13
+,Danijel Ljuboja,"Paris Saint-Germain
+																				FC Sochaux
+																				RC Strasbourg
+																				OGC Nice
+																				Grenoble Foot 38",215,45,1,0.21
+,Robert Rico,"Girondins Bordeaux
+																				Stade Rennes
+																				Stade Reims",234,45,1,0.19
+,Rafik Saïfi,"ESTAC Troyes
+																				FC Lorient
+																				AC Ajaccio
+																				FC Istres",247,45,4,0.18
+267,Habib Bamogo,"Montpellier HSC
+																				FC Nantes
+																				Olympique Marseille
+																				OGC Nice",260,44,6,0.17
+,Anthony Bancarel,"EA Guingamp
+																				Girondins Bordeaux
+																				SM Caen
+																				Toulouse FC",198,44,0,0.22
+,Gérard Bernardet,"Montpellier HSC
+																				Nîmes Olympique
+																				Sporting Club de Toulon
+																				Valenciennes FC
+																				Stade Brest",286,44,2,0.15
+,Jean-Claude Bras,"Paris Saint-Germain
+																				Red Star FC
+																				Valenciennes FC
+																				Paris FC",190,44,0,0.23
+,René Girard,"Girondins Bordeaux
+																				Nîmes Olympique",442,44,1,0.10
+,Kálmán Kovács,"AJ Auxerre
+																				Valenciennes FC",115,44,0,0.38
+,Jean-François Larios,"SC Bastia
+																				AS Saint-Étienne
+																				OGC Nice",249,44,4,0.18
+,Étienne Mendy,"FC Sochaux
+																				SM Caen
+																				AS Saint-Étienne",173,44,1,0.25
+,Carmelo Micciche,"FC Metz
+																				AS Cannes
+																				AS Nancy",213,44,0,0.21
+,Patrick Parizon,"FC Sochaux
+																				ESTAC Troyes
+																				Lille OSC
+																				AS Saint-Étienne
+																				Stade Brest",358,44,0,0.12
+,Christian Pérez,"AS Monaco
+																				Paris Saint-Germain
+																				Montpellier HSC
+																				Nîmes Olympique",268,44,0,0.16
+,Cyrille Pouget,"Paris Saint-Germain
+																				FC Metz
+																				Olympique Marseille
+																				Le Havre AC",155,44,0,0.28
+,Franck Priou,"FC Sochaux
+																				AS Cannes
+																				AS Saint-Étienne
+																				FC Mulhouse",119,44,5,0.37
+,Roger Ricort,"AS Monaco
+																				Lille OSC
+																				OGC Nice
+																				Sporting Club de Toulon",261,44,3,0.17
+,Christophe Robert,"AS Monaco
+																				FC Nantes
+																				AS Nancy
+																				Valenciennes FC",260,44,5,0.17
+,Laurent Roussey,"Toulouse FC
+																				AS Saint-Étienne",159,44,1,0.28
+,Thierno Youm,"FC Nantes
+																				Stade Laval",198,44,1,0.22
+,Bruno Zaremba,"FC Metz
+																				Valenciennes FC",174,44,2,0.25
+285,Boško Antić,Angers SCO,103,43,0,0.42
+,Karim Benzema *,Olympique Lyon,112,43,2,0.38
+,Bernard Bosquier,"FC Sochaux
+																				Olympique Marseille
+																				AS Saint-Étienne",325,43,2,0.13
+,Michel Cardoni,CS Sedan,298,43,0,0.14
+,Gaël Danic *,"SC Bastia
+																				ESTAC Troyes
+																				Valenciennes FC",341,43,9,0.13
+,Arnaud Dos Santos,"AS Monaco
+																				Girondins Bordeaux
+																				ESTAC Troyes
+																				Lille OSC
+																				FC Rouen",419,43,1,0.10
+,Jean-Marie Elie,"RC Lens
+																				AS Saint-Étienne",271,43,0,0.16
+,Leif Eriksson,OGC Nice,153,43,12,0.28
+,Enzo Francéscoli,"Olympique Marseille
+																				Racing Club de France",117,43,8,0.37
+,Franck Gava,"AS Monaco
+																				Paris Saint-Germain
+																				Olympique Lyon
+																				Stade Rennes
+																				AS Nancy",305,43,0,0.14
+,Jocelyn Gourvennec,"SC Bastia
+																				Stade Rennes
+																				FC Nantes
+																				Olympique Marseille",271,43,4,0.16
+,Erich Maas,FC Nantes,150,43,1,0.29
+,Mickaël Madar,"AS Monaco
+																				Paris Saint-Germain
+																				FC Sochaux
+																				AS Cannes",168,43,0,0.26
+,Florent Malouda,"EA Guingamp
+																				Olympique Lyon
+																				FC Metz",259,43,1,0.17
+,Dieter Müller,Girondins Bordeaux,93,43,3,0.46
+,Simo Nikolić,Olympique Lyon,99,43,0,0.43
+* Active player,NA,NA,NA,NA,NA,NA
+301,Laurent Robert,"Paris Saint-Germain
+																				Montpellier HSC",185,43,0,0.23
+,Christophe Sanchez,"Girondins Bordeaux
+																				Montpellier HSC
+																				AS Saint-Étienne",206,43,0,0.21
+,Moussa Sow *,"Stade Rennes
+																				Lille OSC",136,43,2,0.32
+,Jean-Louis Zanon,"FC Metz
+																				Olympique Marseille
+																				AS Saint-Étienne",293,43,5,0.15
+305,Abédi Pelé,"Olympique Lyon
+																				Olympique Marseille
+																				Lille OSC",203,42,0,0.21
+,James Debbah,"AS Monaco
+																				Olympique Lyon
+																				OGC Nice",160,42,1,0.26
+,Pierre Dorsini,Toulouse FC,122,42,0,0.34
+,Hervé Guermeur,Stade Rennes,187,42,10,0.22
+,Bakari Koné,"Olympique Marseille
+																				OGC Nice",150,42,3,0.28
+,Mohamed Lekkak,"Olympique Lyon
+																				FC Rouen",135,42,0,0.31
+,Karim Maroc,"Olympique Lyon
+																				Angers SCO
+																				Stade Brest
+																				Tours FC",216,42,5,0.19
+,Serge Masnaghetti,Valenciennes FC,70,42,3,0.60
+,Jean Petit,AS Monaco,256,42,0,0.16
+,Philippe Piette,"RC Lens
+																				FC Metz
+																				Olympique Marseille
+																				Lille OSC
+																				Racing Club de France
+																				AS Nancy
+																				Valenciennes FC",321,42,0,0.13
+,Philippe Redon,"Paris Saint-Germain
+																				Girondins Bordeaux
+																				FC Metz
+																				Stade Rennes
+																				Stade Laval
+																				FC Rouen",302,42,0,0.14
+,Mohammed Salém,CS Sedan,166,42,4,0.25
+317,Manuel Amoros,"AS Monaco
+																				Olympique Lyon
+																				Olympique Marseille",461,41,14,0.09
+,Pierre-Emerick Aubameyang *,"AS Monaco
+																				Lille OSC
+																				AS Saint-Étienne",120,41,1,0.34
+,Mario Balotelli *,"Olympique Marseille
+																				OGC Nice",74,41,9,0.55
+,Laurent Batlles,"Girondins Bordeaux
+																				SC Bastia
+																				Stade Rennes
+																				Olympique Marseille
+																				Toulouse FC
+																				AS Saint-Étienne
+																				Grenoble Foot 38",472,41,1,0.09
+,Yoan Gouffran *,"Girondins Bordeaux
+																				SM Caen",184,41,2,0.22
+,Guillaume Hoarau *,"Paris Saint-Germain
+																				Girondins Bordeaux",130,41,5,0.32
+,Michel Pavon,"Girondins Bordeaux
+																				Montpellier HSC
+																				Toulouse FC",379,41,0,0.11
+,Víctor Ramos,"FC Nantes
+																				Sporting Club de Toulon",90,41,3,0.46
+,Alain Richard,"Stade Rennes
+																				ESTAC Troyes
+																				Stade Reims",237,41,0,0.17
+,Emmanuel Rivière *,"AS Monaco
+																				FC Metz
+																				Toulouse FC
+																				AS Saint-Étienne",175,41,2,0.23
+,Santiago Santamaría,Stade Reims,148,41,1,0.28
+,Dušan Savić,"Lille OSC
+																				AS Cannes",123,41,13,0.33
+,Robert Szczepaniak,"FC Metz
+																				RC Strasbourg",188,41,0,0.22
+330,Hatem Ben Arfa *,"Olympique Lyon
+																				Stade Rennes
+																				Olympique Marseille
+																				OGC Nice",210,40,9,0.19
+,Jean-Paul Bernad,"Olympique Lyon
+																				FC Metz
+																				OGC Nice",265,40,0,0.15
+,Mathieu Bodmer *,"Paris Saint-Germain
+																				Olympique Lyon
+																				Lille OSC
+																				AS Saint-Étienne
+																				OGC Nice
+																				Amiens SC",408,40,5,0.10
+,Stephane Carnot,"EA Guingamp
+																				AS Monaco
+																				AJ Auxerre",258,40,0,0.16
+,Carlos Curbelo,"OGC Nice
+																				AS Nancy",375,40,0,0.11
+,Jean-Paul Gaidoz,"Stade Reims
+																				Angers SCO
+																				Valenciennes FC",209,40,1,0.19
+,Jean-Marie Marcellin,"FC Metz
+																				Nîmes Olympique",185,40,1,0.22
+,Steve Savidan,"SM Caen
+																				Valenciennes FC",110,40,6,0.36
+,André Tota,"Girondins Bordeaux
+																				FC Metz
+																				ESTAC Troyes",173,40,1,0.23
+,Túlio de Melo,"Lille OSC
+																				Le Mans FC",175,40,5,0.23
+340,Patrick Battiston,"Girondins Bordeaux
+																				FC Metz
+																				AS Saint-Étienne",558,39,4,0.07
+,Martin Braithwaite *,"Girondins Bordeaux
+																				Toulouse FC",150,39,7,0.26
+,Félix Burdino,"FC Sochaux
+																				Girondins Bordeaux
+																				SC Bastia
+																				Valenciennes FC",152,39,0,0.26
+,Patrick Cubaynes,"SC Bastia
+																				Montpellier HSC
+																				Olympique Marseille
+																				RC Strasbourg
+																				Nîmes Olympique",152,39,1,0.26
+,Nicolas de Préville *,"Girondins Bordeaux
+																				Lille OSC
+																				Stade Reims",189,39,7,0.21
+,Bernard Diomède,"AJ Auxerre
+																				AC Ajaccio",222,39,1,0.18
+,Francileudo Dos Santos,"FC Sochaux
+																				Toulouse FC",160,39,0,0.24
+,Didier Drogba,"EA Guingamp
+																				Olympique Marseille",80,39,3,0.49
+,Daniel Dutuel,"Girondins Bordeaux
+																				AJ Auxerre
+																				Olympique Marseille",303,39,2,0.13
+,Jean-Marc Ferratge,"AS Monaco
+																				Girondins Bordeaux
+																				Toulouse FC
+																				Nîmes Olympique",324,39,1,0.12
+,Jean-Noël Huck,"Paris Saint-Germain
+																				RC Strasbourg
+																				OGC Nice
+																				Paris FC",465,39,3,0.08
+* Active player,NA,NA,NA,NA,NA,NA
+351,Michel Maillard,"Olympique Lyon
+																				Valenciennes FC",165,39,6,0.24
+,Lubomir Moravčík,"SC Bastia
+																				AS Saint-Étienne",230,39,1,0.17
+,Dominique Rustichelli,"Stade Français
+																				FC Rouen
+																				OGC Nice",161,39,3,0.24
+,Jean-Pierre Tokoto,"Paris Saint-Germain
+																				Girondins Bordeaux
+																				Olympique Marseille",187,39,0,0.21
+355,Éric Assadourian,"Olympique Lyon
+																				Lille OSC
+																				Toulouse FC",278,38,0,0.14
+,Christian-Jacques Castellan,"Girondins Bordeaux
+																				FC Metz
+																				Stade Français
+																				Angoulême CFC
+																				Avenir Club Avignonnais",177,38,3,0.21
+,Ángel Di María *,Paris Saint-Germain,116,38,0,0.33
+,Luis Fernández,"Paris Saint-Germain
+																				AS Cannes
+																				Racing Club de France",369,38,2,0.10
+,Marco Grassi,"Olympique Lyon
+																				Stade Rennes
+																				AS Cannes",109,38,3,0.35
+,Christophe Le Roux,"EA Guingamp
+																				Stade Rennes
+																				FC Nantes",224,38,3,0.17
+,Vojislav Melić,FC Sochaux,205,38,0,0.19
+,Jérémy Ménez *,"AS Monaco
+																				Paris Saint-Germain
+																				FC Sochaux
+																				Girondins Bordeaux",217,38,1,0.18
+,Michel Stievenard,Angers SCO,161,38,2,0.24
+,Erwin Vandenbergh,Lille OSC,114,38,5,0.33
+365,Cédric Barbosa,"FC Metz
+																				Stade Rennes
+																				Montpellier HSC
+																				ESTAC Troyes
+																				Évian Thonon Gaillard",330,37,0,0.11
+,Teddy Bertin,"RC Strasbourg
+																				Le Havre AC",322,37,2,0.11
+,Jorge Burruchaga,"FC Nantes
+																				Valenciennes FC",172,37,9,0.22
+,Titi Camara,"RC Lens
+																				Olympique Marseille
+																				AS Saint-Étienne",218,37,0,0.17
+,Daniel Cousin,"RC Lens
+																				Le Mans FC",134,37,5,0.28
+,Andy Delort *,"Montpellier HSC
+																				SM Caen
+																				Toulouse FC
+																				AC Ajaccio",140,37,10,0.26
+,Bernard Ferrigno,"SC Bastia
+																				Olympique Lyon
+																				Tours FC",148,37,0,0.25
+,Vincent Guérin,"Paris Saint-Germain
+																				Montpellier HSC
+																				Racing Club de France
+																				Stade Brest",404,37,3,0.09
+,François Heutte,"Lille OSC
+																				AS Saint-Étienne
+																				Racing Club de France
+																				Stade Reims",110,37,3,0.34
+,Kim Källström,"Olympique Lyon
+																				Stade Rennes",282,37,3,0.13
+,Anthony Le Tallec *,"FC Sochaux
+																				AJ Auxerre
+																				AS Saint-Étienne
+																				Le Havre AC
+																				Valenciennes FC
+																				Le Mans FC",241,37,0,0.15
+,Léon Maier,"FC Sochaux
+																				Stade Rennes
+																				Toulouse FC",232,37,0,0.16
+,Claude Petyt,"Girondins Bordeaux
+																				FC Metz
+																				Lille OSC",218,37,0,0.17
+,Didier Philippe,"Stade Laval
+																				AS Nancy",215,37,0,0.17
+,Sylvester Takač,Stade Rennes,85,37,1,0.44
+,Stéphane Ziani,"Girondins Bordeaux
+																				SC Bastia
+																				RC Lens
+																				Stade Rennes
+																				FC Nantes",386,37,0,0.10
+381,Romain Argyroudis,"RC Lens
+																				OGC Nice",98,36,4,0.37
+,Edmond Baraffe,"Lille OSC
+																				Toulouse FC",99,36,1,0.36
+,Ali Bouafia,"Olympique Lyon
+																				FC Lorient
+																				Olympique Marseille
+																				RC Strasbourg",222,36,0,0.16
+,Brandão,"SC Bastia
+																				Olympique Marseille
+																				AS Saint-Étienne",171,36,0,0.21
+,Yvon Douis,AS Monaco,110,36,0,0.33
+,Gervinho *,"Lille OSC
+																				Le Mans FC",124,36,0,0.29
+,Eden Hazard *,Lille OSC,147,36,9,0.24
+,André Houen,"Lille OSC
+																				Red Star FC
+																				Valenciennes FC",161,36,0,0.22
+,Vladimir Kovačević,"FC Nantes
+																				Angers SCO",97,36,4,0.37
+,Ludovic Obraniak,"Girondins Bordeaux
+																				FC Metz
+																				Lille OSC",290,36,1,0.12
+,Nicolas Pépé *,"Lille OSC
+																				Angers SCO",105,36,9,0.34
+,Alassane Pléa *,OGC Nice,119,36,2,0.30
+,Sloan Privat *,"EA Guingamp
+																				FC Sochaux
+																				SM Caen",164,36,0,0.22
+,Mathieu Valbuena *,"Olympique Lyon
+																				Olympique Marseille",298,36,0,0.12
+,Pascal Zaremba,"Paris Saint-Germain
+																				RC Lens
+																				Le Havre AC
+																				Valenciennes FC",236,36,5,0.15
+396,Cédric Bardon,"EA Guingamp
+																				Olympique Lyon
+																				Stade Rennes",216,35,1,0.16
+,François Calderaro,"Paris Saint-Germain
+																				FC Metz",98,35,5,0.36
+,Omar Da Fonseca,"AS Monaco
+																				Paris Saint-Germain
+																				Toulouse FC
+																				Tours FC",173,35,3,0.20
+,Philippe Fargeon,"Girondins Bordeaux
+																				Sporting Club de Toulon",93,35,0,0.38
+,Nicolas Huysman,"FC Metz
+																				SM Caen
+																				Le Havre AC",266,35,0,0.13
+* Active player,NA,NA,NA,NA,NA,NA
+401,Stanislav Karasi,Lille OSC,109,35,3,0.32
+,Richard Krawczyk,"RC Lens
+																				FC Metz
+																				Stade Reims",431,35,0,0.08
+,Pascal Mariini,"SC Bastia
+																				Stade Brest
+																				Chamois Niortais",144,35,0,0.24
+,Angel Rambert,Olympique Lyon,223,35,1,0.16
+,Giovanni Sio *,"FC Sochaux
+																				SC Bastia
+																				Stade Rennes
+																				Montpellier HSC",128,35,0,0.27
+,Patrice Vicq,"FC Metz
+																				RC Strasbourg
+																				AS Nancy",186,35,7,0.19
+,Roland Wagner,"RC Strasbourg
+																				FC Mulhouse",157,35,0,0.22
+408,Klaus Allofs,"Girondins Bordeaux
+																				Olympique Marseille",91,34,0,0.37
+,Mohammed Chaouch,"FC Metz
+																				AS Saint-Étienne
+																				OGC Nice",161,34,2,0.21
+,Kaba Diawara,"Girondins Bordeaux
+																				Stade Rennes
+																				OGC Nice
+																				AC Ajaccio
+																				AC Arles-Avignon",178,34,2,0.19
+,Fred *,Olympique Lyon,86,34,0,0.40
+,Thierry Laurey,"FC Sochaux
+																				Montpellier HSC
+																				Olympique Marseille
+																				AS Saint-Étienne",347,34,0,0.10
+,Lucas *,Paris Saint-Germain,153,34,4,0.22
+,Ángel Marcos,FC Nantes,82,34,6,0.41
+,Joachim Marx,RC Lens,93,34,3,0.37
+,Victor Montaño *,"Stade Rennes
+																				Montpellier HSC
+																				FC Istres",176,34,4,0.19
+,Michel N'Gom,"Paris Saint-Germain
+																				Olympique Marseille",106,34,2,0.32
+,Neymar *,Paris Saint-Germain,37,34,9,0.92
+,Majeed Waris *,"FC Nantes
+																				FC Lorient
+																				Valenciennes FC",103,34,5,0.33
+,Wendel,Girondins Bordeaux,156,34,3,0.22
+,Zinédine Zidane,"Girondins Bordeaux
+																				AS Cannes",200,34,0,0.17
+422,David Bellion,"Girondins Bordeaux
+																				OGC Nice",169,33,5,0.20
+,Tony Cascarino,AS Nancy,83,33,0,0.40
+,Fernando Cavenaghi,Girondins Bordeaux,83,33,7,0.40
+,Paul Courtin,"RC Lens
+																				FC Nantes
+																				Nîmes Olympique",147,33,0,0.22
+,Fabrice Fiorése,"EA Guingamp
+																				Paris Saint-Germain
+																				FC Lorient
+																				Olympique Marseille",162,33,0,0.20
+,Olivier Giroud *,Montpellier HSC,73,33,5,0.45
+,Yann Lachuer,"Paris Saint-Germain
+																				SC Bastia
+																				AJ Auxerre
+																				ESTAC Troyes",308,33,0,0.11
+,Frank Leboeuf,"Olympique Marseille
+																				RC Strasbourg",213,33,16,0.15
+,Jacky Lemée,"FC Metz
+																				RC Strasbourg
+																				Angers SCO",290,33,9,0.11
+,Kévin Monnet-Paquet *,"RC Lens
+																				FC Lorient
+																				AS Saint-Étienne",343,33,0,0.10
+,Lionel Prat,"FC Sochaux
+																				Le Havre AC",179,33,0,0.18
+,Diego Rolán *,Girondins Bordeaux,121,33,4,0.27
+,Christian Synaeghel,"FC Metz
+																				AS Saint-Étienne",240,33,0,0.14
+435,Johan Audel,"FC Nantes
+																				Lille OSC
+																				Valenciennes FC",160,32,0,0.20
+,Claudio Beauvue *,"EA Guingamp
+																				SC Bastia
+																				Olympique Lyon
+																				SM Caen",130,32,8,0.25
+,Yohan Cabaye *,"Paris Saint-Germain
+																				Lille OSC",230,32,10,0.14
+,Jean-Philippe Dehon,"FC Metz
+																				Tours FC",208,32,4,0.15
+,Philippe Delaye,"Stade Rennes
+																				Montpellier HSC
+																				FC Istres",232,32,0,0.14
+,Memphis Depay *,Olympique Lyon,86,32,2,0.37
+,Herve Flores,Olympique Marseille,127,32,2,0.25
+,Claude Hausknecht,"AS Monaco
+																				FC Metz",249,32,0,0.13
+,Yvon Le Roux,"AS Monaco
+																				Paris Saint-Germain
+																				FC Nantes
+																				Olympique Marseille
+																				Stade Brest",290,32,0,0.11
+,Fabrice Picot,"FC Nantes
+																				Le Havre AC
+																				AS Nancy",186,32,4,0.17
+,Oumar Sène,"Paris Saint-Germain
+																				Stade Laval",284,32,0,0.11
+,Franck Silvestre,"FC Sochaux
+																				SC Bastia
+																				AJ Auxerre
+																				Montpellier HSC",485,32,2,0.07
+,Giora Spiegel,"Olympique Lyon
+																				RC Strasbourg",140,32,6,0.23
+,Roger Wicke,"RC Lens
+																				CS Sedan",139,32,0,0.23
+449,Alex Dias,"Paris Saint-Germain
+																				AS Saint-Étienne",71,31,0,0.44
+,Jordan Ayew *,"FC Sochaux
+																				FC Lorient
+																				Olympique Marseille",159,31,3,0.19
+* Active player,NA,NA,NA,NA,NA,NA
+451,Patrick Collot,"Lille OSC
+																				FC Martigues
+																				Sporting Club de Toulon",217,31,1,0.14
+,Jean-Philippe Durand,"Girondins Bordeaux
+																				Olympique Marseille
+																				Toulouse FC",356,31,1,0.09
+,Dragan Džajić,SC Bastia,66,31,9,0.47
+,Bruno Germain,"Paris Saint-Germain
+																				Olympique Marseille
+																				Racing Club de France
+																				AS Nancy
+																				Angers SCO
+																				Sporting Club de Toulon",357,31,0,0.09
+,François Kamano *,"Girondins Bordeaux
+																				SC Bastia",146,31,5,0.21
+,Adrijan Kozniku,"SC Bastia
+																				AS Cannes
+																				Le Havre AC",97,31,0,0.32
+,Philippe Le Donche,"Toulouse FC
+																				Red Star FC
+																				AC Ajaccio",120,31,2,0.26
+,Anthony Modeste *,"Girondins Bordeaux
+																				SC Bastia
+																				OGC Nice",130,31,8,0.24
+,Viorel Moldovan,FC Nantes,69,31,1,0.45
+,Dennis Oliech,"AJ Auxerre
+																				FC Nantes
+																				AC Ajaccio",215,31,0,0.14
+461,Aljoša Asanović,"FC Metz
+																				Montpellier HSC
+																				AS Cannes",107,30,6,0.28
+,Mamadou Bagayoko,"FC Nantes
+																				RC Strasbourg
+																				OGC Nice
+																				AC Ajaccio",193,30,2,0.16
+,Philippe Brunel,"RC Lens
+																				Lille OSC
+																				FC Gueugnon",349,30,3,0.09
+,Darío Cvitanich *,OGC Nice,69,30,7,0.43
+,Michaël Debève,"RC Lens
+																				Toulouse FC
+																				Le Havre AC",363,30,1,0.08
+,Kader Ferhaoui,"Montpellier HSC
+																				AS Cannes",342,30,0,0.09
+,Laurent Fournier,"Paris Saint-Germain
+																				Girondins Bordeaux
+																				Olympique Lyon
+																				Olympique Marseille
+																				AS Saint-Étienne",370,30,0,0.08
+,Georges Franceschetti,"SC Bastia
+																				Olympique Marseille",280,30,0,0.11
+,Guy Guillon,"AC Ajaccio
+																				Valenciennes FC",154,30,1,0.19
+,Bonaventure Kalou,"Paris Saint-Germain
+																				AJ Auxerre",122,30,1,0.25
+,Salomon Kalou *,Lille OSC,67,30,6,0.45
+,Olivier Kapo,"AS Monaco
+																				AJ Auxerre
+																				US Boulogne",176,30,1,0.17
+,Jürgen Klinsmann,AS Monaco,65,30,1,0.46
+,Benoît Pedretti,"FC Sochaux
+																				Olympique Lyon
+																				AJ Auxerre
+																				Olympique Marseille
+																				Lille OSC
+																				AS Nancy
+																				AC Ajaccio",407,30,1,0.07
+,Laurent Pokou,"Stade Rennes
+																				AS Nancy",70,30,2,0.43
+,Dick van Dijk,OGC Nice,58,30,2,0.52
+477,Henrik Agerbeck,"FC Sochaux
+																				FC Nantes",139,29,0,0.21
+,Younès Belhanda *,"Montpellier HSC
+																				OGC Nice",157,29,7,0.18
+,Eric Carrière,"Olympique Lyon
+																				RC Lens
+																				FC Nantes",334,29,0,0.09
+,Benoît Cheyrou,"AJ Auxerre
+																				Olympique Marseille
+																				Lille OSC",405,29,0,0.07
+,Alain Couriol,"AS Monaco
+																				Paris Saint-Germain",208,29,0,0.14
+,Pierre Dell'Oste,"AS Monaco
+																				Stade Rennes
+																				Nîmes Olympique",139,29,0,0.21
+,Olivier Echouafni,"Stade Rennes
+																				Olympique Marseille
+																				RC Strasbourg
+																				OGC Nice",391,29,0,0.07
+,Youssouf Fofana,"AS Monaco
+																				Girondins Bordeaux",216,29,0,0.13
+,Bent Jensen,Girondins Bordeaux,87,29,0,0.33
+,Sabri Lamouchi,"AS Monaco
+																				AJ Auxerre
+																				Olympique Marseille",222,29,0,0.13
+,Pierre Laurent,"SC Bastia
+																				RC Strasbourg",165,29,1,0.18
+,Johny Léonard,FC Metz,65,29,0,0.45
+,Blaise Matuidi *,"Paris Saint-Germain
+																				ESTAC Troyes
+																				AS Saint-Étienne",400,29,0,0.07
+,Anthony Mounier *,"Olympique Lyon
+																				Montpellier HSC
+																				OGC Nice",210,29,1,0.14
+,Matt Moussilou *,"Lille OSC
+																				AS Saint-Étienne
+																				US Boulogne",147,29,0,0.20
+,Oscar Muller,"Stade Rennes
+																				FC Nantes",214,29,3,0.14
+,Daniel Niculae,"AS Monaco
+																				AJ Auxerre
+																				AS Nancy",178,29,0,0.16
+,Javier Pastore *,Paris Saint-Germain,186,29,0,0.16
+,Michel Rio,"FC Metz
+																				FC Nantes
+																				SM Caen
+																				Le Havre AC",237,29,3,0.12
+,Ronny Rodelin *,"Lille OSC
+																				SM Caen",209,29,1,0.14
+,Lamine Sakho,"RC Lens
+																				Olympique Marseille
+																				AS Saint-Étienne",124,29,0,0.23
+,François Simian,"AS Monaco
+																				Stade Rennes
+																				Sporting Club de Toulon",181,29,2,0.16
+,Antoine Valls,Nîmes Olympique,91,29,0,0.32
+500,Patrice Augustin,"Angers SCO
+																				Tours FC",171,28,0,0.16
+* Active player,NA,NA,NA,NA,NA,NA
+501,Ismaël Bangoura,"Stade Rennes
+																				FC Nantes
+																				Le Mans FC",123,28,1,0.23
+,Umberto Barberis,AS Monaco,103,28,0,0.27
+,Eric Benoît,"AS Monaco
+																				FC Sochaux
+																				Olympique Marseille",242,28,0,0.12
+,Roberto Cabral,Lille OSC,98,28,0,0.29
+,Raúl Castronovo,AS Nancy,79,28,1,0.35
+,Mustapha El-Haddaoui,"RC Lens
+																				AS Saint-Étienne
+																				OGC Nice
+																				Angers SCO",185,28,6,0.15
+,Alain Fiard,"SC Bastia
+																				AJ Auxerre
+																				Lille OSC",437,28,0,0.06
+,Thierry Goudet,"Stade Laval
+																				Le Havre AC
+																				Stade Brest",350,28,7,0.08
+,Christophe Horlaville,"FC Metz
+																				AS Cannes
+																				Le Havre AC",119,28,0,0.24
+,Simeï Ihily,SC Bastia,219,28,0,0.13
+,Sylvain Kastendeuch,"FC Metz
+																				Toulouse FC
+																				AS Saint-Étienne",577,28,18,0.05
+,Josip Katalinski,OGC Nice,103,28,3,0.27
+,Christian López,"Toulouse FC
+																				AS Saint-Étienne",429,28,0,0.07
+,Laurent Paganelli,"AS Saint-Étienne
+																				Sporting Club de Toulon",164,28,1,0.17
+,Philippe Perilleux,"Montpellier HSC
+																				Lille OSC",355,28,8,0.08
+,Michel Prost,"Paris Saint-Germain
+																				SC Bastia
+																				AS Nancy
+																				Paris FC",125,28,0,0.22
+,Dado Pršo,AS Monaco,101,28,2,0.28
+,Patrice Rio,"Stade Rennes
+																				FC Nantes",509,28,13,0.06
+,Jean-Christophe Thomas,"FC Sochaux
+																				Stade Rennes",347,28,2,0.08
+,Olivier Thomert,"RC Lens
+																				Stade Rennes",198,28,0,0.14
+521,José Ahache,"Toulouse FC
+																				Red Star FC",153,27,1,0.18
+,Kévin Bérigaud *,"Montpellier HSC
+																				Évian Thonon Gaillard",169,27,0,0.16
+,Paul Chillan,Nîmes Olympique,129,27,0,0.21
+,Philippe Desmet,Lille OSC,90,27,7,0.30
+,Ederson,"Olympique Lyon
+																				OGC Nice",173,27,5,0.16
+,Glenn Hoddle,AS Monaco,69,27,2,0.39
+,Patrick Jeskowiak,"FC Sochaux
+																				Valenciennes FC",133,27,0,0.20
+,Yves Mariot,"SC Bastia
+																				Olympique Lyon
+																				CS Sedan
+																				OGC Nice
+																				AS Nancy",263,27,0,0.10
+,William N'Jo Léa,"Paris Saint-Germain
+																				RC Lens
+																				Stade Brest",119,27,0,0.23
+,Vicky Peretz,RC Strasbourg,71,27,1,0.38
+,Loïc Perrin *,AS Saint-Étienne,361,27,0,0.07
+,Fabrizio Ravanelli,Olympique Marseille,64,27,0,0.42
+,Younousse Sankharé *,"EA Guingamp
+																				Paris Saint-Germain
+																				Girondins Bordeaux
+																				Lille OSC
+																				Dijon FCO",264,27,0,0.10
+,Morgan Sanson *,"Montpellier HSC
+																				Olympique Marseille",179,27,0,0.15
+,Jean-Philippe Séchet,"Paris Saint-Germain
+																				FC Metz
+																				AS Saint-Étienne
+																				AS Nancy",188,27,1,0.14
+536,Vincent Aboubakar *,"FC Lorient
+																				Valenciennes FC",109,26,3,0.24
+,Kanga Akalé,"RC Lens
+																				AJ Auxerre
+																				Olympique Marseille",212,26,0,0.12
+,Jérémie Aliadiére,FC Lorient,89,26,4,0.29
+,Michy Batshuayi *,Olympique Marseille,62,26,2,0.42
+,Éric Bauthéac *,"Lille OSC
+																				OGC Nice
+																				Dijon FCO",172,26,4,0.15
+,Miladin Becanovic,"Lille OSC
+																				Le Havre AC",122,26,0,0.21
+,Alain Bénédet,"FC Metz
+																				AS Saint-Étienne
+																				Le Havre AC
+																				Sporting Club de Toulon",230,26,0,0.11
+,Eric Black,FC Metz,86,26,3,0.30
+,Alen Bokšić,Olympique Marseille,50,26,1,0.52
+,Stéphane Bruey,"Olympique Lyon
+																				Angers SCO",82,26,1,0.32
+,Bruno Cheyrou,"Girondins Bordeaux
+																				Stade Rennes
+																				Olympique Marseille
+																				Lille OSC",193,26,2,0.13
+,Jean-Marc Guillou,"OGC Nice
+																				Angers SCO",392,26,0,0.07
+,Joseph-Désiré Job,"Olympique Lyon
+																				RC Lens
+																				FC Metz
+																				CS Sedan",112,26,1,0.23
+,Michel Lafranceschina,"FC Sochaux
+																				Lille OSC",48,26,2,0.54
+,Jacky Le Bihan,CS Sedan,150,26,0,0.17
+* Active player,NA,NA,NA,NA,NA,NA
+551,Jean-Louis Léonetti,"Paris Saint-Germain
+																				Girondins Bordeaux
+																				FC Rouen
+																				Angoulême CFC
+																				AS Aixoise",231,26,0,0.11
+,Camel Meriem,"AS Monaco
+																				FC Sochaux
+																				Girondins Bordeaux
+																				Olympique Marseille
+																				OGC Nice
+																				AC Arles-Avignon",333,26,2,0.08
+,Žarko Olarević,Lille OSC,102,26,8,0.25
+,Michel Pech,FC Nantes,231,26,3,0.11
+,Reynald Pedros,"Olympique Lyon
+																				FC Nantes
+																				Toulouse FC",217,26,0,0.12
+,Luigi Pieroni,"RC Lens
+																				AJ Auxerre
+																				FC Nantes
+																				Valenciennes FC",117,26,5,0.22
+,Mario Relmy,"FC Metz
+																				Stade Rennes
+																				Chamois Niortais",133,26,0,0.20
+,Rony Lopes *,"AS Monaco
+																				Lille OSC",122,26,0,0.21
+,Omar Sahnoun,"Girondins Bordeaux
+																				FC Nantes",137,26,0,0.19
+,Liazid Sandjak,"Paris Saint-Germain
+																				AS Saint-Étienne
+																				OGC Nice",141,26,0,0.18
+,Ivan Santini *,SM Caen,66,26,8,0.39
+,Christian Sarramagna,"Montpellier HSC
+																				AS Saint-Étienne",163,26,7,0.16
+,José Souto,"RC Lens
+																				FC Metz
+																				RC Strasbourg
+																				Stade Laval",245,26,0,0.11
+,Jean Tigana,"Girondins Bordeaux
+																				Olympique Lyon",411,26,0,0.06
+565,Abdelaziz Bouderbala,"Olympique Lyon
+																				Racing Club de France",102,25,1,0.25
+,Amara Diané,"Paris Saint-Germain
+																				RC Strasbourg",105,25,0,0.24
+,Aruna Dindane,RC Lens,90,25,3,0.28
+,Emilio Salaber,"CS Sedan
+																				RC Strasbourg
+																				Nîmes Olympique",110,25,0,0.23
+,Gérard Grizzetti,"AS Monaco
+																				Angoulême CFC",94,25,2,0.27
+,Hubert Gueniche,"Olympique Marseille
+																				Red Star FC",109,25,1,0.23
+,Daniel Jeandupeux,Girondins Bordeaux,74,25,0,0.34
+,Júlio Tavares *,Dijon FCO,95,25,6,0.26
+,Wolfgang Kaniber,RC Strasbourg,50,25,0,0.50
+,Pierre Laigle,"Olympique Lyon
+																				RC Lens
+																				Montpellier HSC",257,25,0,0.10
+,Fabien Lefévre,"Montpellier HSC
+																				AS Nancy",210,25,0,0.12
+,Roger Magnusson,"Olympique Marseille
+																				Red Star FC",176,25,6,0.14
+,Guy Mengual,"AS Monaco
+																				AS Cannes",107,25,4,0.23
+,Didier Monczuk,"AJ Auxerre
+																				FC Rouen
+																				Nîmes Olympique",117,25,2,0.21
+,Moussa N'Diaye,"AS Monaco
+																				CS Sedan
+																				AC Ajaccio
+																				FC Istres",159,25,0,0.16
+,Chu-young Park *,AS Monaco,91,25,3,0.27
+,Marc Pascal,"Girondins Bordeaux
+																				Olympique Marseille
+																				OGC Nice
+																				Stade Brest",120,25,1,0.21
+,Alain Polaniok,"Paris Saint-Germain
+																				FC Metz
+																				AS Cannes
+																				Stade Laval
+																				Stade Reims
+																				Tours FC",291,25,2,0.09
+,Philippe Pottier,"Stade Français
+																				Angers SCO",97,25,0,0.26
+,William Prunier,"AJ Auxerre
+																				Olympique Marseille",358,25,1,0.07
+,Claude Quittet,"AS Monaco
+																				FC Sochaux
+																				OGC Nice",299,25,5,0.08
+,Pascal Raspollini,"FC Metz
+																				FC Rouen",151,25,1,0.17
+,Sébastien Roudet *,"FC Sochaux
+																				RC Lens
+																				OGC Nice
+																				Valenciennes FC",256,25,1,0.10
+,Éric Roy,"Olympique Lyon
+																				Olympique Marseille
+																				OGC Nice
+																				Sporting Club de Toulon",347,25,0,0.07
+,Moussa Saïb,"AS Monaco
+																				AJ Auxerre
+																				FC Lorient",166,25,0,0.15
+,Ady Schmit,FC Sochaux,178,25,0,0.14
+591,Jean-Pierre Adams,"Paris Saint-Germain
+																				OGC Nice
+																				Nîmes Olympique",251,24,0,0.10
+,Romain Alessandrini *,"Stade Rennes
+																				Olympique Marseille",103,24,1,0.23
+,Aloísio,"Paris Saint-Germain
+																				AS Saint-Étienne",93,24,1,0.26
+,Bernardo Silva *,AS Monaco,101,24,0,0.24
+,Basile Boli,"AJ Auxerre
+																				Olympique Marseille",396,24,0,0.06
+,Mathieu Debuchy *,"Lille OSC
+																				AS Saint-Étienne",278,24,2,0.09
+,Geoffrey Dernis,"Montpellier HSC
+																				Lille OSC
+																				AS Saint-Étienne
+																				Stade Brest",228,24,0,0.11
+,Alou Diarra,"Girondins Bordeaux
+																				SC Bastia
+																				Olympique Lyon
+																				RC Lens
+																				Olympique Marseille
+																				AS Nancy",336,24,1,0.07
+,Ramón Díaz,AS Monaco,60,24,4,0.40
+,Cyriaque Didaux,"Lille OSC
+																				RC Strasbourg
+																				FC Rouen
+																				Valenciennes FC",196,24,0,0.12
+* Active player,NA,NA,NA,NA,NA,NA
+601,Nicolas Dieuze,"SC Bastia
+																				Toulouse FC
+																				Le Havre AC
+																				Grenoble Foot 38",280,24,2,0.09
+,Philippe Gaillot,"FC Metz
+																				Valenciennes FC",456,24,0,0.05
+,Jean-Pierre Giordani,"SC Bastia
+																				Avenir Club Avignonnais",158,24,0,0.15
+,Roger Jouve,OGC Nice,324,24,0,0.07
+,Ulrich Le Pen,"Stade Rennes
+																				FC Lorient
+																				RC Strasbourg",251,24,4,0.10
+,Louis Leclerc,"FC Sochaux
+																				RC Strasbourg
+																				Angoulême CFC",174,24,0,0.14
+,Michel Mézy,"Lille OSC
+																				Nîmes Olympique",384,24,1,0.06
+,Eric Mouloungui,"RC Strasbourg
+																				OGC Nice",177,24,1,0.14
+,Pius N'Diefi,CS Sedan,112,24,0,0.21
+,José Pastoriza,AS Monaco,80,24,0,0.30
+,Albert Poli,"Paris Saint-Germain
+																				Angers SCO",297,24,0,0.08
+,Karl Toko Ekambi *,Angers SCO,68,24,3,0.35
+,Georges Van Straelen,"Girondins Bordeaux
+																				FC Nantes
+																				RC Strasbourg
+																				Toulouse FC
+																				Stade Brest",264,24,0,0.09
+,Rudi Völler,Olympique Marseille,58,24,2,0.41
+615,Jocelyn Angloma,"Paris Saint-Germain
+																				Stade Rennes
+																				Olympique Marseille
+																				Lille OSC",250,23,0,0.09
+,Jonathan Bamba *,"Lille OSC
+																				AS Saint-Étienne
+																				Angers SCO",94,23,5,0.24
+,Robert Berić *,AS Saint-Étienne,68,23,1,0.34
+,Benjamin Corgnet *,"FC Lorient
+																				RC Strasbourg
+																				AS Saint-Étienne
+																				Dijon FCO",175,23,0,0.13
+,Enzo Crivelli *,"Girondins Bordeaux
+																				SC Bastia
+																				SM Caen
+																				Angers SCO",123,23,0,0.19
+,Christophe Delmotte,"Olympique Lyon
+																				RC Lens
+																				AS Cannes",292,23,0,0.08
+,Julio Dely Valdés,Paris Saint-Germain,64,23,0,0.36
+,Wagneau Eloi,"EA Guingamp
+																				AS Monaco
+																				RC Lens
+																				AS Nancy",133,23,0,0.17
+,Achille Emaná,Toulouse FC,164,23,0,0.14
+,Fabinho *,AS Monaco,167,23,17,0.14
+,Serge Gakpé *,"AS Monaco
+																				FC Nantes
+																				Amiens SC",190,23,0,0.12
+,Gilbert Gress,"Olympique Marseille
+																				RC Strasbourg",262,23,0,0.09
+,Aimé Jacquet,"Olympique Lyon
+																				AS Saint-Étienne",210,23,0,0.11
+,Robby Langers,"AS Cannes
+																				OGC Nice",83,23,6,0.28
+,Daniel Leclercq,"RC Lens
+																				Olympique Marseille
+																				Valenciennes FC
+																				Angoulême CFC",369,23,3,0.06
+,Cédric Mionnet,"CS Sedan
+																				OGC Nice",91,23,0,0.25
+,Jacky Novi,"Paris Saint-Germain
+																				Olympique Marseille
+																				RC Strasbourg
+																				Nîmes Olympique",544,23,0,0.04
+,Peter Odemwingie,Lille OSC,75,23,0,0.31
+,Prince Oniangué *,"SC Bastia
+																				SM Caen
+																				Stade Reims
+																				Angers SCO",157,23,0,0.15
+,José Parody,Nîmes Olympique,115,23,0,0.20
+,Stéphane Pedron,"Paris Saint-Germain
+																				RC Lens
+																				FC Lorient
+																				AS Saint-Étienne",160,23,0,0.14
+,Georges Peyroche,"Lille OSC
+																				Stade Français
+																				Nîmes Olympique",145,23,1,0.16
+,Olivier Quint,"FC Nantes
+																				CS Sedan",181,23,3,0.13
+,Daniel Ravier,"Olympique Lyon
+																				Stade Reims",280,23,0,0.08
+,Lionel Rouxel,"EA Guingamp
+																				RC Strasbourg",114,23,0,0.20
+,Adolf Scherer,Nîmes Olympique,65,23,9,0.35
+,Yves Triantafilos,"FC Nantes
+																				AS Saint-Étienne
+																				FC Rouen",77,23,0,0.30
+,Henk Vos,"FC Sochaux
+																				FC Metz",81,23,3,0.28
+,Daniel Wass *,Évian Thonon Gaillard,133,23,1,0.17
+,Héctor Yazalde,Olympique Marseille,44,23,3,0.52
+645,André Barthélémy,"SC Bastia
+																				AS Saint-Étienne
+																				Angers SCO",55,22,0,0.40
+,Jacques Bernard,Toulouse FC,92,22,5,0.24
+,François Bruant,"FC Rouen
+																				Stade Reims",143,22,2,0.15
+,Miloš Bursać,"Olympique Lyon
+																				Sporting Club de Toulon",89,22,4,0.25
+,Gabriel Calderón,"Paris Saint-Germain
+																				SM Caen",138,22,12,0.16
+,Henri Camara *,CS Sedan,59,22,0,0.37
+* Active player,NA,NA,NA,NA,NA,NA
+651,Bernard Castellani,OGC Nice,116,22,0,0.19
+,Christian,"Paris Saint-Germain
+																				Girondins Bordeaux",71,22,0,0.31
+,André Coustillet,"FC Metz
+																				Valenciennes FC",274,22,6,0.08
+,Frédéric Déhu,"Paris Saint-Germain
+																				RC Lens
+																				Olympique Marseille",405,22,0,0.05
+,Éric Dewilder,"FC Sochaux
+																				Girondins Bordeaux
+																				SC Bastia
+																				RC Lens
+																				Olympique Marseille
+																				SM Caen",291,22,0,0.08
+,Jean Djorkaeff,"Paris Saint-Germain
+																				Olympique Lyon
+																				Olympique Marseille
+																				Paris FC",333,22,7,0.07
+,Bernard Ducuing,"Montpellier HSC
+																				Red Star FC
+																				Stade Reims",199,22,0,0.11
+,Slađan Đukić,ESTAC Troyes,71,22,0,0.31
+,Johan Elmander,Toulouse FC,64,22,1,0.34
+,Jean-Marc Giachetti,"Stade Laval
+																				Valenciennes FC",121,22,0,0.18
+,Aimé Gori,"Girondins Bordeaux
+																				FC Rouen
+																				Stade Reims",79,22,2,0.28
+,Yvon Goujon,FC Rouen,88,22,0,0.25
+,Mark Hateley,AS Monaco,59,22,6,0.37
+,Issam Jemâa,"RC Lens
+																				AJ Auxerre
+																				SM Caen
+																				Stade Brest",126,22,2,0.17
+,Mo Johnston,FC Nantes,66,22,1,0.33
+,Yann Jouffre,"FC Metz
+																				FC Lorient",232,22,4,0.09
+,Kazimierz Juraszek,RC Lens,74,22,0,0.30
+,Raymond Keruzoré,"Stade Rennes
+																				Olympique Marseille
+																				Stade Laval",267,22,6,0.08
+,Félix Lacuesta,"AS Monaco
+																				Girondins Bordeaux
+																				SC Bastia
+																				Lille OSC
+																				RC Strasbourg
+																				AS Cannes
+																				AS Saint-Étienne",322,22,5,0.07
+,Christophe Lagrange,"RC Lens
+																				Le Havre AC
+																				Angers SCO",125,22,2,0.18
+,Ezequiel Lavezzi *,Paris Saint-Germain,107,22,0,0.21
+,Bixente Lizarazu,Girondins Bordeaux,227,22,7,0.10
+,Robert Llorens,"RC Lens
+																				Le Havre AC",86,22,7,0.26
+,Marcel Loncle,Stade Rennes,99,22,2,0.22
+,Lucas Ocampos *,"AS Monaco
+																				Olympique Marseille",144,22,0,0.15
+,Sébastien Puygrenier,"AS Monaco
+																				AS Nancy",219,22,1,0.10
+,Jérôme Rothen,"AS Monaco
+																				Paris Saint-Germain
+																				SC Bastia
+																				ESTAC Troyes",295,22,3,0.07
+,Ronan Salaün,"Girondins Bordeaux
+																				SM Caen
+																				Stade Brest",157,22,0,0.14
+,Philippe Terrier,"FC Sochaux
+																				Stade Rennes",96,22,0,0.23
+,Alain Traoré *,"AJ Auxerre
+																				FC Lorient",104,22,0,0.21
+,Jean-Marc Valadier,"AS Monaco
+																				Olympique Lyon",111,22,0,0.20
+682,Claude Arribas,"Paris Saint-Germain
+																				Girondins Bordeaux
+																				Stade Rennes
+																				FC Nantes",153,21,0,0.14
+,Floyd Ayité *,"SC Bastia
+																				Stade Reims
+																				AS Nancy",130,21,1,0.16
+,Cyril Chapuis,"Stade Rennes
+																				Olympique Marseille
+																				RC Strasbourg
+																				AC Ajaccio",123,21,0,0.17
+,Didier Christophe,"AS Monaco
+																				Stade Rennes
+																				Lille OSC
+																				Toulouse FC",242,21,0,0.09
+,Didier Danio,"Stade Rennes
+																				AJ Auxerre
+																				AS Nancy",214,21,0,0.10
+,Cédric Daury,"AS Cannes
+																				Le Havre AC
+																				Angers SCO",134,21,0,0.16
+,Issiar Dia *,AS Nancy,155,21,1,0.14
+,Mamadou Diallo,"FC Nantes
+																				Le Havre AC",101,21,0,0.21
+,Salah Djebaïli,Nîmes Olympique,78,21,3,0.27
+,Jean-Luc Dogon,"Girondins Bordeaux
+																				Stade Rennes
+																				Stade Laval
+																				Racing Club de France",358,21,3,0.06
+,Valentin Eysseric *,"FC Nantes
+																				AS Saint-Étienne
+																				OGC Nice",154,21,5,0.14
+,Frank Farina,"Lille OSC
+																				RC Strasbourg",74,21,1,0.28
+,Clément Grenier *,"EA Guingamp
+																				Olympique Lyon
+																				Stade Rennes",162,21,3,0.13
+,Foued Kadir,"Stade Rennes
+																				Valenciennes FC",125,21,0,0.17
+,Thomas Kahlenberg,"AJ Auxerre
+																				Évian Thonon Gaillard",147,21,1,0.14
+,Alfred Kaiser,RC Lens,79,21,0,0.27
+,Bolec Kocik,Valenciennes FC,216,21,0,0.10
+,Erwin Kostedde,Stade Laval,34,21,4,0.62
+,Paul Le Guen,"Paris Saint-Germain
+																				FC Nantes
+																				Stade Brest",444,21,1,0.05
+* Active player,NA,NA,NA,NA,NA,NA
+701,Claude Le Roy,"Stade Laval
+																				FC Rouen
+																				AC Ajaccio
+																				Avenir Club Avignonnais",227,21,0,0.09
+,Sylvain Marveaux *,"EA Guingamp
+																				Stade Rennes
+																				FC Lorient",150,21,2,0.14
+,Jean-Jacques Marx,"RC Strasbourg
+																				Toulouse FC",346,21,0,0.06
+,Yohan Mollo *,"AS Monaco
+																				SM Caen
+																				AS Saint-Étienne
+																				AS Nancy",173,21,0,0.12
+,Ramon Muller,"FC Nantes
+																				RC Strasbourg",149,21,0,0.14
+,Eric Renaut,"Paris Saint-Germain
+																				FC Sochaux
+																				Racing Club de France",248,21,0,0.08
+,Alain Roche,"Paris Saint-Germain
+																				Girondins Bordeaux
+																				AJ Auxerre",413,21,0,0.05
+,Mahamadou Samassa,"Olympique Marseille
+																				Valenciennes FC
+																				Le Mans FC",130,21,2,0.16
+,Léonard Specht,"Girondins Bordeaux
+																				RC Strasbourg",475,21,0,0.04
+,Ola Toivonen *,"Stade Rennes
+																				Toulouse FC",104,21,1,0.20
+,Corentin Tolisso *,Olympique Lyon,116,21,0,0.18
+,Gérard Verstraete,"SC Bastia
+																				ESTAC Troyes
+																				Sporting Club de Toulon
+																				Valenciennes FC",173,21,0,0.12
+,Chris Waddle,Olympique Marseille,107,21,0,0.20
+714,Emmanuel Adebayor *,"AS Monaco
+																				FC Metz",88,20,0,0.23
+,Kennet Andersson,"Lille OSC
+																				SM Caen",63,20,6,0.32
+,Andre Luiz,AS Nancy,253,20,4,0.08
+,Dominique Arribagé,"Stade Rennes
+																				Toulouse FC",388,20,0,0.05
+,Henri Atamaniuk,"FC Sochaux
+																				FC Metz",60,20,0,0.33
+,Stéphane Bahoken *,"RC Strasbourg
+																				OGC Nice
+																				Angers SCO",72,20,2,0.28
+,Dagui Bakari,"RC Lens
+																				Lille OSC",114,20,0,0.18
+,Eden Ben Basat *,"Toulouse FC
+																				Stade Brest",84,20,3,0.24
+,Ali Benarbia,"AS Monaco
+																				Girondins Bordeaux
+																				FC Martigues",221,20,2,0.09
+,Maxime Bossis,FC Nantes,497,20,2,0.04
+,Abdelmajid Bourebbou,"Stade Laval
+																				FC Rouen",126,20,0,0.16
+,Bruno Carotti,"Montpellier HSC
+																				FC Nantes
+																				AS Saint-Étienne",338,20,1,0.06
+,Ernesto Chevantón,AS Monaco,50,20,0,0.40
+,Renato Civelli *,"Olympique Marseille
+																				Lille OSC
+																				OGC Nice",207,20,0,0.10
+,Maxwel Cornet *,Olympique Lyon,122,20,0,0.16
+,Cris,Olympique Lyon,224,20,0,0.09
+,Mathieu Dossevi *,"FC Metz
+																				Toulouse FC
+																				Valenciennes FC
+																				Le Mans FC",215,20,0,0.09
+,Samuel Edimo N'Ganga,"Toulouse FC
+																				Red Star FC",61,20,2,0.33
+,Eduardo,"RC Lens
+																				AC Ajaccio",106,20,3,0.19
+,Rolland Ehrhardt,"Olympique Marseille
+																				Lille OSC
+																				AS Nancy
+																				Angers SCO",94,20,2,0.21
+,Jean-Michel Ferri,FC Nantes,290,20,0,0.07
+,Marcelo Gallardo,"AS Monaco
+																				Paris Saint-Germain",124,20,0,0.16
+,Thierry Henry,AS Monaco,105,20,0,0.19
+,Hilton *,"RC Lens
+																				Montpellier HSC
+																				Olympique Marseille",453,20,0,0.04
+,Benjamin Jeannot *,"FC Lorient
+																				Dijon FCO",135,20,1,0.15
+,Abdulkader Keïta,"Olympique Lyon
+																				Lille OSC",115,20,0,0.17
+,Moussa Konaté *,Amiens SC,58,20,4,0.34
+,Gaëtan Laborde *,"Girondins Bordeaux
+																				Montpellier HSC",92,20,1,0.22
+,Jean Makoun,"Olympique Lyon
+																				Stade Rennes
+																				Lille OSC",300,20,0,0.07
+,Malcom *,Girondins Bordeaux,84,20,2,0.24
+,Vladimir Manchev,Lille OSC,66,20,1,0.30
+,Roland Merschel,"Olympique Marseille
+																				RC Strasbourg",179,20,9,0.11
+,Bruno Metsu,"Lille OSC
+																				OGC Nice
+																				Valenciennes FC",209,20,0,0.10
+,Selimir Milošević,Red Star FC,41,20,5,0.49
+,Marco Morgante,"FC Metz
+																				Stade Laval
+																				AS Nancy",213,20,0,0.09
+,Clinton N'Jie *,"Olympique Lyon
+																				Olympique Marseille",96,20,0,0.21
+,Pierre Neubert,"AS Nancy
+																				Sporting Club de Toulon
+																				Valenciennes FC",367,20,0,0.05
+* Active player,NA,NA,NA,NA,NA,NA
+751,Ion Pîrcălab,Nîmes Olympique,83,20,0,0.24
+,Jaroslav Plašil *,"AS Monaco
+																				Girondins Bordeaux",407,20,1,0.05
+,Joël Prou,"RC Lens
+																				FC Nantes
+																				RC Strasbourg
+																				Angoulême CFC",109,20,0,0.18
+,Patrick Revelles,"AS Monaco
+																				SM Caen
+																				Sporting Club de Toulon",159,20,0,0.13
+,Nicolas Savinaud,FC Nantes,307,20,2,0.07
+,Moussa Sissoko *,Toulouse FC,191,20,2,0.10
+,Abderhamane Soukhane,"Toulouse FC
+																				Red Star FC",120,20,0,0.17
+,Yves Texier,"AS Monaco
+																				Girondins Bordeaux
+																				Stade Français",144,20,0,0.14
+,Djamel Tlemçani,"FC Rouen
+																				Sporting Club de Toulon",84,20,0,0.24
+,Bertrand Traoré *,Olympique Lyon,63,20,0,0.32
+,Maryan Wisnieski,"FC Sochaux
+																				AS Saint-Étienne",138,20,1,0.14
+,Roland Wohlfarth,AS Saint-Étienne,39,20,0,0.51
+,Teitur Þórðarson,RC Lens,48,20,2,0.42
+764,Jean-Pierre Alba,Stade Français,101,19,0,0.19
+,Morgan Amalfitano,"Stade Rennes
+																				FC Lorient
+																				Olympique Marseille
+																				Lille OSC",253,19,1,0.08
+,Sylvain Armand,"Paris Saint-Germain
+																				Stade Rennes
+																				FC Nantes",506,19,0,0.04
+,Michel Audrain,"Girondins Bordeaux
+																				Olympique Marseille
+																				Stade Laval
+																				Angers SCO",139,19,1,0.14
+,André Bailet,"AS Monaco
+																				FC Metz",105,19,0,0.18
+,Olivier Barthou,Girondins Bordeaux,58,19,0,0.33
+,Benjani,AJ Auxerre,72,19,0,0.26
+,Sadek Boukhalfa,"FC Metz
+																				FC Nantes",65,19,0,0.29
+,Vincent Bracigliano,"FC Metz
+																				FC Nantes",375,19,0,0.05
+,Benoît Cauet,"Paris Saint-Germain
+																				SC Bastia
+																				FC Nantes
+																				Olympique Marseille
+																				SM Caen",293,19,0,0.06
+,Gaëtan Charbonnier *,"Montpellier HSC
+																				Stade Reims",111,19,2,0.17
+,Laurent Charvet,AS Cannes,102,19,0,0.19
+,Renaud Cohade *,"FC Metz
+																				RC Strasbourg
+																				AS Saint-Étienne
+																				Valenciennes FC",325,19,3,0.06
+,Charles-Edouard Coridon,"EA Guingamp
+																				RC Lens",226,19,0,0.08
+,El-Hadji Diouf,"RC Lens
+																				Stade Rennes",97,19,2,0.20
+,Fernando Menegazzo,Girondins Bordeaux,190,19,1,0.10
+,Per Frandsen,Lille OSC,109,19,5,0.17
+,Rémi Garde,"Olympique Lyon
+																				RC Strasbourg",180,19,10,0.11
+,Ernesto Gianella,"AS Monaco
+																				OGC Nice
+																				Stade Reims
+																				Nîmes Olympique",65,19,0,0.29
+,Bruno Grougi,Stade Brest,97,19,7,0.20
+,Michel Joly,"RC Lens
+																				Valenciennes FC
+																				Avenir Club Avignonnais",252,19,10,0.08
+,Karounga Keïta,Girondins Bordeaux,81,19,0,0.23
+,Seydou Keita,RC Lens,181,19,1,0.10
+,Marc Keller,"RC Strasbourg
+																				FC Mulhouse",126,19,0,0.15
+,Jean-Michel Lachot,"Lille OSC
+																				AS Cannes
+																				FC Rouen",40,19,0,0.48
+,Roger Lemerre,"FC Nantes
+																				CS Sedan",393,19,2,0.05
+,Gaston Mobati,Lille OSC,74,19,2,0.26
+,Vahidin Musemić,OGC Nice,42,19,2,0.45
+,Bruno N'Gotty,"Paris Saint-Germain
+																				Olympique Lyon",320,19,0,0.06
+,Casimir Ninga *,"Montpellier HSC
+																				SM Caen",95,19,1,0.20
+,Paul-Georges Ntep *,"Stade Rennes
+																				AS Saint-Étienne",87,19,0,0.22
+,Boro Primorac,"Lille OSC
+																				AS Cannes",182,19,8,0.10
+,Stéphane Roche,"Olympique Lyon
+																				SM Caen",148,19,0,0.13
+,Jean-Philippe Rohr,"AS Monaco
+																				FC Metz
+																				OGC Nice",237,19,2,0.08
+,Yannis Salibur *,"EA Guingamp
+																				AS Saint-Étienne",113,19,1,0.17
+,Paul Sauvage,"Stade Reims
+																				Valenciennes FC",59,19,1,0.32
+,Didier Sénac,"Girondins Bordeaux
+																				RC Lens",501,19,0,0.04
+* Active player,NA,NA,NA,NA,NA,NA
+801,Stéphane Sessègnon *,"Paris Saint-Germain
+																				Montpellier HSC
+																				Le Mans FC",181,19,0,0.10
+,Éric Sikora,RC Lens,434,19,5,0.04
+,Vladimír Šmicer,"Girondins Bordeaux
+																				RC Lens",119,19,1,0.16
+,Franck Tabanou *,"Toulouse FC
+																				AS Saint-Étienne",231,19,1,0.08
+,Dominique Vésir,"Stade Rennes
+																				AS Saint-Étienne
+																				Valenciennes FC",129,19,0,0.15
+,Hubert Zenier,"SC Bastia
+																				AS Nancy
+																				Angers SCO",141,19,0,0.13
+807,Cédric Bakambu *,FC Sochaux,94,18,1,0.19
+,Nicolas Benezet *,"EA Guingamp
+																				SM Caen
+																				Évian Thonon Gaillard",130,18,0,0.14
+,René Bocchi,"Olympique Lyon
+																				Lille OSC
+																				OGC Nice",190,18,2,0.09
+,Marcel Boyron,Nîmes Olympique,141,18,0,0.13
+,Roberto Cabañas,"Olympique Lyon
+																				Stade Brest",47,18,7,0.38
+,Souleymane Camara,"Stade Laval
+																				Stade Reims",83,18,0,0.22
+,Stéphane Dedebant,"FC Sochaux
+																				SM Caen",165,18,2,0.11
+,Laurent Delamontagne,"Olympique Lyon
+																				Stade Rennes",181,18,0,0.10
+,Piet den Boer,"Girondins Bordeaux
+																				SM Caen",71,18,1,0.25
+,Jean-Pierre Di Salvio,CS Sedan,103,18,0,0.17
+,Étienne Didot *,"EA Guingamp
+																				Stade Rennes
+																				Toulouse FC",459,18,0,0.04
+,Jorge Domínguez,"OGC Nice
+																				Sporting Club de Toulon",74,18,1,0.24
+,Guy Dussaud,Nîmes Olympique,108,18,0,0.17
+,Gilbert Dussier,AS Nancy,52,18,0,0.35
+,Michael Essien *,"SC Bastia
+																				Olympique Lyon",137,18,0,0.13
+,Milan Galić,Stade Reims,55,18,3,0.33
+,Hervé Gauthier,"Lille OSC
+																				Stade Laval",267,18,0,0.07
+,Francis Gillot,"RC Lens
+																				RC Strasbourg
+																				Valenciennes FC",288,18,1,0.06
+,Yvon Giner,OGC Nice,89,18,0,0.20
+,Wilfried Gohel,"SC Bastia
+																				RC Strasbourg
+																				Valenciennes FC",165,18,0,0.11
+,Walter Kelsch,RC Strasbourg,67,18,0,0.27
+,Saber Khalifa,"Olympique Marseille
+																				Évian Thonon Gaillard",84,18,1,0.21
+,Laurent Leroy,"Paris Saint-Germain
+																				AS Cannes",119,18,0,0.15
+,Mariano *,Olympique Lyon,37,18,1,0.49
+,Aleksandr Mostovoy,"RC Strasbourg
+																				SM Caen",76,18,0,0.24
+,M'Baye Niang *,"Stade Rennes
+																				Montpellier HSC
+																				SM Caen",76,18,1,0.24
+,Ricky Owubokiri,"FC Metz
+																				Stade Laval",70,18,0,0.26
+,Jacky Paillard,"RC Strasbourg
+																				Toulouse FC
+																				Stade Laval",316,18,0,0.06
+,Pascal Pain,Le Havre AC,84,18,3,0.21
+,Bernard Pardo,"Girondins Bordeaux
+																				Olympique Marseille
+																				Sporting Club de Toulon
+																				Stade Brest",324,18,0,0.06
+,Jean-François Prigent,"FC Metz
+																				Stade Rennes
+																				FC Rouen
+																				Angoulême CFC",129,18,0,0.14
+,Vénancio Ramos,RC Lens,72,18,5,0.25
+,Rui Barros,"AS Monaco
+																				Olympique Marseille",98,18,0,0.18
+,Robert Sab,"RC Lens
+																				AJ Auxerre
+																				Le Havre AC",234,18,0,0.08
+,Henri Saivet *,"Girondins Bordeaux
+																				AS Saint-Étienne",161,18,1,0.11
+,Guy Senac,RC Lens,116,18,0,0.16
+,Sébastien Squillaci,"AS Monaco
+																				SC Bastia
+																				Olympique Lyon",276,18,0,0.07
+,Frank Vercauteren,FC Nantes,78,18,9,0.23
+,Florea Voinea,Nîmes Olympique,50,18,0,0.36
+,Aleksander Wolniak,Valenciennes FC,55,18,0,0.33
+,Jacek Ziober,Montpellier HSC,92,18,1,0.20
+848,Hervé Alicarte,"Girondins Bordeaux
+																				Montpellier HSC
+																				AC Ajaccio",161,17,1,0.11
+,Antoine Martínez,"Girondins Bordeaux
+																				Olympique Marseille
+																				AS Cannes",214,17,0,0.08
+,Yacine Bammou *,"FC Nantes
+																				SM Caen",134,17,1,0.13
+* Active player,NA,NA,NA,NA,NA,NA
+851,Marko Baša,"Lille OSC
+																				Le Mans FC",251,17,0,0.07
+,Bernard Baudet,Girondins Bordeaux,157,17,0,0.11
+,Chaouki Ben Saada *,"SC Bastia
+																				ESTAC Troyes
+																				OGC Nice",192,17,0,0.09
+,Dominique Bijotat,"AS Monaco
+																				Girondins Bordeaux",262,17,0,0.06
+,Valter Birsa *,"FC Sochaux
+																				AJ Auxerre",149,17,4,0.11
+,Francis Blanc,"AS Monaco
+																				Sporting Club de Toulon
+																				Angoulême CFC",185,17,0,0.09
+,Víctor Bonilla,"FC Nantes
+																				Toulouse FC",54,17,1,0.31
+,Benjamin Bourigeaud *,"RC Lens
+																				Stade Rennes",90,17,5,0.19
+,Roy Contout,"FC Sochaux
+																				FC Metz
+																				AJ Auxerre",191,17,0,0.09
+,Moumouni Dagano,"EA Guingamp
+																				FC Sochaux",96,17,1,0.18
+,Stéphane Dalmat,"Paris Saint-Germain
+																				FC Sochaux
+																				RC Lens
+																				Stade Rennes
+																				Olympique Marseille
+																				Toulouse FC
+																				LB Châteauroux",262,17,1,0.06
+,Thomas Deniaud,"AJ Auxerre
+																				Le Havre AC",96,17,0,0.18
+,Youssef El-Arabi *,SM Caen,41,17,2,0.41
+,Georges Eo,"FC Nantes
+																				Olympique Marseille
+																				Paris FC",185,17,2,0.09
+,Emerse Faé,"FC Nantes
+																				OGC Nice",195,17,1,0.09
+,Gérard Géorgin,"FC Nantes
+																				AC Ajaccio",132,17,0,0.13
+,Hugo González,Red Star FC,69,17,0,0.25
+,Grafite,Le Mans FC,51,17,1,0.33
+,Bernard Guignedoux,"AS Monaco
+																				Paris Saint-Germain
+																				Paris FC",162,17,2,0.10
+,André Gutierrez,FC Sochaux,145,17,0,0.12
+,Maurice Hardouin,"CS Sedan
+																				RC Strasbourg
+																				Valenciennes FC",92,17,0,0.18
+,David Hellebuyck,"Paris Saint-Germain
+																				AS Saint-Étienne
+																				OGC Nice",210,17,0,0.08
+,Niels-Christian Holmstrøm,Girondins Bordeaux,58,17,0,0.29
+,Brown Ideye *,FC Sochaux,52,17,0,0.33
+,Patrice Kervarrec,"FC Nantes
+																				AC Ajaccio",69,17,0,0.25
+,Jan Klijnjan,FC Sochaux,104,17,0,0.16
+,Christophe Landrin,"Paris Saint-Germain
+																				Lille OSC
+																				AS Saint-Étienne",273,17,0,0.06
+,Gérard Lanthier,"Stade Rennes
+																				AJ Auxerre",222,17,1,0.08
+,Thomas Lemar *,"AS Monaco
+																				SM Caen",115,17,0,0.15
+,Daisuke Matsui *,"AS Saint-Étienne
+																				Grenoble Foot 38
+																				Le Mans FC",148,17,0,0.11
+,Pierre Morice,"FC Nantes
+																				AS Saint-Étienne
+																				Chamois Niortais",209,17,4,0.08
+,Rubén Munoz,"RC Strasbourg
+																				Red Star FC
+																				AC Ajaccio",80,17,0,0.21
+,Carsten Nielsen,RC Strasbourg,113,17,0,0.15
+,Sébastien Pérez,"SC Bastia
+																				Olympique Marseille
+																				AS Saint-Étienne",212,17,0,0.08
+,Ronaldinho,Paris Saint-Germain,55,17,3,0.31
+,Wesley Saïd *,"Stade Rennes
+																				Dijon FCO",93,17,0,0.18
+,Daniel Sanlaville,"AS Saint-Étienne
+																				Nîmes Olympique",218,17,5,0.08
+,Ismaïla Sarr *,"FC Metz
+																				Stade Rennes",88,17,1,0.19
+,Théo Szkudlapski,AS Monaco,115,17,7,0.15
+,Taye Taïwo *,Olympique Marseille,191,17,5,0.09
+,Abdelhafid Tasfaout,"EA Guingamp
+																				AJ Auxerre",112,17,0,0.15
+,Serge Tulik,Angers SCO,56,17,0,0.30
+,Mustapha Yatabaré *,"EA Guingamp
+																				Montpellier HSC
+																				US Boulogne",80,17,2,0.21
+894,Maurice Bouquet,"AS Saint-Étienne
+																				FC Martigues
+																				Stade Brest",270,16,0,0.06
+,Claude Brény,CS Sedan,32,16,6,0.50
+,Bernard Caron,"CS Sedan
+																				AS Nancy
+																				Paris FC",196,16,0,0.08
+,Jacky Colin,"FC Sochaux
+																				Olympique Lyon",277,16,0,0.06
+,Wylan Cyprien *,"RC Lens
+																				OGC Nice",107,16,1,0.15
+,Michel Der Zakarian,"Montpellier HSC
+																				FC Nantes",373,16,0,0.04
+,Jean-Pierre Destrumelle,"Olympique Marseille
+																				FC Rouen",219,16,4,0.07
+* Active player,NA,NA,NA,NA,NA,NA
+901,Vikash Dhorasoo,"Girondins Bordeaux
+																				Olympique Lyon
+																				Le Havre AC",363,16,0,0.04
+,Loïs Diony *,"AS Saint-Étienne
+																				Dijon FCO",81,16,0,0.20
+,Jan Domarski,Nîmes Olympique,59,16,3,0.27
+,Daniel Druda,"FC Rouen
+																				AS Nancy",243,16,0,0.07
+,Ralf Edström,AS Monaco,49,16,2,0.33
+,André Ferri,"Girondins Bordeaux
+																				Olympique Lyon
+																				OGC Nice
+																				Angers SCO",266,16,0,0.06
+,René Fioroni,OGC Nice,109,16,0,0.15
+,Herve Flak,"RC Lens
+																				Olympique Marseille",291,16,0,0.05
+,Philippe Goubet,Girondins Bordeaux,203,16,0,0.08
+,Sébastien Grax,"FC Sochaux
+																				ESTAC Troyes",80,16,2,0.20
+,Jirès Kembo Ekoko *,Stade Rennes,110,16,1,0.15
+,Nouredine Kourichi,"Girondins Bordeaux
+																				Lille OSC
+																				Valenciennes FC",225,16,0,0.07
+,Eric Lada,"FC Sochaux
+																				Toulouse FC",154,16,0,0.10
+,César Laraignée,Stade Reims,180,16,2,0.09
+,Piero Lattuada,Girondins Bordeaux,98,16,1,0.16
+,Lucas Pereira,AC Ajaccio,62,16,0,0.26
+,Kader Mangane,"RC Lens
+																				Stade Rennes
+																				RC Strasbourg
+																				GFC Ajaccio",175,16,0,0.09
+,Fodé Mansaré,"Montpellier HSC
+																				Toulouse FC",222,16,1,0.07
+,Jean-Louis Massé,"AS Monaco
+																				Girondins Bordeaux
+																				FC Metz",91,16,0,0.18
+,Thierry Moreau,"Toulouse FC
+																				Le Havre AC",203,16,1,0.08
+,Slavoljub Muslin,"Lille OSC
+																				Stade Brest",171,16,2,0.09
+,Ivica Osim,"CS Sedan
+																				RC Strasbourg
+																				Valenciennes FC",132,16,1,0.12
+,Fabrice Pancrate,"Paris Saint-Germain
+																				FC Sochaux
+																				Le Mans FC",168,16,0,0.10
+,Paulo Cesar,Olympique Marseille,31,16,6,0.52
+,Ignacio Peña,"FC Rouen
+																				Stade Reims",61,16,1,0.26
+,Jaques Perdrieau,"AJ Auxerre
+																				AS Nancy",333,16,0,0.05
+,Robert Péri,"Girondins Bordeaux
+																				Stade Français
+																				Angoulême CFC",219,16,0,0.07
+,Laurent Peyrelade,"FC Nantes
+																				Lille OSC
+																				CS Sedan
+																				Le Mans FC",101,16,0,0.16
+,Osvaldo Piazza,AS Saint-Étienne,244,16,0,0.07
+,Michel Pineda Ozaeta,"AJ Auxerre
+																				Sporting Club de Toulon",103,16,0,0.16
+,Yannick Sagbo *,Évian Thonon Gaillard,87,16,5,0.18
+,Jean-Luc Sassus,"Paris Saint-Germain
+																				Olympique Lyon
+																				AS Cannes
+																				Toulouse FC",368,16,0,0.04
+,Olivier Sorlin,"AS Monaco
+																				Stade Rennes
+																				Montpellier HSC
+																				Évian Thonon Gaillard",386,16,0,0.04
+,Jean-Claude Suaudeau,FC Nantes,170,16,0,0.09
+,Jean-Roch Testa,"SC Bastia
+																				Le Havre AC
+																				Sporting Club de Toulon",111,16,0,0.14
+,Didier Thimothée,"Montpellier HSC
+																				SM Caen
+																				AS Saint-Étienne",58,16,0,0.28
+,Adrien Thomasson *,"FC Nantes
+																				RC Strasbourg
+																				Évian Thonon Gaillard",155,16,0,0.10
+,Amara Traoré,"FC Metz
+																				FC Gueugnon
+																				LB Châteauroux",75,16,0,0.21
+,Thierry Tusseau,"Girondins Bordeaux
+																				FC Nantes
+																				Racing Club de France",377,16,0,0.04
+,Valdeir,Girondins Bordeaux,61,16,0,0.26
+941,Benjamin André *,"Stade Rennes
+																				AC Ajaccio",250,15,0,0.06
+,Djamel Bakar,"AS Monaco
+																				Montpellier HSC
+																				AS Nancy",183,15,0,0.08
+,Jean-Claude Blanchard,"SC Bastia
+																				Stade Reims",48,15,0,0.31
+,Guido Carrillo *,AS Monaco,65,15,0,0.23
+,André Chorda,"Girondins Bordeaux
+																				OGC Nice",317,15,5,0.05
+,Lilian Compan,"Montpellier HSC
+																				AS Cannes
+																				SM Caen
+																				AS Saint-Étienne",99,15,1,0.15
+,Michel Decastel,RC Strasbourg,73,15,0,0.21
+,Abdoulaye Diallo,Olympique Marseille,139,15,0,0.11
+,Marcel Dib,AS Monaco,353,15,0,0.04
+,Jean-Jacques Etamé,"SC Bastia
+																				Lille OSC
+																				RC Strasbourg
+																				AS Cannes
+																				SM Caen",174,15,0,0.09
+* Active player,NA,NA,NA,NA,NA,NA
+951,Eugeniusz Faber,RC Lens,55,15,5,0.27
+,Eduardo Florès,AS Nancy,42,15,0,0.36
+,David Gigliotti,"AS Monaco
+																				ESTAC Troyes
+																				AS Saint-Étienne",84,15,1,0.18
+,Jérôme Gnako,"AS Monaco
+																				OGC Nice",133,15,2,0.11
+,Daniel Gomez,"Red Star FC
+																				Nîmes Olympique",110,15,0,0.14
+,Patrick Gonfalone,"AJ Auxerre
+																				Angers SCO",158,15,0,0.09
+,Lucho González *,Olympique Marseille,87,15,0,0.17
+,Claude Guilas,AS Monaco,65,15,0,0.23
+,Laurent Huard,"Stade Rennes
+																				CS Sedan
+																				AS Saint-Étienne",195,15,0,0.08
+,Mickaël Isabey,FC Sochaux,264,15,0,0.06
+,Jonathan Jäger,FC Metz,78,15,0,0.19
+,Fantamady Keita,Stade Rennes,52,15,0,0.29
+,Loïc Lambert,"Stade Rennes
+																				Stade Laval
+																				AS Saint-Étienne",316,15,4,0.05
+,Sylvain Legwinski,"AS Monaco
+																				Girondins Bordeaux",184,15,0,0.08
+,Daniel Lubin,"FC Sochaux
+																				Olympique Lyon",129,15,0,0.12
+,Khennane Mahi,"Toulouse FC
+																				Nîmes Olympique",40,15,3,0.38
+,Patrice Marquet,"Paris Saint-Germain
+																				Girondins Bordeaux
+																				AS Cannes
+																				Le Havre AC
+																				Sporting Club de Toulon",186,15,5,0.08
+,Thierry Massa,OGC Nice,77,15,0,0.19
+,Victor Mosa,"SC Bastia
+																				Stade Rennes",157,15,0,0.10
+,Samba N'Diaye,"FC Metz
+																				FC Nantes
+																				Lille OSC",115,15,2,0.13
+,Roman Ogaza,RC Lens,63,15,1,0.24
+,Paulo Machado *,"Toulouse FC
+																				AS Saint-Étienne",124,15,4,0.12
+,Jean-Marc Pilorget,"Paris Saint-Germain
+																				AS Cannes",400,15,0,0.04
+,Éric Rabésandratana,"Paris Saint-Germain
+																				AS Nancy",191,15,0,0.08
+,Uwe Reinders,Girondins Bordeaux,46,15,4,0.33
+,Patrick Rémy,"FC Metz
+																				AJ Auxerre",136,15,0,0.11
+,Rui Pataca,Montpellier HSC,53,15,0,0.28
+,Jean-Marc Schaer,"AJ Auxerre
+																				AS Saint-Étienne
+																				OGC Nice",89,15,0,0.17
+,Silvio Serafin,Angers SCO,81,15,0,0.19
+,Blaž Slišković,"RC Lens
+																				Olympique Marseille
+																				FC Mulhouse",94,15,2,0.16
+,Mile Sterjovski,Lille OSC,91,15,1,0.16
+,Piotr Świerczewski,"SC Bastia
+																				Olympique Marseille
+																				AS Saint-Étienne",277,15,0,0.05
+,Ryszard Tarasiewicz,AS Nancy,54,15,2,0.28
+,Daniel Thoirain,"SC Bastia
+																				ESTAC Troyes",132,15,2,0.11
+,Guy Van Sam,Racing Club de France,29,15,1,0.52
+,Engin Verel,Lille OSC,57,15,0,0.26
+,Frank Verlaat,AJ Auxerre,109,15,8,0.14
+,Finn Wiberg,AS Nancy,66,15,0,0.23
+,Nebojša Zlatarić,"Olympique Marseille
+																				Valenciennes FC
+																				Paris FC",65,15,0,0.23
+990,Salah Assad,"Paris Saint-Germain
+																				FC Mulhouse",35,14,0,0.40
+,Ibrahim Ba,"Girondins Bordeaux
+																				Le Havre AC",172,14,0,0.08
+,Ángel Bargas,"FC Metz
+																				FC Nantes",252,14,4,0.06
+,Alain Barret,FC Nantes,76,14,0,0.18
+,Armando Bianchi,"Paris Saint-Germain
+																				FC Rouen
+																				Nîmes Olympique",90,14,5,0.16
+,Sofiane Boufal *,Lille OSC,43,14,4,0.33
+,Razak Boukari *,"RC Lens
+																				Stade Rennes",141,14,1,0.10
+,Samuel Boutal,ESTAC Troyes,80,14,1,0.18
+,François Bracci,"Girondins Bordeaux
+																				Olympique Marseille
+																				RC Strasbourg",392,14,0,0.04
+,Michaël Ciani,"Girondins Bordeaux
+																				FC Lorient",216,14,0,0.06
+,Édouard Cissé,"AS Monaco
+																				Paris Saint-Germain
+																				Stade Rennes
+																				AJ Auxerre
+																				Olympique Marseille",327,14,0,0.04
+* Active player,NA,NA,NA,NA,NA,NA
