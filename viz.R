@@ -243,17 +243,229 @@ write_csv(chartData,"chartData.csv")
 chartData <- read_csv("chartData.csv")
 
 chartData %>%
-  ggplot(aes(y=scaledRate,x=key))+
-  geom_violin() +
-  geom_point(data=(chartData %>% filter(rank<=4))) +
-  geom_text_repel(data=(chartData %>% filter(rank<=4)),aes(label=label)) +
+  mutate(sport=str_extract(key,"[a-zA-Z0-9]+ -"),
+           sport=str_remove(sport," -")) -> chartData
+
+chartData %>%
+  ggplot(aes(y=scaledRate,x=key,fill=sport,colour=sport))+
+  geom_violin(show.legend = F) +
+  geom_point(data=(chartData %>% filter(rank<=4)),colour="grey50",show.legend = F) +
+  geom_text_repel(data=(chartData %>% filter(rank<=4)),
+                  aes(label=label),
+                  colour="grey50") +
   coord_flip() +
-  labs(title="Bradman is further from his nearest peer in his sport than anyone else",
-       subtitle="This is despite not being as an extreme outlier as others in scale")
-  
-#filter down main vis + format
+  scale_x_discrete("")+
+  scale_y_continuous("Performance vs Average (Std.Dev. from Mean)")+
+  scale_color_manual("Sport",
+                     values=c("#9CFFFA","#F5FFC6","#AB87FF","#FFACE4"),
+                     aesthetics = c("colour","fill"))+
+  labs(title="Sports biggest outliers",
+       subtitle="Bradman's test cricket average is the most peerless record in sport.\nOther records are more extreme in scale, but no one else has such huge gap to No.2.",
+       caption="Viz by @stevejburr - Data from espncricinfo, atptour.com, Wikipedia and worldfootball.net") +
+  theme_minimal() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        text=element_text(colour="grey50",size=16),
+        axis.text=element_text(colour="grey50"),
+        axis.title=element_text(colour="grey50")) -> all
 
-#note that these aren't perfect measures and some are capped at certain values...
 
-#do seperate viz for F1 (x3 measures)
-#do seperate viz for Tennis (x3 measures)
+#left align all titles
+g1 <- ggplotGrob(all)
+g1$layout
+g1$layout$l[g1$layout$name == "title"] <- 2
+g1$layout$l[g1$layout$name == "subtitle"] <- 2
+
+
+ggsave("full.png",plot=g1,units="in",dpi=72,width=700/72,height=700/72)
+
+
+mainKeys <- c("Tennis - Win Rate (clay)","Cricket - Test average","F1 - Pole Position %","Football - Goal rate (top scorers since 1990)")
+
+chartData %>%
+  filter(key %in% mainKeys)%>%
+  ggplot(aes(y=scaledRate,x=key,fill=sport,colour=sport))+
+  geom_violin(show.legend = F) +
+  geom_point(data=(chartData %>% filter(rank<=4) %>% filter(key %in% mainKeys)),colour="grey50",show.legend = F) +
+  geom_text_repel(data=(chartData %>% filter(rank<=4) %>% filter(key %in% mainKeys)),
+                  aes(label=label),
+                  colour="grey50") +
+  coord_flip() +
+  scale_x_discrete("")+
+  scale_y_continuous("Performance vs Average (Std.Dev. from Mean)")+
+  scale_color_manual("Sport",
+                     values=c("#9CFFFA","#F5FFC6","#AB87FF","#FFACE4"),
+                     aesthetics = c("colour","fill"))+
+  labs(title="Sports biggest outliers",
+       subtitle="Bradman's test cricket average is the most peerless record in sport.\nOther records are more extreme in scale, but no one else has such huge gap to No.2.",
+       caption="Viz by @stevejburr - Data from espncricinfo, atptour.com, Wikipedia and worldfootball.net") +
+  theme_minimal() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        text=element_text(colour="grey50",size=16),
+        axis.text=element_text(colour="grey50"),
+        axis.title=element_text(colour="grey50")) -> main
+
+
+#left align all titles
+g2 <- ggplotGrob(main)
+g2$layout
+g2$layout$l[g2$layout$name == "title"] <- 2
+g2$layout$l[g2$layout$name == "subtitle"] <- 2
+
+
+ggsave("main.png",plot=g2,units="in",dpi=72,width=700/72,height=700/72)
+
+
+
+chartData %>%
+  filter(sport=="Tennis")%>%
+  ggplot(aes(y=scaledRate,x=key,fill=sport,colour=sport))+
+  geom_violin(show.legend = F) +
+  geom_point(data=(chartData %>% filter(rank<=6) %>% filter(sport=="Tennis")),colour="grey50",show.legend = F) +
+  geom_text_repel(data=(chartData %>% filter(rank<=6) %>% filter(sport=="Tennis")),
+                  aes(label=label),
+                  colour="grey50") +
+  coord_flip() +
+  scale_x_discrete("")+
+  scale_y_continuous("Performance vs Average (Std.Dev. from Mean)")+
+  scale_color_manual("Sport",
+                     values=c("#9CFFFA","#F5FFC6","#AB87FF","#FFACE4"),
+                     aesthetics = c("colour","fill"))+
+  labs(title="Nadal is exceptional on clay, but overall all the greats have similar win rates",
+       subtitle="",
+       caption="Viz by @stevejburr - Data from atptour.com") +
+  theme_minimal() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        text=element_text(colour="grey50",size=16),
+        axis.text=element_text(colour="grey50"),
+        axis.title=element_text(colour="grey50")) -> tennis
+
+
+#left align all titles
+g3 <- ggplotGrob(tennis)
+g3$layout
+g3$layout$l[g3$layout$name == "title"] <- 2
+g3$layout$l[g3$layout$name == "subtitle"] <- 2
+
+
+ggsave("tennis.png",plot=g3,units="in",dpi=72,width=700/72,height=700/72)
+
+
+
+
+
+
+chartData %>%
+  filter(sport=="F1")%>%
+  ggplot(aes(y=scaledRate,x=key,fill=sport,colour=sport))+
+  geom_violin(show.legend = F) +
+  geom_point(data=(chartData %>% filter(rank<=6) %>% filter(sport=="F1")),colour="grey50",show.legend = F) +
+  geom_text_repel(data=(chartData %>% filter(rank<=6) %>% filter(sport=="F1")),
+                  aes(label=label),
+                  colour="grey50") +
+  coord_flip() +
+  scale_x_discrete("")+
+  scale_y_continuous("Performance vs Average (Std.Dev. from Mean)")+
+  scale_color_manual("Sport",
+                     values=c("#9CFFFA","#F5FFC6","#AB87FF","#FFACE4"),
+                     aesthetics = c("colour","fill"))+
+  labs(title="Lewis Hamilton is one of the few modern drivers to get near the records set by the\nearly F1 greats",
+       subtitle="",
+       caption="Viz by @stevejburr - Data from Wikipedia") +
+  theme_minimal() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        text=element_text(colour="grey50",size=16),
+        axis.text=element_text(colour="grey50"),
+        axis.title=element_text(colour="grey50")) -> f1
+
+
+#left align all titles
+g4 <- ggplotGrob(f1)
+g4$layout
+g4$layout$l[g4$layout$name == "title"] <- 2
+g4$layout$l[g4$layout$name == "subtitle"] <- 2
+
+
+ggsave("f1.png",plot=g4,units="in",dpi=72,width=700/72,height=700/72)
+
+
+
+
+
+
+
+chartData %>%
+  filter(sport=="Football")%>%
+  ggplot(aes(y=scaledRate,x=key,fill=sport,colour=sport))+
+  geom_violin(show.legend = F) +
+  geom_point(data=(chartData %>% filter(rank<=6) %>% filter(sport=="Football")),colour="grey50",show.legend = F) +
+  geom_text_repel(data=(chartData %>% filter(rank<=6) %>% filter(sport=="Football")),
+                  aes(label=label),
+                  colour="grey50") +
+  coord_flip() +
+  scale_x_discrete("")+
+  scale_y_continuous("Performance vs Average (Std.Dev. from Mean)")+
+  scale_color_manual("Sport",
+                     values=c("#9CFFFA","#F5FFC6","#AB87FF","#FFACE4"),
+                     aesthetics = c("colour","fill"))+
+  labs(title="Messi has an outstanding scoring rate for the modern game, but Ronaldo is also\nwell clear of the chasing pack. Their feats stand out less in the longer historical context.",
+       subtitle="Top 5 European Leagues and European Competitions",
+       caption="Viz by @stevejburr - Data from worldfootball.net") +
+  theme_minimal() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        text=element_text(colour="grey50",size=16),
+        axis.text=element_text(colour="grey50"),
+        axis.title=element_text(colour="grey50")) -> football
+
+
+#left align all titles
+g5 <- ggplotGrob(football)
+g5$layout
+g5$layout$l[g5$layout$name == "title"] <- 2
+g5$layout$l[g5$layout$name == "subtitle"] <- 2
+
+
+ggsave("football.png",plot=g5,units="in",dpi=72,width=700/72,height=700/72)
+
+
+
+
+
+
+chartData %>%
+  filter(sport=="Cricket")%>%
+  ggplot(aes(y=scaledRate,x=key,fill=sport,colour=sport))+
+  geom_violin(show.legend = F) +
+  geom_point(data=(chartData %>% filter(rank<=6) %>% filter(sport=="Cricket")),colour="grey50",show.legend = F) +
+  geom_text_repel(data=(chartData %>% filter(rank<=6) %>% filter(sport=="Cricket")),
+                  aes(label=label),
+                  colour="grey50") +
+  coord_flip() +
+  scale_x_discrete("")+
+  scale_y_continuous("Performance vs Average (Std.Dev. from Mean)")+
+  scale_color_manual("Sport",
+                     values=c("#9CFFFA","#F5FFC6","#AB87FF","#FFACE4"),
+                     aesthetics = c("colour","fill"))+
+  labs(title="Bradman's test batting average (99.9) stands alone, the five closest competitors\nare in the 60s.",
+       subtitle="",
+       caption="Viz by @stevejburr - Data from espncricinfo") +
+  theme_minimal() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        text=element_text(colour="grey50",size=16),
+        axis.text=element_text(colour="grey50"),
+        axis.title=element_text(colour="grey50")) -> cricket
+
+
+#left align all titles
+g6 <- ggplotGrob(cricket)
+g6$layout
+g6$layout$l[g6$layout$name == "title"] <- 2
+g6$layout$l[g6$layout$name == "subtitle"] <- 2
+
+
+ggsave("cricket.png",plot=g6,units="in",dpi=72,width=700/72,height=700/72)
