@@ -411,7 +411,7 @@ chartData %>%
   scale_color_manual("Sport",
                      values=c("#9CFFFA","#F5FFC6","#AB87FF","#FFACE4"),
                      aesthetics = c("colour","fill"))+
-  labs(title="Messi has an outstanding scoring rate for the modern game, but Ronaldo is also\nwell clear of the chasing pack. Their feats stand out less in the longer historical context.",
+  labs(title="Messi has an outstanding scoring rate for the modern game, but Ronaldo is also\nwell clear of the chasing pack.\nTheir feats stand out less in the longer historical context.",
        subtitle="Top 5 European Leagues and European Competitions",
        caption="Viz by @stevejburr - Data from worldfootball.net") +
   theme_minimal() +
